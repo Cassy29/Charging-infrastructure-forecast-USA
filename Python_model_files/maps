@@ -1,0 +1,631 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Aug 16 16:11:00 2019
+
+@author: katrinstricker
+"""
+
+# Libraries
+import pandas as pd
+from mpl_toolkits.basemap import Basemap
+import matplotlib.pyplot as plt
+import numpy as np
+
+#cal data
+
+CAL = pd.read_csv("CAL_housing_data_model_clean_LV.csv")
+-------
+import pandas as pd
+cities = pd.read_csv('data/california_cities.csv')
+CAL = pd.read_csv("CAL_housing_data_model_clean_LV.csv")
+
+# Extract the data we're interested in
+lat = CAL['lat'].values
+lon = CAL['long'].values
+Charger = (CAL['CAL_CS_2019']).values
+EV = (CAL['EV_reg_2018']).values
+
+# 1. Draw the map background
+fig = plt.figure(figsize=(12, 12))
+m = Basemap(projection='lcc', resolution='h', 
+            lat_0=37.5, lon_0=-119,
+            width=1E6, height=1.2E6)
+m.shadedrelief()
+m.drawcoastlines(color='gray')
+m.drawcountries(color='gray')
+m.drawstates(color='gray')
+
+# 2. scatter city data, with color reflecting population
+# and size reflecting area
+m.scatter(lon, lat, latlon=True,
+          c=EV, s=Charger,
+          cmap='Reds', alpha=0.5)
+plt.show()
+# 3. create colorbar and legend
+plt.show()
+plt.colorbar(label='EV Charger Density')
+plt.clim(100, 300, 500)
+
+---------
+x, y = m(-122.3, 47.6)
+plt.plot(x, y, 'ok', markersize=5)
+plt.text(x, y, ' Seattle', fontsize=12)
+----
+
+# make legend with dummy points
+for a in [100, 300, 500]:
+    plt.scatter([], [], c='k', alpha=0.5, s=a,
+                label=str(a) + ' km$^2$')
+plt.legend(scatterpoints=1, frameon=False,
+           labelspacing=1, loc='lower left');
+--
+# c is the attribute we'll map onto colors, s is the attribute we'll represent with circle size.
+CAL.plot(kind="scatter", x="long", y="lat",
+    s=US["CAL_CS_2019"], label="Charging stations",
+    c=US['EV_total_2025'], cmap=plt.get_cmap("jet"),
+    colorbar=True, alpha=0.1, figsize=(10,7),
+)
+plt.legend()
+plt.show()
+----------
+import numpy as np
+import matplotlib.pyplot as plt
+from mpl_toolkits.basemap import Basemap
+import pandas as pd 
+
+#Hope you have downloaded the data. Read it with pandas
+CAL = pd.read_csv("CAL_housing_data_model_clean_LV.csv")
+
+#initiate the figure with it's size
+fig = plt.figure(figsize = (8, 8))
+
+#initialize the Basemap with appropriate arguments. These will be discussed later.
+m = Basemap(projection = 'lcc', resolution='f', lat_0 = 37.5, lon_0 = -119,width=1E6, height=1.2E6)
+m.bluemarble()
+m.drawmapboundary()
+m.drawrivers()
+m.drawcoastlines()
+m.drawcountries()
+m.drawstates()
+
+# Scatter plot with latitude and longitude values customizing color with median_house_value and median_income
+m.scatter(CAL['long'].values, 
+		  CAL['lat'].values,
+		  latlon = True,
+		  c = CAL['CAL_CS_2019'],
+		  s = CAL['EV_total_2025'],
+		  cmap = 'viridis',
+		  edgecolors = 'none')
+
+#put a colorbar
+plt.colorbar()
+
+#save and show
+plt.show()
+-----
+
+#initiate the figure with it's size
+fig = plt.figure(figsize = (8, 8))
+
+#initialize the Basemap with appropriate arguments. These will be discussed later.
+m = Basemap(projection = 'lcc', resolution='f', lat_0 = 37.5, lon_0 = -119,width=1E6, height=1.2E6)
+-----
+#interactive map plotly
+from plotly.offline import plot
+import pandas as pd
+
+#read data
+df = pd.read_csv('housing.csv')
+
+#make a data dictionary
+data = [dict(
+			type = 'scattergeo',
+			lon = US['long'],
+			lat = US['lat'],
+			mode = 'markers',
+			marker = dict(
+			size = US['EV_total_2025'],
+			symbol = 'circle',
+			line = dict(
+						width=1,
+						color='rgba(102, 102, 102)'
+						),
+			colorscale = 'Viridis',
+			cmin = 0,
+			color = US['EV_total_2025'],
+			cmax = US['EV_total_2025'].max(),
+			colorbar=dict(
+						title="Median House Value"
+						)
+
+        ))]
+
+#define the layout
+layout = dict(
+			title = 'EV in California 2025',
+			geo = dict(
+        			resolution = 50,
+        			scope = 'usa',
+					showland = True,
+					landcolor = "rgb(250, 250, 250)",
+					subunitcolor = "rgb(217, 217, 217)",
+					countrycolor = "rgb(217, 217, 217)",
+					countrywidth = 0.5,
+					subunitwidth = 0.5,
+					center = dict(
+								lon = -121.0,
+								lat = 35.0
+								),
+					projection = dict(
+								scale = 0.4
+								),
+					lonaxis = dict(
+								 range= [ -127.0, -114.0 ]
+								 ),
+					lataxis = dict(
+								 range= [ 35.0, 38.0 ] 
+								 ),
+					),
+			)
+#add data and layout to figure
+fig = dict(
+		data=data,
+		layout=layout
+		)
+#plot
+plot(fig)
+
+--------------
+#necessary imports
+
+
+-----------------
+
+newyork = pd.read_csv("NY_housing_data_clean_model_LV.csv")
+# Set the dimension of the figure
+my_dpi=96
+plt.figure(figsize=(2600/my_dpi, 1800/my_dpi), dpi=my_dpi)
+ 
+# read the data (on the web)
+
+# set resolution=None to skip processing of boundary datasets.
+m = Basemap(width=12000000,height=9000000,projection='lcc',
+            resolution=None,lat_1=45.,lat_2=55,lat_0=50,lon_0=-107.)
+m.shadedrelief() 
+
+------
+#BUBBLECHART
+import seaborn as sns
+ 
+# create data
+df = pd.read_csv("NY_graphs.csv")
+df.head(10)
+x = df['EV_per_100k']
+y = df['EV_per_CS']
+
+z = 62
+z=z*z
+ 
+# Change color with c and alpha. I map the color to the X axis value.
+plt.scatter(x, y, c=x, cmap="Blues", alpha=0.4, edgecolors="grey", linewidth=2)
+ 
+# Add titles (main and on axis)
+plt.xlabel("the X axis")
+plt.ylabel("the Y axis")
+plt.title("A colored bubble plot")
+ 
+plt.show()
+
+
+---------
+#BOUNDARIES
+
+# Libraries
+from mpl_toolkits.basemap import Basemap
+import matplotlib.pyplot as plt
+
+ 
+# Initialize the map
+map = Basemap(llcrnrlon=-160, llcrnrlat=-60,urcrnrlon=160,urcrnrlat=70)
+
+ 
+# Continent and countries!
+map.drawmapboundary(fill_color='#A6CAE0')
+map.fillcontinents(color='#e6b800',lake_color='#e6b800')
+map.drawcountries(color="white")
+plt.show()
+
+--------
+# libraries
+from mpl_toolkits.basemap import Basemap
+import matplotlib.pyplot as plt
+ 
+# Control the position of the square. Give the coordinate of 2 corners
+m=Basemap(llcrnrlon=--119, llcrnrlat=-22,urcrnrlon=-64,urcrnrlat=49)
+ 
+# Draw the components of the map
+m.drawmapboundary(fill_color='#A6CAE0', linewidth=0)
+m.fillcontinents(color='brown', alpha=0.6, lake_color='grey')
+m.drawcoastlines(linewidth=0.1, color="white")
+plt.show()
+-------
+
+import matplotlib.pyplot as plt
+from mpl_toolkits.basemap import Basemap
+from geopy.geocoders import Nominatim
+import math
+
+cities = [["Chicago",10],
+          ["Boston",10],
+          ["New York",5],
+          ["San Francisco",25]]
+scale = 5
+
+map = Basemap(llcrnrlon=-119,llcrnrlat=22,urcrnrlon=-64,urcrnrlat=49,
+        projection='lcc',lat_1=32,lat_2=45,lon_0=-95)
+
+# load the shapefile, use the name 'states'
+map.readshapefile('UScounties', name='counties', drawbounds=True)
+
+# Get the location of each city and plot it
+geolocator = Nominatim()
+for (city,count) in cities:
+    loc = geolocator.geocode(city)
+    x, y = map(loc.longitude, loc.latitude)
+    map.plot(x,y,marker='o',color='Red',markersize=int(math.sqrt(count))*scale)
+plt.show()
+---------
+
+fig, ax = plt.subplots(figsize=(20,20))
+map = Basemap(llcrnrlon=-124.48,llcrnrlat=32.53,urcrnrlon=-114.13,urcrnrlat=42.01,
+             resolution='c', projection='ortho', lat_0 =  36.778259, lon_0 = -119.417)
+#westlimit=-124.48; southlimit=32.53; eastlimit=-114.13; northlimit=42.01
+map.drawmapboundary(fill_color='aqua')
+map.fillcontinents(color='#f2f2f2',lake_color='#46bcec')
+map.drawcoastlines()
+map.readshapefile('UScounties', name='counties', drawbounds=True)
+plt.show()
+--------
+#location city with geopy
+
+from geopy.geocoders import Nominatim
+geolocator = Nominatim()
+loc = geolocator.geocode("New York, NY")
+loc
+
+#output
+Location((40.7305991, -73.9865811, 0.0))
+
+------------
+
+# Map with values
+
+import pandas as pd
+NY = pd.read_csv('NY_graphs.csv')
+
+# Extract the data we're interested in
+lat = np.array(NY['y'])
+lon = np.array(NY['x'])
+EV_per_pop = np.array(NY['EV_per_pop100'])
+EV_per_CS = np.array(NY['EV_per_CS'])
+
+# 1. Draw the map background
+fig = plt.figure(figsize=(8, 8))
+m = Basemap(projection='lcc', resolution='h', 
+            lat_0=37.5, lon_0=-119,
+            width=1E6, height=1.2E6)
+m.shadedrelief()
+m.drawcoastlines(color='gray')
+m.drawcountries(color='gray')
+m.drawstates(color='gray')
+
+# 2. scatter city data, with color reflecting population
+# and size reflecting area
+m.scatter(lon, lat, latlon=True,
+          c= np.log(EV_per_pop), s=np.log(EV_per_CS),
+          cmap='Reds', alpha=0.5)
+
+m.scatter(lon, lat, c=EV_per_pop, s=EV_per_CS, marker = 'o', color='r', zorder=5)
+
+# 3. create colorbar and legend
+plt.colorbar(label=r'$\log_{10}({\rm population})$')
+plt.clim(3, 7)
+
+# make legend with dummy points
+for a in [100, 300, 500]:
+    plt.scatter([], [], c='k', alpha=0.5, s=a,
+                label=str(a) + ' km$^2$')
+plt.legend(scatterpoints=1, frameon=False,
+           labelspacing=1, loc='lower left');
+
+
+
+-----
+import pandas as pd
+import descartes
+import geopandas as gpd
+from shapely.geometry import Point, Polygon
+
+map = gpd.read_file('tl_2018_44_state10.shp')
+map.plot
+plt.show()
+
+df = pd.read_csv('NY_graphs.csv')
+crs = {'init': 'epsg4326'}
+df.head()
+df.describe()
+df.info()
+
+geometry = [Point(xy) for xy in zip(df["Longitude"], df["Latidude"])]
+geometry[:3]
+2,2figsize = 15,15
+geo_df = gpd.GeoDataFrame(df, crs = crs, geometry = geometry)
+geo_df.head()
+fig, ax = plt.subplots()
+map.plot(ax = ax, alpha = 0.4, color = "grey")
+geo_df[geo_df['NY_CS_2019'] == 0].plot(ax = ax, markersize = 20, color = "blue", marker = "o", label = "Neg")
+geo_df[geo_df['NY_CS_2019'] == 0].plot(ax = ax, markersize = 20, color = "red", marker = "^", label = "Pos")
+plt.legend(prop={'size': 15})
+
+fig = plt.figure(figsize=(8, 8))
+m = Basemap(projection='lcc', resolution='h', 
+            lat_0=42.5, lon_0=-79.42,
+            width=1E6, height=1.2E6)
+m.shadedrelief()
+
+url='http://nomads.ncep.noaa.gov:9090/dods/wave/nww3/nww3'+ mydate+'/nww3'+mydate+'_00z'
+
+mapUS = Basemap(projection='mill',
+            llcrnrlat = -90,
+            llcrnrlon = -180,
+            urcrnrlat = 90,
+            urcrnrlon = 180,
+            resolution='h')
+plt.show()
+
+
+mNY = Basemap(projection='mill',
+            llcrnrlat = 25,
+            llcrnrlon = -130,
+            urcrnrlat = 50,
+            urcrnrlon = -60,
+            resolution='l')
+
+mNY.drawcoastlines()
+mNY.drawcountries(linewidth=2)
+mY.drawstates(color='b')
+NYClat, NYClon = 40.7127, -74.0059
+xpt, ypt = mNY(NYClon, NYClat)
+mNY.plot(xpt, ypt, 'c*', markersize=15)
+
+
+-------
+#3D SCATTER PLOT
+
+from mpl_toolkits.mplot3d import axes3d
+import matplotlib.pyplot as plt
+from matplotlib import style
+
+style.use('ggplot')
+
+df = pd.read_csv('NY_graphs.csv')
+
+fig = plt.figure()
+ax1 = fig.add_subplot(111, projection='3d')
+
+x = df['EV_per_pop100']
+y = df['EV_per_CS']
+z = df['EV_new_reg_2018']
+
+x2 = [-1,-2,-3,-4,-5,-6,-7,-8,-9,-10]
+y2 = [-5,-6,-7,-8,-2,-5,-6,-3,-7,-2]
+z2 = [1,2,6,3,2,7,3,3,7,2]
+
+ax1.scatter(x, y, z, c='g', marker='o')
+ax1.scatter(x2, y2, z2, c ='r', marker='o')
+
+ax1.set_xlabel('x axis')
+ax1.set_ylabel('y axis')
+ax1.set_zlabel('z axis')
+
+plt.show()
+
+
+--------
+# 3d graph
+from mpl_toolkits.mplot3d import axes3d
+import matplotlib.pyplot as plt
+import numpy as np
+from matplotlib import style
+style.use('ggplot')
+
+fig = plt.figure()
+ax1 = fig.add_subplot(111, projection='3d')
+
+x3 = df['EV_per_pop100']
+y3 = df['EV_total_2025']
+z3 = np.zeros(10)
+
+dx = np.ones(10)
+dy = np.ones(10)
+dz = [1,2,3,4,5,6,7,8,9,10]
+
+ax1.bar3d(x3, y3, z3, dx, dy, dz)
+
+
+ax1.set_xlabel('x axis')
+ax1.set_ylabel('y axis')
+ax1.set_zlabel('z axis')
+
+plt.show()
+-----
+from mpl_toolkits import mplot3d
+fig = plt.figure()
+ax = plt.axes(projection="3d")
+
+num_bars = 62
+x_pos = x, (num_bars)
+y_pos = y, (num_bars)
+z_pos = [0] * num_bars
+x_size = np.ones(num_bars)
+y_size = np.ones(num_bars)
+z_size = [np.zeros(df.size)]
+
+ax.bar3d(x_pos, y_pos, z_pos, x_size, y_size, z_size, color='aqua')
+plt.show()
+--------
+#scatter plot with histogram
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Fixing random state for reproducibility
+#np.random.seed(19680801)
+
+# the random data
+df = pd.read_csv("NY_graphs.csv")
+x = df['EV_per_CS']
+y = df['EV_new_reg_2018']
+
+# definitions for the axes
+left, width = 0.1, 0.65
+bottom, height = 0.1, 0.65
+spacing = 0.5
+
+
+rect_scatter = [left, bottom, width, height]
+rect_histx = [left, bottom + height + spacing, width, 0.2]
+rect_histy = [left + width + spacing, bottom, 0.2, height]
+
+# start with a rectangular Figure
+plt.figure(figsize=(8, 8))
+
+ax_scatter = plt.axes(rect_scatter)
+ax_scatter.tick_params(direction='in', top=True, right=True)
+ax_histx = plt.axes(rect_histx)
+ax_histx.tick_params(direction='in', labelbottom=False)
+ax_histy = plt.axes(rect_histy)
+ax_histy.tick_params(direction='in', labelleft=False)
+
+# the scatter plot:
+ax_scatter.scatter(x, y)
+
+# now determine nice limits by hand:
+binwidth = 0.1
+lim = np.ceil(np.abs([x, y]).max() / binwidth) * binwidth
+ax_scatter.set_xlim((-lim, lim))
+ax_scatter.set_ylim((-lim, lim))
+
+bins = np.arange(-lim, lim + binwidth, binwidth)
+ax_histx.hist(x, bins=bins)
+ax_histy.hist(y, bins=bins, orientation='horizontal')
+
+ax_histx.set_xlim(ax_scatter.get_xlim())
+ax_histy.set_ylim(ax_scatter.get_ylim())
+
+plt.show()
+
+-----
+
+#2d bar graph
+
+results = pd.read_csv("regression_predict_results_LV_graphs.csv")
+from mpl_toolkits.mplot3d import Axes3D  # noqa: F401 unused import
+
+import matplotlib.pyplot as plt
+import numpy as np
+
+# Fixing random state for reproducibility
+np.random.seed(19680801)
+
+
+fig = plt.figure()
+ax = fig.add_subplot(111, projection='3d')
+
+colors = ['r', 'g', 'b', 'y']
+yticks = [30, 20, 10, 0]
+for c, k in zip(colors, yticks):
+    # Generate the random data for the y=k 'layer'.
+    xs = y
+    ys = x
+
+    # You can provide either a single color or an array with the same length as
+    # xs and ys. To demonstrate this, we color the first bar of each set cyan.
+    cs = [c] * len(xs)
+    cs[0] = 'c'
+
+    # Plot the bar graph given by xs and ys on the plane y=k with 80% opacity.
+    ax.bar(xs, ys, zs=k, zdir='y', color=cs, alpha=0.8, )
+
+ax.set_xlabel('X')
+ax.set_ylabel('Y')
+ax.set_zlabel('Z')
+
+# On the y axis let's only label the discrete values that we have data for.
+ax.set_yticks(yticks)
+
+plt.show()
+
+
+---
+#scatter plot regression output
+# Plot outputs
+plt.scatter(X_test, y_test,  color='black')
+plt.plot(X_test, y_pred, color='blue', linewidth=3)
+
+plt.xticks(())
+plt.yticks(())
+
+plt.show()
+
+-------
+#stackplo
+import matplotlib.pyplot as plt
+days = [1,50,100,200,300,500,700]
+  
+ Actual = results['Actual']
+ Ridge = results['Ridge']
+ OLS = results['OLS']
+
+  
+ plt.plot([],[],color='m', label='Actual', linewidth=5)
+ plt.plot([],[],color='c', label='Ridge', linewidth=5)
+ plt.plot([],[],color='r', label='OLS', linewidth=5)
+
+  
+ plt.stackplot(Actual,Risge,OLS, colors=['m','c','r','k'])
+  
+ plt.xlabel('x')
+ plt.ylabel('y')
+ plt.title('Stack Plot')
+ plt.legend()
+ plt.show()
+ 
+ -----
+from mpl_toolkits.mplot3d import axes3d
+import matplotlib.pyplot as plt
+import numpy as np
+from matplotlib import style
+style.use('ggplot')
+
+fig = plt.figure()
+ax1 = fig.add_subplot(111, projection='3d')
+
+x3 = CAL['CAL_CS_2019']
+y3 = CAL['One_car']
+z3 = CAL['EV_reg_2018']
+
+
+dx = CAL['CAL_CS_2019']
+dy = CAL['One_car']
+dz = CAL['EV_total_2025']
+
+ax1.bar3d(x3, y3, z3, dx, dy, dz)
+
+
+ax1.set_xlabel('x axis')
+ax1.set_ylabel('y axis')
+ax1.set_zlabel('z axis')
+
+plt.show()

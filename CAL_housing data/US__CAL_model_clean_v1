@@ -1,0 +1,153 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Aug 11 14:31:55 2019
+
+@author: katrinstricker
+"""
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+%matplotlib inline
+CAL = pd.read_csv("CAL_housing_data_model_clean_v1.csv")
+geography = CAL['Geography']
+CAL.info()
+
+#replace 0 with 1 to avoid infinte values
+newyork.NY_CS_2019.describe
+newyork.NY_CS_2019.head(20)
+
+
+# Replace 0 values with a number
+
+# Save back into the dataframe using inplace=True
+newyork['NY_CS_2019'].replace(0, "1", inplace=True)
+newyork.NY_CS_2019.head(20)
+#convert object in numeric
+#ewyork.NY_CS_2019 = newyork.NY_CS_2019.convert_objects(convert_numeric=True)
+#NY_CS = pd.to_numeric(newyork['NY_CS_2019'])
+#NY_CS.describe()
+
+newyork.NY_CS_2019 = newyork.NY_CS_2019.astype('int64') 
+newyork.NY_CS_2019.head(20)
+newyork.info()
+
+# Save back into the dataframe with =
+#df['sex'] = df['sex'].replace(1, "Male")
+#newyork.NY_CS_2019.replace([0],1)
+newyork.NY_CS.describe()
+newyork.housing_units_detached.describe()
+
+
+CAL = CAL[["CAL_CS_2019", "Population_Est_2018", "EV_2018", "EV_total_2025", "Weight_Range_low", "Weight_Range_high", "Total_housing_units_1_attached", "housing_units_detached",
+                   "Apartments", "One_car", "Two_cars", "Three_m_cars","Value_units_Median_dollars"]]
+
+CAL.info()
+CAL.describe()
+
+#distribution of target variable
+CAL['CAL_CS_2019'].hist(bins=10)
+plt.tight_layout()
+
+
+import scipy.stats as stats
+
+stats.probplot(CAL['CAL_CS_2019'], plot=plt)
+plt.tight_layout()
+
+stats.shapiro(newyork['NY_CS_2019'])
+
+#log variable
+np.log(CAL['CAL_CS_2019']).hist(bins=10)
+np.log(CAL['CAL_CS_2019']).describe()
+
+
+stats.probplot(np.log(newyork['NY_CS_2019']), plot=plt)
+plt.tight_layout()
+
+np.random.seed(100)
+stats.ks_2samp(np.log(newyork['NY_CS_2019']),
+               np.random.normal(loc=12, scale=0.4, size=1460))
+#correlation matrix
+corr_matrix = newyork.iloc[:,1:].corr()
+corr_matrix
+
+np.where((corr_matrix >= 0.85) | (corr_matrix <= -0.85))
+
+#heatmap
+import seaborn as sns
+
+sns.set(rc={'figure.figsize':(11.7,8.27)})
+sns.heatmap(CAL.corr(), 
+            vmin=-1.0, vmax=1.0, 
+            cmap="coolwarm", annot=True)
+plt.tight_layout()
+
+
+#other heatmap
+plt.figure(figsize=(12,10))
+cor = newyork.corr()
+sns.heatmap(cor, annot=True, cmap=plt.cm.Reds)
+plt.tight_layout()
+#Correlation with output variable
+
+cor_target = abs(cor["NY_CS_2019"])
+relevant_features = cor_target[cor_target>0.5]
+relevant_features
+
+houses_y_train = np.log(houses_train[["SalePrice"]])
+#preprocessing data - standardize data for model
+from sklearn import preprocessing
+# Get column names first
+names = CAL.columns
+# Create the Scaler object
+scaler = preprocessing.StandardScaler()
+# Fit your data on the scaler object
+scaled_cal = scaler.fit_transform(CAL)
+scaled_cal = pd.DataFrame(scaled_cal, columns=names)
+
+scaled_cal['CAL_CS_2019'].hist(bins=10)
+plt.tight_layout()
+
+#X = scaled_newyork
+X = scaled_cal[["Population_Est_2018", "EV_2018", "EV_total_2025", "Weight_Range_low", "Weight_Range_high", "Total_housing_units_1_attached", "housing_units_detached",
+                   "Apartments", "One_car", "Two_cars", "Three_m_cars", "Value_units_Median_dollars"]]
+y = scaled_cal[['CAL_CS_2019']]
+y = pd.DataFrame({'y':y, 'Geography':geography})
+
+scaled_cal.describe
+
+
+from sklearn.model_selection import train_test_split
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=700)
+g_train = y_train['Geography']
+g_test = y_test['Geography']
+y_train = y_train['y']
+y_test = y_test['y']
+from sklearn.linear_model import LinearRegression
+from sklearn.linear_model import linear_model
+regressor = linear_model.ARRegression()
+regressor = LinearRegression()
+regressor = ElasticNet(random_state=0)
+regressor.fit(X_train, y_train)
+
+coeff_df = pd.DataFrame(regressor.coef_, X.columns, columns=['Coefficient'])
+coeff_df
+
+y_pred = regressor.predict(X_test)
+
+df = pd.DataFrame({'Geography': g_test ,'Actual': y_test, 'Predicted': y_pred})
+df
+
+
+from sklearn import metrics
+print('Mean Absolute Error:', metrics.mean_absolute_error(y_test, y_pred))
+print('Mean Squared Error:', metrics.mean_squared_error(y_test, y_pred))
+print('Root Mean Squared Error:', np.sqrt(metrics.mean_squared_error(y_test, y_pred)))
+print('r2:', metrics.r2_score(y_test, y_pred))
+
+plt.plot(range(len(y_test)),y_test, 'ro')
+plt.plot(range(len(y_test)),y_pred,'bo')
+plt.tight_layout()
+

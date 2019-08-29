@@ -1,0 +1,1281 @@
+﻿Fuel Type Code,Station Name,Street Address,City,State,ZIP,Stations,Groups With Access Code,EV Network,Latitude,Longitude,Date Last Confirmed,ID,EV Connector Types,Access Code
+ELEC,New York State Energy Research Development Authority - Headquarters,17 Columbia Cir,Albany,NY,12203,1,Private,,42.702424,-73.857693,12/11/18,35562,J1772,private
+ELEC,EDISONPARKFAST,451 Ninth Ave,New York,NY,10018,1,Public,ChargePoint Network,40.7546106,-73.9959708,3/8/19,36945,J1772,public
+ELEC,EDISONPARKFAST,50 W 44th St,New York,NY,10036,1,Public,ChargePoint Network,40.7558587,-73.9824966,3/8/19,38981,CHADEMO,public
+ELEC,James J Peters VA Medical Center,130 W Kingsbridge Rd,Bronx,NY,10468,1,Private,,40.86887741,-73.90350342,1/10/19,41240,J1772,private
+ELEC,TOWN OF BABYLON,281 Phelps Ln,North Babylon,NY,11703,1,Public,ChargePoint Network,40.728093,-73.330478,3/8/19,41260,J1772,public
+ELEC,VILLAGE WARWICK,5 South St,Warwick,NY,10990,1,Public,ChargePoint Network,41.2571716,-74.3586731,3/8/19,41261,J1772,public
+ELEC,EVPASS,141 West Washington Street,Syracuse,NY,13202,1,Public,ChargePoint Network,43.049405,-76.153772,3/8/19,41752,J1772,public
+ELEC,EVPASS,217 Montgomery Street,Syracuse,NY,13202,1,Public,ChargePoint Network,43.048831,-76.148959,3/8/19,41753,J1772,public
+ELEC,State University of New York - School of Environmental Science and Forestry,142 Oakland St,Syracuse,NY,13210,1,Private,,43.034109,-76.140932,6/5/18,41754,J1772,private
+ELEC,EVPASS,124 Dell Street,Syracuse,NY,13210,1,Public,ChargePoint Network,43.04166,-76.120004,3/8/19,41756,J1772,public
+ELEC,EVPASS,508 Westcott St,Syracuse,NY,13210,1,Public,ChargePoint Network,43.041604,-76.119715,3/8/19,41757,J1772,public
+ELEC,EVPASS,599 Towne Dr,Fayetteville,NY,13066,1,Public,ChargePoint Network,43.033474,-76.0183029,3/8/19,41854,J1772,public
+ELEC,EVPASS,143 N Washington St,Rome,NY,13440,1,Public,ChargePoint Network,43.212913,-75.458988,3/8/19,41859,J1772,public
+ELEC,EVPASS,150 East Locust St,Rome,NY,13440,1,Public,ChargePoint Network,43.223629,-75.4469604,3/8/19,41861,J1772,public
+ELEC,EVPASS,869 Kent Street,Rome,NY,13440,1,Public,ChargePoint Network,43.227211,-75.459671,3/8/19,41862,J1772,public
+ELEC,EVPASS,506 West Embargo Street,Rome,NY,13440,1,Public,ChargePoint Network,43.2188454,-75.4631882,3/8/19,41863,J1772,public
+ELEC,EVPASS,9090 Carousel Center Drive,Syracuse,NY,13290,1,Public,ChargePoint Network,43.067538,-76.170394,3/8/19,41864,J1772,public
+ELEC,BEAM CHARGING,375 Hudson St,Manhattan,NY,10014,1,Public,ChargePoint Network,40.7284126,-74.0073318,3/8/19,42193,J1772,public
+ELEC,AAA Car Care Plus,2131 Eggert Rd,Amherst,NY,14226,1,Public,,42.979363,-78.821443,4/3/18,42992,J1772,public
+ELEC,BEAM CHARGING,200 W 71st St,Manhattan,NY,10023,1,Public,ChargePoint Network,40.7780647,-73.9825058,3/8/19,43262,J1772,public
+ELEC,BEAM CHARGING,205 E 63rd St,Manhattan,NY,10065,1,Public,ChargePoint Network,40.7639046,-73.9644852,3/8/19,43263,J1772,public
+ELEC,PANYNJ,JFK Access Rd,Jamaica,NY,11430,1,Public,ChargePoint Network,40.6458931,-73.7796326,3/8/19,43741,J1772,public
+ELEC,BEAM CHARGING,10 Columbus Cir,Manhattan,NY,10019,1,Public,ChargePoint Network,40.7687836,-73.9831467,3/8/19,43743,J1772,public
+ELEC,Roosevelt Hospital Garage,515 W 59th St,New York,NY,10019,1,Public,,40.77079,-73.988508,6/5/18,43745,J1772,public
+ELEC,Thruway Nissan,79 Route 17K,Newburgh,NY,12550,1,Public - Call ahead,,41.504105,-74.068916,7/9/18,44174,J1772,public
+ELEC,Thruway Nissan,79 Route 17K,Newburgh,NY,12550,1,Private,,41.504105,-74.068916,7/9/18,44175,J1772,private
+ELEC,Country Club Nissan,55 Oneida St,Oneonta,NY,13820,1,Public - Call ahead,,42.451248,-75.100448,7/9/18,44176,J1772,public
+ELEC,Country Club Nissan,55 Oneida St,Oneonta,NY,13820,1,Private,,42.451248,-75.100448,7/9/18,44177,J1772,private
+ELEC,West-Herr Nissan,3580 Southwestern Blvd,Orchard Park,NY,14127,1,Public - Call ahead,,42.784867,-78.76558,7/9/18,44178,J1772,public
+ELEC,West-Herr Nissan,3580 Southwestern Blvd,Orchard Park,NY,14127,1,Private,,42.784867,-78.76558,7/9/18,44179,J1772,private
+ELEC,Nissan 112,730 Route 112,Patchogue,NY,11772,1,Public - Call ahead,,40.793144,-73.008006,7/9/18,44180,CHADEMO,public
+ELEC,Nissan 112,730 Route 112,Patchogue,NY,11772,1,Private,,40.793144,-73.008006,7/9/18,44181,J1772,private
+ELEC,Huttig Nissan,4670 State Route 9,Plattsburgh,NY,12901,1,Public - Call ahead,,44.667361,-73.444894,7/9/18,44182,J1772,public
+ELEC,Huttig Nissan,4670 State Route 9,Plattsburgh,NY,12901,1,Private,,44.667361,-73.444894,7/9/18,44183,J1772,private
+ELEC,Nissan City - Port Chester,225 Boston Post Rd,Port Chester,NY,10573,1,Public - Call ahead,,40.996358,-73.669405,7/9/18,44184,J1772,public
+ELEC,Nissan City - Port Chester,225 Boston Post Rd,Port Chester,NY,10573,1,Private,,40.996358,-73.669405,7/9/18,44185,J1772,private
+ELEC,Riverhead Auto Mall,1800 Old Country Rd,Riverhead,NY,11901,1,Public - Call ahead,,40.924582,-72.704532,7/9/18,44186,J1772,public
+ELEC,Riverhead Auto Mall,1800 Old Country Rd,Riverhead,NY,11901,1,Private,,40.924582,-72.704532,7/9/18,44187,J1772,private
+ELEC,Dorschel Nissan,3817 W Henrietta Rd,Rochester,NY,14623,1,Public - Call ahead,,43.077581,-77.641934,7/9/18,44188,J1772,public
+ELEC,Dorschel Nissan,3817 W Henrietta Rd,Rochester,NY,14623,1,Private,,43.077581,-77.641934,7/9/18,44189,J1772,private
+ELEC,Smithtown Nissan,535 Middle Country Rd,St. James,NY,11780,1,Public - Call ahead,,40.859886,-73.162067,7/9/18,44190,CHADEMO,public
+ELEC,Smithtown Nissan,535 Middle Country Rd,St. James,NY,11780,1,Private,,40.859886,-73.162067,7/9/18,44191,J1772,private
+ELEC,Lia Nissan,2233 Central Ave,Schenectady,NY,12304,1,Public - Call ahead,,42.764517,-73.88522,7/9/18,44192,J1772,public
+ELEC,Lia Nissan,2233 Central Ave,Schenectady,NY,12304,1,Private,,42.764517,-73.88522,7/9/18,44193,J1772,private
+ELEC,South Shore Nissan,200 Sunrise Hwy,Seaford,NY,11783,1,Public - Call ahead,,40.673933,-73.497174,7/9/18,44194,J1772,public
+ELEC,South Shore Nissan,200 Sunrise Hwy,Seaford,NY,11783,1,Private,,40.673933,-73.497174,7/9/18,44195,J1772,private
+ELEC,Legend Nissan,268 Jericho Turnpike,Syosset,NY,11791,1,Private,,40.809865,-73.507761,7/9/18,44198,J1772,private
+ELEC,Gregoris Motors,555 W Merrick Rd,Valley Stream,NY,11580,1,Public - Call ahead,,40.670497,-73.717206,7/9/18,44201,J1772,public
+ELEC,Gregoris Motors,555 W Merrick Rd,Valley Stream,NY,11580,1,Private,,40.670497,-73.717206,7/9/18,44202,J1772,private
+ELEC,Legend Nissan,268 Jericho Turnpike,Syosset,NY,11791,1,Public,,40.809865,-73.507761,7/9/18,44203,J1772,public
+ELEC,Serafini Nissan-Volvo,3101 Vestal Pkwy E,Vestal,NY,13850,1,Public - Call ahead,,42.095812,-76.003703,7/9/18,44204,J1772,public
+ELEC,Serafini Nissan-Volvo,3101 Vestal Pkwy E,Vestal,NY,13850,1,Private,,42.095812,-76.003703,7/9/18,44205,J1772,private
+ELEC,Poughkeepsie Nissan,1445 Route 9,Wappingers Falls,NY,12590,1,Public - Call ahead,,41.587383,-73.908392,7/9/18,44206,J1772,public
+ELEC,Poughkeepsie Nissan,1445 Route 9,Wappingers Falls,NY,12590,1,Private,,41.587383,-73.908392,7/9/18,44207,J1772,private
+ELEC,Vision Nissan,785 Ridge Rd,Webster,NY,14580,1,Public - Call ahead,,43.204065,-77.478237,7/9/18,44208,J1772,public
+ELEC,Vision Nissan,785 Ridge Rd,Webster,NY,14580,1,Private,,43.204065,-77.478237,7/9/18,44209,J1772,private
+ELEC,Atlantic Nissan,205 Sunrise Hwy,West Islip,NY,11795,1,Public - Call ahead,,40.720723,-73.304512,7/9/18,44210,J1772,public
+ELEC,Atlantic Nissan,205 Sunrise Hwy,West Islip,NY,11795,1,Private,,40.720723,-73.304512,7/9/18,44211,J1772,private
+ELEC,Nissan of Westbury,939 Old Country Rd,Westbury,NY,11590,1,Public - Call ahead,,40.753954,-73.561974,7/9/18,44212,J1772,public
+ELEC,Nissan of Westbury,939 Old Country Rd,Westbury,NY,11590,1,Private,,40.753954,-73.561974,7/9/18,44213,J1772,private
+ELEC,White Plains Nissan,500 Tarrytown Rd,White Plains,NY,10607,1,Public - Call ahead,,41.043879,-73.801844,7/9/18,44214,J1772,public
+ELEC,White Plains Nissan,500 Tarrytown Rd,White Plains,NY,10607,1,Private,,41.043879,-73.801844,7/9/18,44215,J1772,private
+ELEC,West Herr Nissan - Williamsville,8137 Main St,Williamsville,NY,14221,1,Public - Call ahead,,42.965083,-78.691464,7/9/18,44216,J1772,public
+ELEC,West Herr Nissan - Williamsville,8137 Main St,Williamsville,NY,14221,1,Private,,42.965083,-78.691464,7/9/18,44217,J1772,private
+ELEC,Nissan of Yorktown Heights,3495 Old Crompond Rd,Yorktown Heights,NY,10598,1,Public - Call ahead,,41.289317,-73.835547,7/9/18,44218,J1772,public
+ELEC,Nissan of Yorktown Heights,3495 Old Crompond Rd,Yorktown Heights,NY,10598,1,Private,,41.289317,-73.835547,7/9/18,44219,J1772,private
+ELEC,Destination Nissan,770 Central Ave,Albany,NY,12206,1,Public - Call ahead,,42.676971,-73.787334,7/9/18,44317,J1772,public
+ELEC,Destination Nissan,770 Central Ave,Albany,NY,12206,1,Private,,42.676971,-73.787334,7/9/18,44318,J1772,private
+ELEC,Mike Barney Nissan,3676 Sheridan Dr,Amherst,NY,14226,1,Public - Call ahead,,42.979725,-78.797346,7/9/18,44319,J1772,public
+ELEC,Mike Barney Nissan,3676 Sheridan Dr,Amherst,NY,14226,1,Private,,42.979725,-78.797346,7/9/18,44320,J1772,private
+ELEC,Lebrun Nissan,396 Grant Ave,Auburn,NY,13021,1,Public - Call ahead,,42.966894,-76.535879,7/9/18,44321,J1772,public
+ELEC,Lebrun Nissan,396 Grant Ave,Auburn,NY,13021,1,Private,,42.966894,-76.535879,7/9/18,44322,J1772,private
+ELEC,Star Nissan,20602 Northern Blvd,Bayside,NY,11361,1,Public - Call ahead,,40.758245,-73.776954,7/9/18,44323,J1772,public
+ELEC,Star Nissan,20602 Northern Blvd,Bayside,NY,11361,1,Private,,40.758245,-73.776954,7/9/18,44324,J1772,private
+ELEC,Rockland Nissan,608 Route 303,Blauvelt,NY,10913,1,Public - Call ahead,,41.071072,-73.950866,7/9/18,44325,J1772,public
+ELEC,Rockland Nissan,608 Route 303,Blauvelt,NY,10913,1,Private,,41.071072,-73.950866,7/9/18,44326,J1772,private
+ELEC,Bay Ridge Nissan,6501 5th Ave,Brooklyn,NY,11220,1,Public - Call ahead,,40.636324,-74.019228,7/9/18,44327,J1772,public
+ELEC,Bay Ridge Nissan,6501 5th Ave,Brooklyn,NY,11220,1,Private,,40.636324,-74.019228,7/9/18,44328,J1772,private
+ELEC,Kings Nissan,2758 Coney Island Ave,Brooklyn,NY,11235,1,Public - Call ahead,,40.589167,-73.960707,7/9/18,44329,J1772,public
+ELEC,Kings Nissan,2758 Coney Island Ave,Brooklyn,NY,11235,1,Private,,40.589167,-73.960707,7/9/18,44330,J1772,private
+ELEC,Burdick Nissan,5885 E Circle Dr,Cicero,NY,13039,1,Public - Call ahead,,43.147147,-76.114274,7/9/18,44331,J1772,public
+ELEC,Burdick Nissan,5885 E Circle Dr,Cicero,NY,13039,1,Private,,43.147147,-76.114274,7/9/18,44332,J1772,private
+ELEC,Hoselton Nissan,66 Marsh Rd,East Rochester,NY,14445,1,Public - Call ahead,,43.100001,-77.481422,7/9/18,44333,J1772,public
+ELEC,Hoselton Nissan,66 Marsh Rd,East Rochester,NY,14445,1,Private,,43.100001,-77.481422,7/9/18,44334,J1772,private
+ELEC,Rockaway Nissan,600 Burnside Ave,Inwood,NY,11096,1,Public - Call ahead,,40.622268,-73.742699,7/9/18,44336,J1772,public
+ELEC,Rockaway Nissan,600 Burnside Ave,Inwood,NY,11096,1,Private,,40.622268,-73.742699,7/9/18,44337,J1772,private
+ELEC,Maguire Nissan,504 S Meadow St,Ithaca,NY,14850,1,Public - Call ahead,,42.435042,-76.5088,7/9/18,44338,J1772,public
+ELEC,Maguire Nissan,504 S Meadow St,Ithaca,NY,14850,1,Private,,42.435042,-76.5088,7/9/18,44339,J1772,private
+ELEC,Nemet Motors,153-12 Hillside Ave,Jamaica,NY,11432,1,Public - Call ahead,,40.707242,-73.803844,7/9/18,44342,J1772,public
+ELEC,Nemet Motors,153-12 Hillside Ave,Jamaica,NY,11432,1,Private,,40.707242,-73.803844,7/9/18,44343,J1772,private
+ELEC,Treiber Nissan,320 N Comrie Ave,Johnstown,NY,12095,1,Public - Call ahead,,43.025044,-74.358103,7/9/18,44344,J1772,public
+ELEC,Treiber Nissan,320 N Comrie Ave,Johnstown,NY,12095,1,Private,,43.025044,-74.358103,7/9/18,44345,J1772,private
+ELEC,Nissan of Garden City,316 N Franklin St,Hempstead,NY,11550,1,Public - Call ahead,,40.71698,-73.630503,7/9/18,44346,CHADEMO,public
+ELEC,Nissan of Garden City,316 N Franklin St,Hempstead,NY,11550,1,Private,,40.71698,-73.630503,7/9/18,44347,J1772,private
+ELEC,Simmons Rockwell Nissan,224 Colonial Dr,Horseheads,NY,14845,1,Public - Call ahead,,42.162669,-76.869759,3/7/19,44348,CHADEMO,public
+ELEC,Simmons Rockwell Nissan,224 Colonial Dr,Horseheads,NY,14845,1,Private,,42.162669,-76.869759,3/7/19,44349,J1772,private
+ELEC,Nissan of Huntington,850 E Jericho Turnpike,Huntington Station,NY,11746,1,Public - Call ahead,,40.834332,-73.379984,7/9/18,44350,CHADEMO,public
+ELEC,Nissan of Huntington,850 E Jericho Turnpike,Huntington Station,NY,11746,1,Private,,40.834332,-73.379984,7/9/18,44351,J1772,private
+ELEC,Kingston Nissan,140 Route 28,Kingston,NY,12401,1,Public - Call ahead,,41.94872972,-74.03239284,7/9/18,44352,CHADEMO,public
+ELEC,Kingston Nissan,140 Route 28,Kingston,NY,12401,1,Private,,41.94872972,-74.03239284,7/9/18,44353,J1772,private
+ELEC,West Herr Nissan,6069 S Transit Rd,Lockport,NY,14094,1,Public - Call ahead,,43.128557,-78.696197,7/9/18,44354,J1772,public
+ELEC,West Herr Nissan,6069 S Transit Rd,Lockport,NY,14094,1,Private,,43.128557,-78.696197,7/9/18,44355,J1772,private
+ELEC,Nissan Kia - Middletown,4961 Route 17M,New Hampton,NY,10958,1,Public - Call ahead,,41.40859,-74.413372,7/9/18,44358,J1772,public
+ELEC,Nissan Kia - Middletown,4961 Route 17M,New Hampton,NY,10958,1,Private,,41.40859,-74.413372,7/9/18,44359,J1772,private
+ELEC,Nissan of New Rochelle,2533 Palmer Ave,New Rochelle,NY,10801,1,Public - Call ahead,,40.919104,-73.776645,7/9/18,44360,J1772,public
+ELEC,Nissan of New Rochelle,2533 Palmer Ave,New Rochelle,NY,10801,1,Private,,40.919104,-73.776645,7/9/18,44361,J1772,private
+ELEC,MP 102 LLC,401 Bedford Park Blvd,Bronx,NY,10458,1,Public,ChargePoint Network,40.8671646,-73.8831863,3/8/19,46412,J1772,public
+ELEC,FedEx,130 Leroy St,New York,NY,10014,1,Private,,40.7303419,-74.0082654,1/10/19,46415,J1772,private
+ELEC,Country Club Imports,55 Oneida St,Oneonta,NY,13820,1,Public - Call ahead,,42.451248,-75.100448,12/11/18,46417,J1772,public
+ELEC,Baron Nissan,235 Glen Cove Rd,Greenvale,NY,11548,1,Public - Call ahead,,40.816267,-73.625869,7/9/18,47721,J1772,public
+ELEC,Baron Nissan,235 Glen Cove Rd,Greenvale,NY,11548,1,Private,,40.816267,-73.625869,7/9/18,47722,J1772,private
+ELEC,CARCHARGING,1114 6th Ave,New York,NY,10036,1,Public,ChargePoint Network,40.7552452,-73.9834061,3/8/19,48048,J1772,public
+ELEC,EVPASS,577 Solar Street,Syracuse,NY,13204,1,Public,ChargePoint Network,43.0664711,-76.1700592,3/8/19,48093,J1772,public
+ELEC,CARCHARGING,500 W 56th St,New York,NY,10019,1,Public,ChargePoint Network,40.768257,-73.989087,3/8/19,48688,J1772,public
+ELEC,CARCHARGING,450 WEST 42nd St.,New York,NY,10036,1,Public,ChargePoint Network,40.759041,-73.994972,3/8/19,49581,J1772,public
+ELEC,CARCHARGING,215 E 96th St,New York,NY,10128,1,Public,ChargePoint Network,40.78513,-73.947969,3/8/19,49582,J1772,public
+ELEC,Vision Nissan Greece,4000 W Ridge Rd,Rochester,NY,14626,1,Public - Call ahead,,43.216099,-77.73619,7/9/18,49676,J1772,public
+ELEC,Vision Nissan Greece,4000 W Ridge Rd,Rochester,NY,14626,1,Private,,43.216099,-77.73619,7/9/18,49677,J1772,private
+ELEC,Central Avenue Nissan,1919 Central Park Ave,Yonkers,NY,10710,1,Public - Call ahead,,40.96453,-73.839438,7/9/18,49678,CHADEMO,public
+ELEC,Central Avenue Nissan,1919 Central Park Ave,Yonkers,NY,10710,1,Private,,40.96453,-73.839438,7/9/18,49679,J1772,private
+ELEC,Shults Nissan,311 Fluvanna Ave,Jamestown,NY,14701,1,Public - Call ahead,,42.115661,-79.253776,7/9/18,49932,J1772,public
+ELEC,Shults Nissan,311 Fluvanna Ave,Jamestown,NY,14701,1,Private,,42.115661,-79.253776,7/9/18,49933,J1772,private
+ELEC,Jim Harte Nissan,271 N Bedford Rd,Mt. Kisco,NY,10549,1,Private,,41.218222,-73.718358,7/9/18,49935,J1772,private
+ELEC,Nissan of Queens,9325 Rockaway Blvd,Ozone Park,NY,11417,1,Public - Call ahead,,40.68117,-73.845621,7/9/18,49938,J1772,public
+ELEC,Nissan of Queens,9325 Rockaway Blvd,Ozone Park,NY,11417,1,Private,,40.68117,-73.845621,7/9/18,49939,J1772,private
+ELEC,Town of Penfield Library,1985 Baird Rd,Penfield,NY,14526,1,Public,,43.137476,-77.465214,6/5/18,49941,J1772,public
+ELEC,Buffalo Niagara Medical Campus - Ellicott Street Lot,589 Ellicott St,Buffalo,NY,14203,1,Public,,42.89582,-78.86798,1/10/19,50707,J1772,public
+ELEC,Buffalo Niagara Medical Campus - Ellicott Street Parking,589 Ellicott St,Buffalo,NY,14203,1,Public,,42.89582,-78.86798,1/10/19,50708,J1772,public
+ELEC,Buffalo Niagara Medical Campus - High Street Ramp,134 High St,Buffalo,NY,14226,1,Private,,42.900312,-78.863802,1/10/19,50710,J1772,private
+ELEC,CARCHARGING,214 W 88th St,New York,NY,10024,1,Public,ChargePoint Network,40.7892181,-73.9749593,3/8/19,50711,J1772,public
+ELEC,ShopRite Plaza,2333 Nott St E,Niskayuna,NY,12309,1,Public,,42.816614,-73.889657,6/5/18,50854,J1772,public
+ELEC,WOODLAKE,61 Woodlake Rd N,Albany,NY,12203,1,Public,ChargePoint Network,42.681288,-73.849689,3/8/19,51095,J1772,public
+ELEC,TAITEM,110 S Albany St,Ithaca,NY,14850,1,Public,ChargePoint Network,42.438969,-76.502064,3/8/19,51294,J1772,public
+ELEC,GLENWOOD MGMT,300 E 56th St,New York,NY,10022,1,Public,ChargePoint Network,40.7581527,-73.9653023,3/8/19,51296,J1772,public
+ELEC,LAFAYETTE BOYNT,901 Boynton Ave,Bronx,NY,10473,1,Public,ChargePoint Network,40.8214511,-73.8776415,3/8/19,51297,J1772,public
+ELEC,Fairport Village Landing,30 S Main St,Fairport,NY,14450,1,Public,,43.10056,-77.441933,4/3/18,51537,J1772,public
+ELEC,WCS,2300 Southern Blvd,Bronx,NY,10460,1,Public,ChargePoint Network,40.850625,-73.8811322,3/8/19,51676,J1772,public
+ELEC,BEAM CHARGING,107 W 13th St,New York,NY,10011,1,Public,ChargePoint Network,40.736949,-73.9977963,3/8/19,51680,J1772,public
+ELEC,BEAM CHARGING,860 5th Ave,New York,NY,10065,1,Public,ChargePoint Network,40.769134,-73.968707,3/8/19,51681,J1772,public
+ELEC,BEAM CHARGING,1081 3rd Ave,New York,NY,10065,1,Public,ChargePoint Network,40.764341,-73.96408,3/8/19,51682,J1772,public
+ELEC,BEAM CHARGING,375 Park Ave,New York,NY,10152,1,Public,ChargePoint Network,40.758462,-73.972211,3/8/19,51683,J1772,public
+ELEC,BEAM CHARGING,122 W 3rd St,New York,NY,10012,1,Public,ChargePoint Network,40.730485,-74.000728,3/8/19,51686,J1772,public
+ELEC,MP 225 LLC,100 Jay St,New York,NY,11201,1,Public,ChargePoint Network,40.7018205,-73.9868238,3/8/19,51687,J1772,public
+ELEC,BARD ALMNCT,New York 9G,Red Hook,NY,12504,1,Public,ChargePoint Network,42.0234362,-73.9020369,3/8/19,51689,J1772,public
+ELEC,NATIONAL GRID,216 Wolf Road,Albany,NY,12205,1,Public,ChargePoint Network,42.7258439,-73.799419,3/8/19,52014,J1772,public
+ELEC,ATAHOUSING407,1734-1774 Mulford Ave,Bronx,NY,10461,1,Public,ChargePoint Network,40.8468211,-73.8346327,3/8/19,52016,J1772,public
+ELEC,QUEENS COLLEGE,152-50 Melbourne Ave,Flushing,NY,11367,1,Public,ChargePoint Network,40.734525,-73.81793,3/8/19,52021,J1772,public
+ELEC,"HAVERSTRAW, NY",40 New Main St,Haverstraw,NY,10927,1,Public,ChargePoint Network,41.196841,-73.966883,3/8/19,52023,J1772,public
+ELEC,CAYUGA MED CTR.,91-273 Dates Dr,Ithaca,NY,14850,1,Public,ChargePoint Network,42.4689745,-76.5384526,3/8/19,52024,J1772,public
+ELEC,NW HOSPITAL,400 E Main St,Mount Kisco,NY,10549,1,Public,ChargePoint Network,41.196727,-73.724645,3/8/19,52027,J1772,public
+ELEC,NATIONAL GRID,25 Lake Ave,Saratoga Springs,NY,12866,1,Public,ChargePoint Network,43.0836144,-73.7821613,3/8/19,52029,J1772,public
+ELEC,Lucas Ford,3245 Hortons Ln,Southold,NY,11971,1,Public - Call ahead,,41.069942,-72.43726,12/11/18,52063,J1772,public
+ELEC,"HHPR, LLC",2-234 High Street Extension,Victor,NY,14564,1,Public,ChargePoint Network,43.0267557,-77.4377915,3/8/19,52257,J1772,public
+ELEC,NATIONAL GRID,1220 NY-146,Clifton Park,NY,12065,1,Public,ChargePoint Network,42.8696062,-73.8239864,3/8/19,52285,J1772,public
+ELEC,NATIONAL GRID,2080 Western Ave,Guilderland,NY,12084,1,Public,ChargePoint Network,42.6974948,-73.8909425,3/8/19,52286,J1772,public
+ELEC,MP 225 LLC,225 Rector Pl,New York,NY,10280,1,Public,ChargePoint Network,40.7092248,-74.0161545,3/8/19,52290,J1772,public
+ELEC,NATIONAL GRID,Putnam Way,Buffalo,NY,14228,1,Public,ChargePoint Network,43.0018132,-78.7884692,3/8/19,52578,J1772,public
+ELEC,SYNAPSE EV,701 Irving Ave,Syracuse,NY,13210,1,Public,ChargePoint Network,43.042213,-76.137488,3/8/19,52583,J1772,public
+ELEC,NATIONAL GRID,1814 Central Ave,Albany,NY,12205,1,Public,ChargePoint Network,42.7297408,-73.8510663,3/8/19,53107,J1772,public
+ELEC,MONTEFIOREMOSES,613 E 233rd St,Bronx,NY,10466,1,Public,ChargePoint Network,40.894881,-73.860525,3/8/19,53110,J1772,public
+ELEC,NATIONAL GRID,1300 Elmwood Ave,Buffalo,NY,14222,1,Public,ChargePoint Network,42.931359,-78.8791092,3/8/19,53112,J1772,public
+ELEC,NATIONAL GRID,2232 Delaware Ave,Buffalo,NY,14216,1,Public,ChargePoint Network,42.9447402,-78.8703845,3/8/19,53113,J1772,public
+ELEC,NATIONAL GRID,54 Crossing Blvd,Clifton Park,NY,12065,1,Public,ChargePoint Network,42.8611435,-73.7719182,3/8/19,53116,J1772,public
+ELEC,NATIONAL GRID,488 Fairview Ave,Hudson,NY,12534,1,Public,ChargePoint Network,42.2810748,-73.7513719,3/8/19,53118,J1772,public
+ELEC,NATIONAL GRID,2223 Canada St,Lake George,NY,12845,1,Public,ChargePoint Network,43.4145284,-73.7143982,3/8/19,53119,J1772,public
+ELEC,CARCHARGING,445 Lafayette St,New York,NY,10003,1,Public,ChargePoint Network,40.729535,-73.991398,3/8/19,53120,J1772,public
+ELEC,BEAM CHARGING,75 Park Place,New York,NY,10007,1,Public,ChargePoint Network,40.7142163,-74.0106122,3/8/19,53121,J1772,public
+ELEC,GLENWOOD MGMT,330 West 39th Street,New York,NY,10018,1,Public,ChargePoint Network,40.7560286,-73.9926549,3/8/19,53123,J1772,public
+ELEC,MONTEFIOREMOSES,111 E 210th St,New York,NY,10467,1,Public,ChargePoint Network,40.8797184,-73.8803938,3/8/19,53124,J1772,public
+ELEC,CARCHARGING,204 E 80th St,New York,NY,10075,1,Public,ChargePoint Network,40.774703,-73.956695,3/8/19,53125,J1772,public
+ELEC,NATIONAL GRID,3375 E Main St,Dunkirk,NY,14048,1,Public,ChargePoint Network,42.4641982,-79.2801216,3/8/19,53437,J1772,public
+ELEC,NATIONAL GRID,5801 Rock Cut Rd,Jamesville,NY,13078,1,Public,ChargePoint Network,43.0050404,-76.1163108,3/8/19,53439,J1772,public
+ELEC,Audia Chevrolet,3692 Route 44,Millbrook,NY,12545,1,Public - Call ahead,,41.791563,-73.659717,6/5/18,53442,J1772,public
+ELEC,CARCHARGING,400 E 84TH ST,New York,NY,10028,1,Public,ChargePoint Network,40.775377,-73.950411,3/8/19,53448,J1772,public
+ELEC,CARCHARGING,400 W 12th St,New York,NY,10014,1,Public,ChargePoint Network,40.73738,-74.0093738,3/8/19,53449,J1772,public
+ELEC,CARCHARGING,325 North End Ave,New York,NY,10282,1,Public,ChargePoint Network,40.71695,-74.014948,3/8/19,53451,J1772,public
+ELEC,Autosaver Ford,11125 State Route 22,Comstock,NY,12821,1,Public - Call ahead,,43.456212,-73.383459,12/11/18,53894,J1772,public
+ELEC,Henderson Ford,810 E Ridge Rd,Webster,NY,14580,1,Public - Call ahead,,43.205714,-77.476722,6/5/18,53975,J1772,public
+ELEC,Steet-Ponte Ford Lincoln Mazda,5074 Commercial Dr,Yorkville,NY,13495,1,Public - Call ahead,,43.110055,-75.293478,6/5/18,53976,J1772,public
+ELEC,EVPASS,135 North James Street,Rome,NY,13440,1,Public,ChargePoint Network,43.211739,-75.456778,3/8/19,55725,J1772,public
+ELEC,EVPASS,8500-8532 Dell Center Dr,Liverpool,NY,13090,1,Public,ChargePoint Network,43.1862106,-76.242012,3/8/19,55733,J1772,public
+ELEC,CARCHARGING,1 Pennsylvania Plaza,New York,NY,10119,1,Public,ChargePoint Network,40.75147,-73.9927795,3/8/19,56001,J1772,public
+ELEC,CARCHARGING,225 W 49th St,New York,NY,10019,1,Public,ChargePoint Network,40.761376,-73.985273,3/8/19,56059,J1772,public
+ELEC,CARCHARGING,113 E 84th St,New York,NY,10028,1,Public,ChargePoint Network,40.778787,-73.957486,3/8/19,56061,J1772,public
+ELEC,CARCHARGING,400 W 43rd St,New York,NY,10036,1,Public,ChargePoint Network,40.759104,-73.992644,3/8/19,56090,J1772,public
+ELEC,CARCHARGING,250 E 53rd St,New York,NY,10019,1,Public,ChargePoint Network,40.7568399,-73.9675916,3/8/19,56096,J1772,public
+ELEC,CARCHARGING,350 E 30th St,New York,NY,10016,1,Public,ChargePoint Network,40.741368,-73.975668,3/8/19,56142,J1772,public
+ELEC,TOWN OF BABYLON,Tanner Park,Amityville,NY,11701,1,Public,ChargePoint Network,40.6568913,-73.3962505,3/8/19,57245,J1772,public
+ELEC,ATA HOUSING,249 Thomas S Boyland St,Brooklyn,NY,11233,1,Public,ChargePoint Network,40.675072,-73.9131319,3/8/19,57799,J1772,public
+ELEC,NATIONAL GRID,207 Troy Schenectady Rd,Watervliet,NY,12189,1,Public,ChargePoint Network,42.74012,-73.7313276,3/8/19,57853,J1772,public
+ELEC,NATIONAL GRID,Skidmore College,Saratoga Springs,NY,12866,1,Public,ChargePoint Network,43.0981867,-73.7836735,3/8/19,58199,J1772,public
+ELEC,HOLIDAY INN J,308 N Comrie Ave,Johnstown,NY,12095,1,Public,ChargePoint Network,43.0224088,-74.3602289,3/8/19,58205,J1772,public
+ELEC,MP 102 LLC,1214 Fifth Avenue,New York,NY,10029,1,Public,ChargePoint Network,40.7912673,-73.9520388,3/8/19,58234,J1772,public
+ELEC,NATIONAL GRID,52 E Main St,Fredonia,NY,14063,1,Public,ChargePoint Network,42.4418221,-79.3295637,3/8/19,58254,J1772,public
+ELEC,NATIONAL GRID,30 Central Ave,Dunkirk,NY,14048,1,Public,ChargePoint Network,42.4876817,-79.3358749,3/8/19,58255,J1772,public
+ELEC,NATIONAL GRID,300 Parkside Ave,Buffalo,NY,14214,1,Public,ChargePoint Network,42.9370714,-78.8519641,3/8/19,58262,J1772,public
+ELEC,NATIONAL GRID,941 Washington St,Buffalo,NY,14203,1,Public,ChargePoint Network,42.8994681,-78.8686587,3/8/19,58263,J1772,public
+ELEC,QUANTUM ENG,48 Thatcher St,Selkirk,NY,12158,1,Public,ChargePoint Network,42.530982,-73.8017551,3/8/19,60139,J1772,public
+ELEC,BMW SOUTHAMPTON,759 County Rd 39A,Southampton,NY,11968,1,Public,ChargePoint Network,40.8990924,-72.3727883,3/8/19,60623,J1772,public
+ELEC,ADELPHI UNIV123,1 South Ave,Garden City,NY,11530,1,Public,ChargePoint Network,40.723006,-73.66414,3/8/19,60739,J1772,public
+ELEC,RUSTIC VILLAGE,140-280 W Squire Dr,Rochester,NY,14623,1,Public,ChargePoint Network,43.1014881,-77.6225871,3/8/19,60745,J1772,public
+ELEC,BMW S. ALBANY,521-641 US-9W,Glenmont,NY,12077,1,Public,ChargePoint Network,42.5889722,-73.7972981,3/8/19,60790,J1772,public
+ELEC,RALLYE BMW,4016-4952 Brush Hollow Rd,Westbury,NY,11590,1,Public,ChargePoint Network,40.7788001,-73.5579658,3/8/19,60791,J1772,public
+ELEC,Frito Lay,8 Corporate Park Dr,Clifton Park,NY,12065,1,Private,,42.845022,-73.755556,1/10/19,61033,J1772,private
+ELEC,ROCHESTER NY,111 woodbury blvd,Rochester,NY,14607,1,Public,ChargePoint Network,43.152689,-77.604178,3/8/19,61063,J1772,public
+ELEC,ROCHESTER NY,2-48 Fitzhugh St N,Rochester,NY,14614,1,Public,ChargePoint Network,43.155802,-77.61415,3/8/19,61064,J1772,public
+ELEC,ROCHESTER NY,194 Court St,Rochester,NY,14604,1,Public,ChargePoint Network,43.154238,-77.607055,3/8/19,61065,J1772,public
+ELEC,ROCHESTER NY,30 Church St,Rochester,NY,14614,1,Public,ChargePoint Network,43.1569922,-77.6148954,3/8/19,61066,J1772,public
+ELEC,ROCHESTER NY,473-489 Main St E,Rochester,NY,14604,1,Public,ChargePoint Network,43.158368,-77.600127,3/8/19,61067,J1772,public
+ELEC,WIDE WORLD BMW,114 NY-59,Spring Valley,NY,10977,1,Public,ChargePoint Network,41.1070505,-74.0358532,3/8/19,61091,J1772,public
+ELEC,ROCHESTER NY,1000 N River St,Rochester,NY,14612,1,Public,ChargePoint Network,43.2531,-77.6093,3/8/19,61213,J1772,public
+ELEC,NATIONAL GRID,15 Nott Terrace Heights,Schenectady,NY,12308,1,Public,ChargePoint Network,42.8125934,-73.9331603,3/8/19,61547,J1772,public
+ELEC,Broccolo Tree and Lawncare Garden Center,2755 Penfield Rd,Fairport,NY,14450,1,Public,,43.129935,-77.386788,4/3/18,61760,J1772,public
+ELEC,COLGATE,Lally Ln,Hamilton,NY,13346,1,Public,ChargePoint Network,42.817555,-75.5392648,3/8/19,61823,J1772,public
+ELEC,BMWHV,2068 South Rd,Poughkeepsie,NY,12601,1,Public,ChargePoint Network,41.63092,-73.9144437,3/8/19,61921,J1772,public
+ELEC,ROSENBLUM,226 Great Oaks Blvd,Albany,NY,12203,1,Public,ChargePoint Network,42.6821987,-73.8481987,3/8/19,61924,J1772,public
+ELEC,TIME WARNER,1021 Highbridge Rd,Schenectady,NY,12303,1,Public,ChargePoint Network,42.7693294,-73.9287384,3/8/19,62027,J1772,public
+ELEC,JATC LU41,3546 California Rd,Orchard Park,NY,14127,1,Public,ChargePoint Network,42.7871971,-78.787821,3/8/19,62127,J1772,public
+ELEC,JATC LU840,1401 NY-5,Geneva,NY,14456,1,Public,ChargePoint Network,42.8607398,-77.0498681,3/8/19,62128,J1772,public
+ELEC,O. C. BMW,101 Maher Ln,Harriman,NY,10926,1,Public,ChargePoint Network,41.3149057,-74.1391572,3/8/19,62150,J1772,public
+ELEC,IBEW LU86,2300 E River Rd,Rochester,NY,14623,1,Public,ChargePoint Network,43.0967211,-77.6766942,3/8/19,62159,J1772,public
+ELEC,MONOLITH SOLAR,432 Washington St,Rensselaer,NY,12144,1,Public,ChargePoint Network,42.6415344,-73.7433281,3/8/19,62272,J1772,public
+ELEC,ROCHESTER NY,39 Trinidad St,Rochester,NY,14605,1,Public,ChargePoint Network,43.1660608,-77.5914029,3/8/19,62307,J1772,public
+ELEC,BURDICK BMW,5947 E Circle Dr,Cicero,NY,13039,1,Public,ChargePoint Network,43.1526109,-76.1130104,3/8/19,62376,J1772,public
+ELEC,JATC IBEW LU910,25001 Water St,Watertown,NY,13601,1,Public,ChargePoint Network,43.981631,-75.871547,3/8/19,62421,J1772,public
+ELEC,JATC LU237,8803 Niagara Falls Blvd,Niagara Falls,NY,14304,1,Public,ChargePoint Network,43.0922984,-78.9609559,3/8/19,62433,J1772,public
+ELEC,JATC IBEW LU910,28 New York Rd,Plattsburgh,NY,12903,1,Public,ChargePoint Network,44.6830193,-73.446948,3/8/19,62434,J1772,public
+ELEC,MAMARONECK BMW,282-300 W Boston Post Rd,Mamaroneck,NY,10543,1,Public,ChargePoint Network,40.9465679,-73.735108,3/8/19,62459,J1772,public
+ELEC,Bristol Harbour Resort,5410 Seneca Point Rd,Canandaigua,NY,14424,1,Public,,42.7536951,-77.3335284,4/3/18,62508,J1772,public
+ELEC,Mercedes-Benz of Huntington,1103 E Jericho Turnpike,Huntington,NY,11743,1,Public - Call ahead,,40.834548,-73.36711,6/5/18,62582,J1772,public
+ELEC,STONY BROOK UNV,Stadium Rd,Stony Brook,NY,11790,1,Public,ChargePoint Network,40.9187542,-73.1236577,3/8/19,62804,J1772,public
+ELEC,STONY BROOK UNV,Engineering Dr,Setauket- East Setauket,NY,11733,1,Public,ChargePoint Network,40.9123548,-73.1259677,3/8/19,62805,J1772,public
+ELEC,COUNTRY CLUB,2009-2015 Northwood Dr,Buffalo,NY,14221,1,Public,ChargePoint Network,42.9795043,-78.7183605,3/8/19,62859,J1772,public
+ELEC,STONY BROOK UNV,Lake Dr Stony Brook University,Stony Brook,NY,11790,1,Public,ChargePoint Network,40.9108162,-73.1215209,3/8/19,62862,J1772,public
+ELEC,BMW WESTCHER,525 Tarrytown Rd,White Plains,NY,10607,1,Public,ChargePoint Network,41.0433142,-73.8022554,3/8/19,62863,J1772,public
+ELEC,RXR REALTY,340 RXR Plaza,Uniondale,NY,11556,1,Public,ChargePoint Network,40.7202493,-73.5834702,3/8/19,62899,J1772,public
+ELEC,HAWKINS P2 ST 1,200 Cornelia St,Plattsburgh,NY,12901,1,Public,ChargePoint Network,44.6978077,-73.4677888,3/8/19,62966,J1772,public
+ELEC,Village of Spencerport - Town Hall,27 West Ave,Spencerport,NY,14559,1,Public,,43.191568,-77.801928,4/3/18,63140,J1772,public
+ELEC,JATC LU 363,67 Commerce Dr S,Harriman,NY,10926,1,Public,ChargePoint Network,41.3092555,-74.1330773,3/8/19,63202,J1772,public
+ELEC,HOLTSVILLE,12-40 Corporate Dr,Holtsville,NY,11742,1,Public,ChargePoint Network,40.8104,-73.038392,3/8/19,63235,J1772,public
+ELEC,Montauk Manor,236 Edgemere Street,Montauk,NY,11954,1,Public - Card key at all times,SemaCharge Network,41.0483786,-71.9493869,3/8/19,63254,J1772,public
+ELEC,MORRISVILLE,Chenango Rd,Morrisville,NY,13408,1,Public,ChargePoint Network,42.8967792,-75.6415675,3/8/19,63321,J1772,public
+ELEC,RXR REALTY,5868 S Service Rd,Melville,NY,11747,1,Public,ChargePoint Network,40.7822171,-73.4399253,3/8/19,63332,J1772,public
+ELEC,Niagara Falls International Airport,2035 Niagara Falls Blvd,Niagara Falls,NY,14304,1,Public,,43.101378,-78.941072,6/5/18,63478,J1772,public
+ELEC,Buffalo Niagara International Airport,4200 Genesee St,Buffalo,NY,14225,1,Public,,42.929827,-78.740773,6/5/18,63479,J1772,public
+ELEC,NATIONAL GRID,135 Western Ave,Albany,NY,12203,1,Public,ChargePoint Network,42.6591666,-73.7726716,3/8/19,63557,J1772,public
+ELEC,Leo Kaytes Ford,145 Route 94 S,Warwick,NY,10990,1,Public - Call ahead,,41.237296,-74.379503,12/11/18,63618,J1772,public
+ELEC,Towne Ford Lincoln,3535 Southwestern Blvd,Orchard Park,NY,14075,1,Public - Call ahead,,42.786617,-78.761212,12/11/18,63643,J1772,public
+ELEC,VANDERBILTFG,125 Froehlich Farm Blvd,Woodbury,NY,11797,1,Public,ChargePoint Network,40.8022098,-73.4777336,3/8/19,63672,J1772,public
+ELEC,Finger Lakes Waterfall Resort Motel & Cabins,3835 State Route 414,Burdett,NY,14818,1,Public - Call ahead,,42.417911,-76.867321,12/11/18,63982,J1772,public
+ELEC,Rochester Institute of Technology - Lot T,1 Lomb Memorial Dr,Rochester,NY,14623,1,Public,,43.08779,-77.674413,6/5/18,63988,J1772,public
+ELEC,Price Chopper,55 Railroad Pl,Saratoga Springs,NY,12866,1,Public,,43.082251,-73.788133,6/5/18,63997,J1772,public
+ELEC,Goldstein Buick GMC,1673 Central Ave,Albany,NY,12205,1,Public - Call ahead,,42.723,-73.837589,6/5/18,63999,J1772,public
+ELEC,Albany International Airport,737 Albany Shaker Rd,Albany,NY,12205,1,Public,EV Connect,42.739746,-73.808186,5/3/18,64131,J1772,public
+ELEC,Dana Ford Lincoln,266 W Service Rd,Staten Island,NY,10314,1,Public - Call ahead,,40.564507,-74.196034,12/11/18,64140,J1772,public
+ELEC,Ramp Ford,4869 Nesconset Hwy,Port Jefferson Station,NY,11776,1,Public - Call ahead,,40.91966,-73.051332,6/5/18,64141,J1772,public
+ELEC,COMPASS VW,200 Dolson Ave,Middletown,NY,10940,1,Public,ChargePoint Network,41.4271057,-74.4278898,3/8/19,64159,J1772,public
+ELEC,VWOFHUNTINGTON,800-878 New York 25,Huntington Station,NY,11746,1,Public,ChargePoint Network,40.8343941,-73.3805699,3/8/19,64191,J1772,public
+ELEC,DONALDSONVW,5700 Sunrise Hwy,Sayville,NY,11782,1,Public,ChargePoint Network,40.767366,-73.0693693,3/8/19,64199,J1772,public
+ELEC,COMPETITION BMW,599 Jericho Turnpike,Smithtown,NY,11787,1,Public,ChargePoint Network,40.8605108,-73.1582711,3/8/19,64280,J1772,public
+ELEC,NLH1,99 E State Street,Gloversville,NY,12078,1,Public,ChargePoint Network,43.0717732,-74.3306078,3/8/19,64295,J1772,public
+ELEC,STONY BROOK UNV,Gymnasium Rd,Stony Brook,NY,11790,1,Public,ChargePoint Network,40.9170847,-73.1270789,3/8/19,64296,J1772,public
+ELEC,MOHEGAN LAKE.VW,1744 E Main St,Mohegan Lake,NY,10547,1,Public,ChargePoint Network,41.324305,-73.852224,3/8/19,64439,J1772,public
+ELEC,Cliff's Elbow Too,1085 Franklinville Rd,Laurel,NY,11948,1,Public,,40.968038,-72.562787,4/3/18,64705,J1772,public
+ELEC,Cliff's Elbow Room,1549 Main Rd,Jamesport,NY,11947,1,Public,,40.948819,-72.582795,4/3/18,64706,J1772,public
+ELEC,HUDSON VALLEY,1148 Old Rte 9,Wappingers Falls,NY,12590,1,Public,ChargePoint Network,41.566517,-73.906339,3/8/19,64742,J1772,public
+ELEC,RIVERHEAD BAY,1521 Old Country Rd,Riverhead,NY,11901,1,Public,ChargePoint Network,40.9256953,-72.6924709,3/8/19,65014,J1772,public
+ELEC,KINGSTON VW,1249 Ulster Ave,Kingston,NY,12401,1,Public,ChargePoint Network,41.9668889,-73.9897814,3/8/19,65112,J1772,public
+ELEC,STONY BROOK UNV,Lake Dr,Stony Brook,NY,11790,1,Public,ChargePoint Network,40.9116196,-73.1209218,3/8/19,65245,J1772,public
+ELEC,Town of Cortlandt,1 Heady St,Cortlandt,NY,10567,1,Public,EV Connect,41.310139,-73.905002,5/3/18,65270,J1772,public
+ELEC,Tarrytown Metro - North Train Station,4173 Green St,Tarrytown,NY,10591,1,Public,EV Connect,41.07626119,-73.86568629,2/6/19,65271,J1772,public
+ELEC,IBM Research Fleet Lot,1101 Kitchawan Rd,Ossining,NY,10598,1,Private,EV Connect,41.21594,-73.807577,5/3/18,65272,J1772,private
+ELEC,Chappaqua Metro - North Train Station,108 Allen Pl,Chappaqua,NY,10514,1,Public,EV Connect,41.159228,-73.773508,5/3/18,65273,J1772,public
+ELEC,Hamilton Parking Garage,365 Hamilton Ave,White Plains,NY,10601,1,Public,EV Connect,41.034121,-73.766241,6/5/18,65274,J1772,public
+ELEC,Longview Parking Garage,11 Longview Ave,White Plains,NY,10601,1,Public,EV Connect,41.026867,-73.767674,5/3/18,65275,J1772,public
+ELEC,Lyons Place Municipal Parking Garage,4 Lyons Pl,White Plains,NY,10601,1,Public,EV Connect,41.02894,-73.763727,6/5/18,65276,J1772,public
+ELEC,Skaneateles Village Hall,26 Fennell St,Skaneateles,NY,13152,1,Public,EV Connect,42.948234,-76.431694,5/3/18,65277,J1772,public
+ELEC,Lexington-Grove East Garage,100 Main St,White Plains,NY,10601,1,Public,EV Connect,41.031464,-73.769946,5/3/18,65278,J1772,public
+ELEC,Price Chopper,1930 Saranac Ave,Lake Placid,NY,12946,1,Public,,44.294213,-74.01095,6/5/18,65280,J1772,public
+ELEC,Price Chopper #168,19 Centre Dr,Plattsburgh,NY,12901,1,Public,,44.695363,-73.492162,6/5/18,65281,J1772,public
+ELEC,Metro-North Train Station - Cortlandt,2 Memorial Dr,Cortlandt Manor,NY,10520,1,Public,,41.245835,-73.921543,6/5/18,65283,J1772,public
+ELEC,Beacon Metro North Train Station,1 Ferry Plaza,Beacon,NY,12508,1,Public,EV Connect,41.505079,-73.983205,5/3/18,65284,J1772,public
+ELEC,Stony Brook University,118 Administration,Stony Brook,NY,11790,1,Public - Credit card at all times,EV Connect,40.914818,-73.119813,6/5/18,65285,J1772,public
+ELEC,Port Authority Bus Terminal,625 8th Ave,New York,NY,10018,1,Public,EV Connect,40.756177,-73.990558,5/3/18,65287,J1772,public
+ELEC,Bay Ridge Municipal Parking Garage,8501 5th Ave,Brooklyn,NY,11209,1,Public,EV Connect,40.62215,-74.02565,5/3/18,65288,J1772,public
+ELEC,Court Square Municipal Parking Garage,45 Court Square,Queens,NY,11101,1,Public,EV Connect,40.745358,-73.942642,8/7/18,65290,J1772,public
+ELEC,East 149th Street Municipal Parking Garage,315 E 149th St,Bronx,NY,10451,1,Public,EV Connect,40.817326,-73.920914,5/3/18,65291,J1772,public
+ELEC,Jerome-Gun Hill Road Municipal Parking Garage,3510 Jerome Ave,Bronx,NY,10467,1,Public,EV Connect,40.882882,-73.881083,5/3/18,65294,J1772,public
+ELEC,Saint George Courthouse,54 Central Ave,Staten Island,NY,10301,1,Public,EV Connect,40.63947,-74.076912,5/3/18,65296,J1772,public
+ELEC,Jamestown Community College,525 Falconer St,Jamestown,NY,14702,1,Public,EV Connect,42.11153,-79.219321,6/5/18,65299,J1772,public
+ELEC,Rouses Point,139 Lake St,Rouses Point,NY,12979,1,Public,EV Connect,44.991537,-73.36399,2/6/19,65302,J1772,public
+ELEC,Freeport,Freeport Plaza E,Freeport,NY,11520,1,Public,EV Connect,40.656692,-73.580924,8/7/18,65303,J1772,public
+ELEC,PALISADES VW,115 NY-59,Nyack,NY,10960,1,Public,ChargePoint Network,41.093888,-73.9402778,3/8/19,65328,J1772,public
+ELEC,I-SQUARE,400 Bakers Park,Rochester,NY,14617,1,Public,ChargePoint Network,43.209711,-77.598237,3/8/19,65470,J1772,public
+ELEC,LEGEND VW,158 Merrick Rd,Amityville,NY,11701,1,Public,ChargePoint Network,40.6711775,-73.4158231,3/8/19,65533,J1772,public
+ELEC,FREEDOM SQUARE,35 5th Ave,Troy,NY,12180,1,Public,ChargePoint Network,42.7540047,-73.6817323,3/8/19,65652,J1772,public
+ELEC,BMW FREEPORT,291 W Sunrise Hwy,Freeport,NY,11520,1,Public,ChargePoint Network,40.6556167,-73.5960046,3/8/19,66632,J1772,public
+ELEC,CLARKSON UNVER,"16A,16B Pierrepont Ave",Potsdam,NY,13676,1,Public,ChargePoint Network,44.6676422,-74.9804896,3/8/19,66672,J1772,public
+ELEC,STAYBRIDGE,39 Wolf Rd Colonie,Albany,NY,12205,1,Public,ChargePoint Network,42.7126849,-73.811791,3/8/19,66733,J1772,public
+ELEC,SCCC,121 Speonk Riverhead Rd,Riverhead,NY,11901,1,Public,ChargePoint Network,40.865293,-72.696524,3/8/19,66804,J1772,public
+ELEC,SCCC,580 College Rd,Farmingville,NY,11738,1,Public,ChargePoint Network,40.8443811,-73.0550402,3/8/19,66861,J1772,public
+ELEC,SCCC,580-586 College Rd,Farmingville,NY,11738,1,Public,ChargePoint Network,40.8442593,-73.0550724,3/8/19,66862,J1772,public
+ELEC,DEER PARK,152 The Arches Cir,Deer Park,NY,11729,1,Public,ChargePoint Network,40.764866,-73.30495,3/8/19,67051,J1772,public
+ELEC,TUCKAHOE#1,44 Crescent Pl,Tuckahoe,NY,10707,1,Public,ChargePoint Network,40.9584038,-73.8195746,3/8/19,67066,J1772,public
+ELEC,NATIONAL GRID,257 Fuller Rd,Albany,NY,12203,1,Public,ChargePoint Network,42.6904563,-73.8330545,3/8/19,67092,J1772,public
+ELEC,RIVERHEAD,1947 Old Country Road,Riverhead,NY,11901,1,Public,ChargePoint Network,40.922813,-72.71169,3/8/19,67108,J1772,public
+ELEC,SCCC,701 County Rd 106,Brentwood,NY,11717,1,Public,ChargePoint Network,40.7962469,-73.2719686,3/8/19,67158,J1772,public
+ELEC,EAST HAMPTON TH,200 Daniels Hole Rd,East Hampton,NY,11937,1,Public,ChargePoint Network,40.9611778,-72.2479362,3/8/19,67226,J1772,public
+ELEC,State University of New York - Ulster Extension Center,124 Marys Ave,Kingston,NY,12401,1,Public,,41.923179,-73.999551,6/5/18,67353,J1772,public
+ELEC,TOWNE AVW,5255 Genesee street,Bowmansville,NY,14026,1,Public,ChargePoint Network,42.9398982,-78.6873306,3/8/19,67643,J1772,public
+ELEC,TAPPS,2213 Gerritsen Ave,Brooklyn,NY,11229,1,Public,ChargePoint Network,40.6015954,-73.9346045,3/8/19,67704,J1772,public
+ELEC,Mirbeau Inn & Spa,851 W Genesee Street Rd,Skaneateles,NY,13152,1,Public - Call ahead,,42.944626,-76.443793,12/11/18,67743,J1772,public
+ELEC,ScottTech,336 Court St,Binghamton,NY,13904,1,Public,,42.103472,-75.892293,12/11/18,67753,J1772,public
+ELEC,The Point Resort,222 Beaverwood Rd,Saranac Lake,NY,12983,1,Public - Call ahead,,44.303141,-74.330399,12/11/18,67755,J1772,public
+ELEC,CATSKILLBREWERY,672 Old Rte 17,Livingston Manor,NY,12758,1,Public,ChargePoint Network,41.9066433,-74.824934,3/8/19,68158,J1772,public
+ELEC,Depaula Ford,799 Central Ave,Albany,NY,12206,1,Public - Call ahead,,42.678931,-73.788718,6/5/18,68578,J1772,public
+ELEC,Price Chopper,1060 Madison Ave,Albany,NY,12208,1,Public,,42.664671,-73.790463,6/5/18,68579,J1772,public
+ELEC,Capital One - Melville,275 Broadhollow Rd,Melville,NY,11747,1,Private,,40.783244,-73.416494,12/11/18,68586,J1772,private
+ELEC,ULSTER COUNTY,1 Development Court,Kingston,NY,12401,1,Public,ChargePoint Network,41.947224,-73.995025,3/8/19,68773,J1772,public
+ELEC,ULSTER COUNTY,239 Golden Hill Dr,Kingston,NY,12401,1,Public,ChargePoint Network,41.916073,-74.018603,3/8/19,68779,J1772,public
+ELEC,PANYNJ,E End Rd La Guardia Airport,New York,NY,11371,1,Public,ChargePoint Network,40.7707522,-73.866327,3/8/19,68795,J1772,public
+ELEC,PANYNJ,E End Rd La Guardia Airpot,New York,NY,11371,1,Public,ChargePoint Network,40.7703297,-73.8656832,3/8/19,68801,J1772,public
+ELEC,PANYNJ,E End Rd,New York,NY,11371,1,Public,ChargePoint Network,40.7699965,-73.8650932,3/8/19,68802,J1772,public
+ELEC,NORTHTOWN VW,1135 Millersport Hwy,Buffalo,NY,14226,1,Public,ChargePoint Network,42.981621,-78.7958716,3/8/19,69055,J1772,public
+ELEC,RIT EV CHARGING,Clark Drive,Rochester,NY,14623,1,Public,ChargePoint Network,43.0861115,-77.6737379,3/8/19,69056,J1772,public
+ELEC,CT ROCHESTER,655 Elmwood Ave,Rochester,NY,14620,1,Public,ChargePoint Network,43.1242694,-77.6212739,3/8/19,69101,J1772,public
+ELEC,ULSTER COUNTY,124 Marys Ave,Kingston,NY,12401,1,Public,ChargePoint Network,41.9236099,-73.9984964,3/8/19,69195,J1772,public
+ELEC,OSSINING,101 NY-9A,Ossining,NY,10562,1,Public,ChargePoint Network,41.1786944,-73.8406187,3/8/19,69704,J1772,public
+ELEC,EDISONPARKFAST,92 Livingston St,new york,NY,11201,1,Public,ChargePoint Network,40.6909201,-73.9904641,3/8/19,69709,J1772,public
+ELEC,Lake Mohonk,1000 Mountain Rest Road,New Paltz,NY,12561,1,Public - Card key at all times,SemaCharge Network,41.7682793,-74.1560166,3/8/19,69911,J1772,public
+ELEC,GARVEY VW,483 Quaker Rd,Queensbury,NY,12804,1,Public,ChargePoint Network,43.3293691,-73.6297496,3/8/19,70094,J1772,public
+ELEC,STONY BROOK UNV,Campus Dr,Stony Brook,NY,11790,1,Public,ChargePoint Network,40.9143033,-73.1273162,3/8/19,70148,J1772,public
+ELEC,NEMER VW,550 Troy Schenectady Rd,Latham,NY,12110,1,Public,ChargePoint Network,42.750429,-73.7653259,3/8/19,70151,J1772,public
+ELEC,STONY BROOK UNV,698 Circle Rd,Stony Brook,NY,11790,1,Public,ChargePoint Network,40.9176679,-73.1291938,3/8/19,70237,J1772,public
+ELEC,NATIONAL GRID,200 Niagara St,Tonawanda,NY,14150,1,Public,ChargePoint Network,43.0191087,-78.8869733,3/8/19,70311,J1772,public
+ELEC,Fuccillo Nissan,3893 Route 31,Liverpool,NY,13090,1,Public - Call ahead,,43.185219,-76.242663,7/9/18,70451,J1772,public
+ELEC,Fuccillo Nissan - Latham,976 New Loudon Rd,Latham,NY,12110,1,Public - Call ahead,,42.76943,-73.754611,7/9/18,70452,J1772,public
+ELEC,Great Neck Nissan,250 Northern Blvd,Great Neck,NY,11021,1,Public - Call ahead,,40.776979,-73.727234,7/9/18,70453,J1772,public
+ELEC,Fuccillo Nissan,3893 Route 31,Liverpool,NY,13090,1,Private,,43.185219,-76.242663,7/9/18,70460,J1772,private
+ELEC,Fuccillo Nissan - Latham,976 New Loudon Rd,Latham,NY,12110,1,Private,,42.76943,-73.754611,7/9/18,70461,J1772,private
+ELEC,Great Neck Nissan,250 Northern Blvd,Great Neck,NY,11021,1,Private,,40.776979,-73.727234,7/9/18,70462,J1772,private
+ELEC,HAMPTON INN,1442 Western Ave,Albany,NY,12203,1,Public,ChargePoint Network,42.6791149,-73.8366303,3/8/19,70496,J1772,public
+ELEC,LASH VW,376 Tarrytown Rd,White Plains,NY,10607,1,Public,ChargePoint Network,41.0430009,-73.796297,3/8/19,70933,J1772,public
+ELEC,SCHENECTADY,17 Broadway,Schenectady,NY,12305,1,Public,ChargePoint Network,42.8154058,-73.9407109,3/8/19,70935,J1772,public
+ELEC,SUNY ONEONTA,24-26 Ravine Pkwy N,Oneonta,NY,13820,1,Public,ChargePoint Network,42.4689577,-75.0658663,3/8/19,71024,J1772,public
+ELEC,BASIL VW,6179 S Transit Rd,Lockport,NY,14094,1,Public,ChargePoint Network,43.122587,-78.695547,3/8/19,71103,J1772,public
+ELEC,DOUBLETREEHOTEL,455 S Broadway,Tarrytown,NY,10591,1,Public,ChargePoint Network,41.0614105,-73.8628291,3/8/19,71167,J1772COMBO,public
+ELEC,GAULT BMW,2311 North St,Endicott,NY,13760,1,Public,ChargePoint Network,42.107059,-76.035088,3/8/19,71477,J1772,public
+ELEC,TOWNE BMW,8215 Main St,Williamsville,NY,14221,1,Public,ChargePoint Network,42.9640836,-78.6876536,3/8/19,71586,J1772,public
+ELEC,MAGUIRE VW,370 Elmira Rd,Ithaca,NY,14850,1,Public,ChargePoint Network,42.4224255,-76.5174374,3/8/19,71944,J1772,public
+ELEC,NYE VW OF ROME,5865 Rome-Taberg Rd,Rome,NY,13440,1,Public,ChargePoint Network,43.2327386,-75.4981969,3/8/19,72378,J1772,public
+ELEC,BMW MANHATTAN,601-605 W 55th St,New York,NY,10019,1,Public,ChargePoint Network,40.7692913,-73.9925407,3/8/19,72470,J1772,public
+ELEC,BMW MANHATTAN,555 W 57th St,New York,NY,10019,1,Public,ChargePoint Network,40.7704109,-73.9906549,3/8/19,72472,J1772COMBO,public
+ELEC,Rechler Equity,85  S Service Rd,Plainview,NY,11803,1,Private,GE WattStation,40.7865204,-73.4521865,3/8/19,72670,J1772,private
+ELEC,GE WS - Price Chopper #191 Nisky - Right,442  Balltown Rd,Schenectady,NY,12304,1,Public,GE WattStation,42.77542,-73.89322768,3/8/19,72697,J1772,public
+ELEC,163325G01001010000,110  Avenue of the Pines,Saratoga Springs,NY,12866,1,Public,GE WattStation,43.05734818,-73.80472579,3/8/19,72698,J1772,public
+ELEC,GE WS - Price Chopper #191 Nisky - Center,442  Balltown Rd,Schenectady,NY,12304,1,Public,GE WattStation,42.77536115,-73.89322768,3/8/19,72733,J1772,public
+ELEC,GE WS - Price Chopper #191 Nisky - Left,442  Balltown Rd,Schenectady,NY,12304,1,Public,GE WattStation,42.7754,-73.8932278,3/8/19,72737,J1772,public
+ELEC,Century Solar Supply,2600  6th Ave,Troy,NY,12180,1,Public,GE WattStation,42.7419721,-73.6825362,3/8/19,72751,J1772,public
+ELEC,Imperial Garage - 340 East 34th St - Station 1,342  E 34th St,New York,NY,10016,1,Public,GE WattStation,40.7440113,-73.9741155,3/8/19,72817,J1772,public
+ELEC,The Centra - Imperial Parking - Station 2,100  W 89th St,New York,NY,10024,1,Public,GE WattStation,40.7884204,-73.9710821,3/8/19,72821,J1772,public
+ELEC,Hampton Clifton Park 2,620 Plank Road,Clifton Park,NY,12065,1,Private,GE WattStation,42.865495,-73.778328,3/8/19,72849,J1772,private
+ELEC,GE WS - Market 32 #039 Wilton Unit 2,3035  NY-50,Saratoga Springs,NY,12866,1,Public,GE WattStation,43.102894,-73.742807,3/8/19,72865,J1772,public
+ELEC,GE WS - Market 32 #039 Wilton Unit 1,3035  NY-50,Saratoga Springs,NY,12866,1,Public,GE WattStation,43.102896,-73.742848,3/8/19,72875,J1772,public
+ELEC,Hampton Schenectady 2,450  State St,Schenectady,NY,12305,1,Private,GE WattStation,42.8121531,-73.9409569,3/8/19,72879,J1772,private
+ELEC,Hampton Alb Airport 2,45  British American Blvd,Latham,NY,12110,1,Private,GE WattStation,42.76828,-73.8207,3/8/19,72887,J1772,private
+ELEC,Central Parking - 222 E 65th St- Station 1,222  E 65th St,New York,NY,10065,1,Public,GE WattStation,40.7646162,-73.9622283,3/8/19,72888,J1772,public
+ELEC,Central Parking - 58 West 58th St- Station 2,58  W 58th St,New York,NY,10019,1,Public,GE WattStation,40.7646555,-73.97610053,3/8/19,72895,J1772,public
+ELEC,Central Parking - 154 E 53rd St- Station 2,154  E 53rd St,New York,NY,10022,1,Public,GE WattStation,40.757807,-73.970226,3/8/19,72904,J1772,public
+ELEC,GMC Parking - 200 Cabrini Blvd - Station 1,200  Cabrini Blvd,New York,NY,10033,1,Public,GE WattStation,40.854575,-73.938954,3/8/19,72906,J1772,public
+ELEC,Hampton Schenectady 1,450  State St,Schenectady,NY,12305,1,Private,GE WattStation,42.8121531,-73.9409169,3/8/19,72907,J1772,private
+ELEC,Hampton Alb Wolf Rd 1,10  Ulenski Dr,Albany,NY,12205,1,Private,GE WattStation,42.724676,-73.7954479,3/8/19,72909,J1772,private
+ELEC,The Centra - Imperial Parking - Station 1,100  W 89th St,New York,NY,10024,1,Public,GE WattStation,40.7884204,-73.9710821,3/8/19,72910,J1772,public
+ELEC,GMC - 200 CENTRAL PARK SOUTH- STATION 2,200  Central Park S,New York,NY,10019,1,Public,GE WattStation,40.7667193,-73.9795327,3/8/19,72911,J1772,public
+ELEC,Central Parking - 58 West 58th St- Station 1,58  W 58th St,New York,NY,10019,1,Public,GE WattStation,40.764623,-73.976181,3/8/19,72914,J1772,public
+ELEC,Central Parking - 146 W 57th St - Station 2,146  W 57th St,New York,NY,10019,1,Public,GE WattStation,40.764609,-73.979542,3/8/19,72915,J1772,public
+ELEC,Central Parking - 222 E 65th St- Station 2,222  E 65th St,New York,NY,10065,1,Public,GE WattStation,40.7646162,-73.9622783,3/8/19,72916,J1772,public
+ELEC,Hampton Alb Wolf Rd 2,10  Ulenski Dr,Albany,NY,12205,1,Private,GE WattStation,42.724676,-73.7954479,3/8/19,72917,J1772,private
+ELEC,Hampton Alb Airport 1,45  British American Blvd,Latham,NY,12110,1,Private,GE WattStation,42.768177,-73.82062,3/8/19,72918,J1772,private
+ELEC,Central Parking - 115 E 87th St- Station 2,115  W 87th St,New York,NY,10024,1,Public,GE WattStation,40.787599,-73.972115,3/8/19,72919,J1772,public
+ELEC,Hampton Clifton Park 1,620 Plank Road,Clifton Park,NY,12065,1,Private,GE WattStation,42.865495,-73.778228,3/8/19,72921,J1772,private
+ELEC,GMC - Laureate Garage #1,2148  Broadway,New York,NY,10023,1,Public,GE WattStation,40.7813096,-73.9808336,3/8/19,72922,J1772,public
+ELEC,GMC - 8 E 83RD ST-STATION 2,8  E 83rd St,New York,NY,10028,1,Public,GE WattStation,40.7790291,-73.9609047,3/8/19,72927,J1772,public
+ELEC,GE WattStation,1  River Rd,Schenectady,NY,12306,1,Private,GE WattStation,42.81036096,-73.95477306,3/8/19,72928,J1772,private
+ELEC,Whole Foods Market Third and 3rd Station 2,214  3rd St,Brooklyn,NY,11215,1,Public,GE WattStation,40.67524162,-73.9886306,3/8/19,72939,J1772,public
+ELEC,GE WattStation,1  River Rd,Schenectady,NY,12306,1,Private,GE WattStation,42.81034308,-73.95426076,3/8/19,72946,J1772,private
+ELEC,GMC - 8 E 83RD ST-STATION 1,8  E 83rd St,New York,NY,10028,1,Public,GE WattStation,40.7790291,-73.9609047,3/8/19,72949,J1772,public
+ELEC,CENTRAL PARKING - STATION 2,345  W 58th St,New York,NY,10019,1,Public,GE WattStation,40.768946,-73.98415,3/8/19,72950,J1772,public
+ELEC,Whole Foods Market Third and 3rd Station 1,214  3rd St,Brooklyn,NY,11215,1,Public,GE WattStation,40.6751862,-73.9885306,3/8/19,72964,J1772,public
+ELEC,Central Parking - 154 E 53rd St- Station 1,154  E 53rd St,New York,NY,10022,1,Public,GE WattStation,40.75790859,-73.97065515,3/8/19,72965,J1772,public
+ELEC,Central Parking - 146 W 57th St - Station 1,146  W 57th St,New York,NY,10019,1,Public,GE WattStation,40.764609,-73.979512,3/8/19,72968,J1772,public
+ELEC,GE WS - Price Chopper #159 Bethlehem Unit 1,1395  New Scotland Rd,Slingerlands,NY,12159,1,Public,GE WattStation,42.638663,-73.857186,3/8/19,72970,J1772,public
+ELEC,Imperial Garage - 300 W 55th St- Station 2,300  W 55th St,New York,NY,10019,1,Public,GE WattStation,40.765153,-73.984122,3/8/19,72982,J1772,public
+ELEC,GE WS - Market Bistro #138 Loudon Unit 2,Rt 9 & Cobbee Rd,Latham,NY,12110,1,Public,GE WattStation,42.752997,-73.757776,3/8/19,72999,J1772,public
+ELEC,BSP 1 (QR 2000302),3663 South Lake Shore Rd,Buffalo,NY,14219,1,Private,GE WattStation,42.7886117,-78.84570062,3/8/19,73000,J1772,private
+ELEC,Imperial Garage - 300 W 55th St- Station 1,300  W 55th St,New York,NY,10019,1,Public,GE WattStation,40.765153,-73.98434731,3/8/19,73020,J1772,public
+ELEC,GMC Parking - Travelers Garage,200  Cabrini Blvd,New York,NY,10033,1,Public,GE WattStation,40.73431396,-74.00195313,3/8/19,73025,J1772,public
+ELEC,Coliseum Park Apts - Central Parking - Station 1,345  W 58th St,New York,NY,10019,1,Public,GE WattStation,40.768946,-73.98412,3/8/19,73030,J1772,public
+ELEC,GMC - Laureate Garage #2,2148  Broadway,New York,NY,10023,1,Public,GE WattStation,40.7813096,-73.9808836,3/8/19,73032,J1772,public
+ELEC,Central Parking - 115 E 87th St -  Station 1,115  W 87th St,New York,NY,10024,1,Public,GE WattStation,40.787599,-73.972015,3/8/19,73040,J1772,public
+ELEC,GE WS - Market Bistro #138 Loudon Unit 1 S,Rt 9 & Cobbee Rd,Latham,NY,12110,1,Public,GE WattStation,42.753012,-73.75777,3/8/19,73048,J1772,public
+ELEC,GE WattStation,214  3rd St,Brooklyn,NY,11215,1,Public,GE WattStation,40.6753309,-73.9885628,3/8/19,73056,J1772,public
+ELEC,GMC - 200 CENTRAL PARK SOUTH- STATION 1,200  Central Park S,New York,NY,10019,1,Public,GE WattStation,40.7667193,-73.9795827,3/8/19,73059,J1772,public
+ELEC,BSP 2 (QR 2000339),3663 South Lake Shore Rd,Buffalo,NY,14219,1,Private,GE WattStation,42.78876289,-78.8457282,3/8/19,73099,J1772,private
+ELEC,Imperial Garage - 340 East 34th St - Station 2,342  E 34th St,New York,NY,10016,1,Public,GE WattStation,40.7440113,-73.9741155,3/8/19,73118,J1772,public
+ELEC,GE WS - Price Chopper #159 Bethlehem Unit 2,1395  New Scotland Rd,Slingerlands,NY,12159,1,Public,GE WattStation,42.63864,-73.857265,3/8/19,73121,J1772,public
+ELEC,GE WattStation,1  River Rd,Schenectady,NY,12306,1,Private,GE WattStation,42.81034308,-73.95426076,3/8/19,73124,J1772,private
+ELEC,TRANSITION,48 Walnut St,Margaretville,NY,12455,1,Public,ChargePoint Network,42.1487305,-74.6490751,3/8/19,73202,J1772,public
+ELEC,TRANSITION,39 Elm St,Delhi,NY,13753,1,Public,ChargePoint Network,42.2736179,-74.9178812,3/8/19,73247,J1772,public
+ELEC,TRANSITION,11 Cornell Ave,Hobart,NY,13788,1,Public,ChargePoint Network,42.3721895,-74.6672251,3/8/19,73257,J1772,public
+ELEC,Tuthilltown Spirits Distillery,14 Gristmill Ln,Gardiner,NY,12525,1,Public - Call ahead,,41.687197,-74.175388,12/11/18,73715,J1772,public
+ELEC,GE WS #7 (0000438),1 Research Circle,Niskayuna,NY,12309,1,Private,GE WattStation,42.82917,-73.87699493,3/8/19,74119,J1772,private
+ELEC,GE WS #6 (0000415),1 Research Circle,Niskayuna,NY,12309,1,Public,GE WattStation,42.829136,-73.87699493,3/8/19,74120,J1772,public
+ELEC,STOP SHOP,194 W Montauk Hwy,Hampton Bays,NY,11946,1,Public,ChargePoint Network,40.873654,-72.537836,3/8/19,74565,J1772COMBO,public
+ELEC,Davidson Nissan,18423 Route 11,Watertown,NY,13601,1,Public,,43.932998,-75.936638,7/9/18,74631,J1772,public
+ELEC,Vision Nissan,2409 Rochester Rd,Canandaigua,NY,14424,1,Public,,42.916433,-77.300722,7/9/18,74632,J1772,public
+ELEC,United Parcel Service,643 W 43rd St,New York,NY,10036,1,Private,,40.762442,-74.000055,11/8/18,74648,J1772,private
+ELEC,Davidson Nissan,18423 Route 11,Watertown,NY,13601,1,Private,,43.932998,-75.936638,7/9/18,74664,J1772,private
+ELEC,Vision Nissan,2409 Rochester Rd,Canandaigua,NY,14424,1,Private,,42.916433,-77.300722,7/9/18,74676,J1772,private
+ELEC,MARRIOTT,1350 Walt Whitman Rd,Melville,NY,11747,1,Public,ChargePoint Network,40.783661,-73.422431,3/8/19,74681,J1772COMBO,public
+ELEC,ADIRONDACK,NY-30,Blue Mountain Lake,NY,12812,1,Public,ChargePoint Network,43.8693919,-74.4318122,3/8/19,75654,J1772,public
+ELEC,Rochester Institute of Technology - Lot M,1 Lomb Memorial Dr,Rochester,NY,14623,1,Public,,43.08779,-77.674413,6/5/18,75944,J1772,public
+ELEC,NATIONAL GRID,380 US-9W,Glenmont,NY,12077,1,Public,ChargePoint Network,42.6033025,-73.790054,3/8/19,76228,J1772,public
+ELEC,NATIONAL GRID,1536 Military Rd,Niagara Falls,NY,14304,1,Public,ChargePoint Network,43.0947367,-78.9731916,3/8/19,76229,J1772,public
+ELEC,QUEENS COLLEGE,153-23 61st Rd,Queens,NY,11367,1,Public,ChargePoint Network,40.7388662,-73.8171461,3/8/19,76288,J1772,public
+ELEC,QUEENS COLLEGE,153-26 61st Rd,Queens,NY,11367,1,Public,ChargePoint Network,40.7385319,-73.8172036,3/8/19,76289,J1772,public
+ELEC,Manhattan Plaza Parking,427 W 42nd St,New York,NY,10036,1,Public,,40.758936,-73.993842,6/5/18,76683,CHADEMO,public
+ELEC,BLDG4-2,7351 Round Pond Road,North Syracuse,NY,13212,1,Private,GE WattStation,43.128761,-76.0838618,3/8/19,77012,J1772,private
+ELEC,BLDG4-1,7351 Round Pond Road,North Syracuse,NY,13212,1,Private,GE WattStation,43.1287394,-76.0838815,3/8/19,77017,J1772,private
+ELEC,ALBANESE ORG,95 North End Ave,New York,NY,10282,1,Public,ChargePoint Network,40.7151023,-74.0163292,3/8/19,77132,J1772,public
+ELEC,ALBANESE ORG,20 River Terrace,New York,NY,10282,1,Public,ChargePoint Network,40.716604,-74.016103,3/8/19,77133,J1772,public
+ELEC,ALBANESE ORG,77 W 24th St,New York,NY,10010,1,Public,ChargePoint Network,40.7435617,-73.9918929,3/8/19,77134,J1772,public
+ELEC,Calverton National Cemetery,210 Princeton Blvd,Calverton,NY,11933,1,Private,,40.924144,-72.816045,1/10/19,77665,J1772,private
+ELEC,DEPAULA,785 Central ave,Albany,NY,12206,1,Public,ChargePoint Network,42.6789924,-73.7885342,3/8/19,77883,J1772,public
+ELEC,1280BROADHOLLOW,1280 Broadhollow Rd,Farmingdale,NY,11735,1,Public,ChargePoint Network,40.734619,-73.423928,3/8/19,78235,J1772,public
+ELEC,SUNation Solar Systems,171 Remington Blvd,Ronkonkoma,NY,11779,1,Public,,40.79009,-73.130392,6/5/18,78416,J1772,public
+ELEC,WARWARSING,Landfill Road,Kerhonkson,NY,12446,1,Public,ChargePoint Network,41.7620125,-74.354353,3/8/19,78482,J1772,public
+ELEC,Empire Farm Brewery,33 Rippleton Rd,Cazenovia,NY,13035,1,Public,,42.919517,-75.86605,6/5/18,79175,J1772,public
+ELEC,COHEN BROTHERS,475 Park Ave S,New York,NY,10016,1,Public,ChargePoint Network,40.7453718,-73.9821073,3/8/19,79843,J1772,public
+ELEC,LEARYS 1,3256 Monroe Ave,Rochester,NY,14618,1,Public,ChargePoint Network,43.1045023,-77.5394752,3/8/19,79988,J1772,public
+ELEC,BEAM CHARGING,776 Avenue of the Americas,New York,NY,10001,1,Public,ChargePoint Network,40.7449139,-73.9910276,3/8/19,80061,J1772,public
+ELEC,Bob Johnson Chevrolet,1271 W Ridge Rd,Rochester,NY,14615,1,Public,,43.203546,-77.661537,6/5/18,80871,J1772,public
+ELEC,Peconic Lane Community Center,1170 Peconic Ln,Peconic,NY,11958,1,Public - Credit card at all times,,41.0437,-72.4568,6/5/18,80873,J1772,public
+ELEC,WINDHAMMOUNTAIN,19 Resort Dr,Windham,NY,12496,1,Public,ChargePoint Network,42.2992758,-74.2558811,3/8/19,80967,J1772,public
+ELEC,MAIN,1133 NY-414,Waterloo,NY,13165,1,Public,ChargePoint Network,42.9699663,-76.8452818,3/8/19,80972,J1772,public
+ELEC,MAIN,1133 Route 414 Parking Garage,Waterloo,NY,13165,1,Public,ChargePoint Network,42.9691655,-76.8452658,3/8/19,81175,J1772,public
+ELEC,Jim Barnard Chevrolet,7101 Buffalo Rd,Churchville,NY,14428,1,Public - Call ahead,,43.1,-77.86,12/11/18,81608,J1772,public
+ELEC,GREATNECK PLAZA,2 Gussack Plaza,Great Neck,NY,11022,1,Public,ChargePoint Network,40.7874242,-73.7299994,3/8/19,81641,J1772,public
+ELEC,Fairport Electric,43 Lift Bridge Ln E,Fairport,NY,14450,1,Public,,43.101432,-77.438423,4/3/18,82260,J1772,public
+ELEC,COHEN BROTHERS,750 Lexington Ave,New York,NY,10022,1,Public,ChargePoint Network,40.7628984,-73.9683267,3/8/19,82314,J1772,public
+ELEC,COHEN BROTHERS,3 E 54th St,New York,NY,10022,1,Public,ChargePoint Network,40.7609595,-73.9746494,3/8/19,82318,J1772,public
+ELEC,Davidson Ford,3690 State Route 31,Clay,NY,13090,1,Public - Call ahead,,43.181259,-76.256973,12/11/18,82355,J1772,public
+ELEC,ROSENDALE,382 Main St,Kingston,NY,12401,1,Public,ChargePoint Network,41.8449543,-74.0814593,3/8/19,82373,J1772,public
+ELEC,Reinstein Woods Nature Preserve,93 Honorine Dr,Depew,NY,14043,1,Public,,42.889011,-78.718568,6/5/18,82545,J1772,public
+ELEC,HABBERSTAD BMW,959 E Jericho Turnpike,Huntington Station,NY,11746,1,Public,ChargePoint Network,40.835792,-73.373734,3/8/19,82576,J1772,public
+ELEC,VALET,304 Rush St,Schenectady,NY,12308,1,Public,ChargePoint Network,42.8224517,-73.9368473,3/8/19,82606,J1772,public
+ELEC,BEAM CHARGING,127 E 83rd St,Manhattan,NY,10028,1,Public,ChargePoint Network,40.7778702,-73.9571915,3/8/19,85407,J1772,public
+ELEC,THE VUE,1809 Emmons Ave,Brooklyn,NY,11235,1,Public,ChargePoint Network,40.5837551,-73.9501228,3/8/19,85440,CHADEMO,public
+ELEC,GOWANUS,214 3rd St,Brooklyn,NY,11215,1,Public,ChargePoint Network,40.675124,-73.988492,3/8/19,85460,J1772,public
+ELEC,CASE CENTER LOT,Case Center Dr,Saratoga Springs,NY,12866,1,Public,ChargePoint Network,43.096185,-73.7864368,3/8/19,85525,J1772,public
+ELEC,NATIONAL GRID,1305 Buckley Rd,Syracuse,NY,13212,1,Public,ChargePoint Network,43.0948333,-76.1720421,3/8/19,85565,J1772,public
+ELEC,PARKING GARAGE,15 Bank St,White Plains,NY,10606,1,Public,ChargePoint Network,41.031322,-73.774501,3/8/19,85575,J1772,public
+ELEC,NATIONAL GRID,Diefendorf Loop,Buffalo,NY,14215,1,Public,ChargePoint Network,42.9522945,-78.8178585,3/8/19,85634,J1772,public
+ELEC,Romeo Chevrolet,1665 Ulster Ave,Lake Katrine,NY,12449,1,Public,,41.980335,-73.990256,6/5/18,85682,J1772,public
+ELEC,Koeppel Nissan,74-15 Northern Blvd,Jackson Heights,NY,11372,1,Public - Call ahead,,40.755072,-73.892094,7/9/18,85969,CHADEMO,public
+ELEC,Maguire Nissan,716 W Genesee,Syracuse,NY,13204,1,Public - Call ahead,,43.053474,-76.163547,7/9/18,85970,J1772,public
+ELEC,TOWN OF RED HK,7336 S Broadway,Red Hook,NY,12571,1,Public,ChargePoint Network,41.986926,-73.880754,3/8/19,86019,J1772,public
+ELEC,Honest Weight Co-op,100 Watervliet Ave,Albany,NY,12206,1,Public,,42.678984,-73.782529,6/5/18,86199,J1772,public
+ELEC,Marbletown Community Center,3562 Main St,Stone Ridge,NY,12484,1,Public,,41.852199,-74.139929,6/5/18,86200,J1772,public
+ELEC,BMW OYSTER BAY,143-145 NY-106,Oyster Bay,NY,11771,1,Public,ChargePoint Network,40.8578576,-73.5345654,3/8/19,86262,J1772,public
+ELEC,STATION 1,20 Old Post Rd,Lake George,NY,12845,1,Public,ChargePoint Network,43.4313245,-73.7171708,3/8/19,86266,J1772,public
+ELEC,VILLAGE STATION,15-21 James St,Lake George,NY,12845,1,Public,ChargePoint Network,43.424217,-73.7152375,3/8/19,86267,J1772,public
+ELEC,GOSHEN EVCS #1A,128 W Main St,Goshen,NY,10924,1,Public,ChargePoint Network,41.4019504,-74.32651,3/8/19,86281,J1772,public
+ELEC,City of Binghamton - Recreation Park,88 Beethoven St,Binghamton,NY,13901,1,Public,,42.099763,-75.935148,6/5/18,86715,J1772,public
+ELEC,MUNICIPAL LOT,20 Payne St,Hamilton,NY,13346,1,Public,ChargePoint Network,42.8269997,-75.5424813,3/8/19,86915,J1772,public
+ELEC,FAYETTEVILLE,205 Brooklea Dr,Fayetteville,NY,13066,1,Public,ChargePoint Network,43.0310044,-76.0124702,3/8/19,86984,J1772,public
+ELEC,CITYOFGLEN COVE,9 Glen Street,Glen Cove,NY,11542,1,Public,ChargePoint Network,40.8643206,-73.6312615,3/8/19,87380,J1772,public
+ELEC,24 STATE STREET,14 State St,Pittsford,NY,14534,1,Public,ChargePoint Network,43.0912095,-77.5143981,3/8/19,87398,J1772,public
+ELEC,VILLAGE HALL,49 State St,Brockport,NY,14420,1,Public,ChargePoint Network,43.2143953,-77.9362243,3/8/19,87413,J1772,public
+ELEC,ROC,Airport Rd,Rochester,NY,14624,1,Public,ChargePoint Network,43.1296643,-77.6691578,3/8/19,87415,J1772,public
+ELEC,EVCS1,105 S Main St,Canandaigua,NY,14424,1,Public,ChargePoint Network,42.8866358,-77.2792585,3/8/19,87458,J1772,public
+ELEC,Price Chopper,501 Columbia Turnpike,Rensselaer,NY,12144,1,Public,,42.605706,-73.717851,6/5/18,87606,J1772,public
+ELEC,PARK ST. GARAGE,50-54 Park St,Glens Falls,NY,12801,1,Public,ChargePoint Network,43.307755,-73.644423,3/8/19,87608,J1772,public
+ELEC,NATIONAL GRID,6081 US-219,Ellicottville,NY,14731,1,Public,ChargePoint Network,42.2618,-78.6630773,3/8/19,87682,J1772,public
+ELEC,Prettejohn Public Parking Lot,17 Commercial St,Livonia,NY,14487,1,Public,,42.821105,-77.668406,6/5/18,87725,J1772,public
+ELEC,Westchester Park Center,4 Westchester Park Drive,White Plains,NY,10604,1,Public - Card key at all times,SemaCharge Network,41.0229254,-73.72545,3/8/19,87808,J1772,public
+ELEC,STATE ROUTE 42,4052 NY-42 Town Hall,Monticello,NY,12701,1,Public,ChargePoint Network,41.6688212,-74.6721468,3/8/19,87810,J1772,public
+ELEC,Long Island Welcome Center,I-495 E,Dix Hills,NY,11746,1,Public,,40.802658,-73.316725,6/5/18,87914,CHADEMO,public
+ELEC,BCC,528 Valley Rd,Brooktondale,NY,14817,1,Public,ChargePoint Network,42.3807469,-76.3933409,3/8/19,87951,J1772,public
+ELEC,PARKING GARAGE1,1 Lincoln St,Auburn,NY,13021,1,Public,ChargePoint Network,42.930293,-76.5671865,3/8/19,87953,J1772,public
+ELEC,BARD ALMNCT,9 Gardener Way,Red Hook,NY,12571,1,Public,ChargePoint Network,42.0113574,-73.9166624,3/8/19,87994,J1772,public
+ELEC,STONY BROOK UNV,500 Circle Rd,Stony Brook,NY,11790,1,Public,ChargePoint Network,40.910269,-73.124414,3/8/19,88059,J1772,public
+ELEC,BETHEL,3586 State Rte 55,Kauneonga Lake,NY,12749,1,Public,ChargePoint Network,41.6859816,-74.8307887,3/8/19,88145,J1772,public
+ELEC,ICE RINK,6 Small World Ave,Saugerties,NY,12477,1,Public,ChargePoint Network,42.0907085,-73.9510187,3/8/19,88146,J1772,public
+ELEC,ULYSSES TOWN,10 Elm St,Trumansburg,NY,14886,1,Public,ChargePoint Network,42.5412505,-76.6614353,3/8/19,88337,J1772,public
+ELEC,Lakeland Park,11 Foreman St,Cazenovia,NY,13035,1,Public,,42.929429,-75.859296,6/5/18,88340,J1772,public
+ELEC,MUNI PARKIN LOT,5 Chestnut St,Geneseo,NY,14454,1,Public,ChargePoint Network,42.7951956,-77.8160845,3/8/19,88351,J1772,public
+ELEC,SCHENECTADY,PTL Arthur Chaires Ln,Schenectady,NY,12309,1,Public,ChargePoint Network,42.799875,-73.9085536,3/8/19,88397,J1772,public
+ELEC,SCHENECTADY,912 Woodlawn Dr,Schenectady,NY,12309,1,Public,ChargePoint Network,42.8040761,-73.9043358,3/8/19,88398,J1772,public
+ELEC,SCHENECTADY,154 Erie Blvd,Schenectady,NY,12305,1,Public,ChargePoint Network,42.8130771,-73.9458357,3/8/19,88399,J1772,public
+ELEC,HOTEL,50 Red Oaks Mill Rd,Poughkeepsie,NY,12603,1,Public,ChargePoint Network,41.6547355,-73.870968,3/8/19,88437,J1772,public
+ELEC,LIBRARY 1,245 N Main St,Herkimer,NY,13350,1,Public,ChargePoint Network,43.0274712,-74.9889373,3/8/19,88492,J1772,public
+ELEC,CAYUGA STATION,235 S Cayuga St,Ithaca,NY,14850,1,Public,ChargePoint Network,42.4373586,-76.4987443,3/8/19,88493,J1772,public
+ELEC,STATION 1,13 Scribner Hollow Rd,Hunter,NY,12442,1,Public,ChargePoint Network,42.2039956,-74.1965292,3/8/19,88494,J1772,public
+ELEC,North Creek Heads in Beds,191 Main St,North Creek,NY,12853,1,Public,,43.69475,-73.985344,12/11/18,88498,J1772,public
+ELEC,BEDFORD_EV,2-42 Jay St Jay Street Lot,Katonah,NY,10536,1,Public,ChargePoint Network,41.2591794,-73.6826563,3/8/19,88538,J1772,public
+ELEC,BEDFORDEV,11 Railroad Ave,Bedford Hills,NY,10507,1,Public,ChargePoint Network,41.2373612,-73.7001054,3/8/19,88539,J1772,public
+ELEC,BEDFORDEV,321 Bedford Rd.,Bedford Hills,NY,10507,1,Public,ChargePoint Network,41.2398198,-73.6990734,3/8/19,88540,J1772,public
+ELEC,BEDFORDEV,60 Haines Rd.,Bedford Hills,NY,10507,1,Public,ChargePoint Network,41.2341135,-73.7066215,3/8/19,88541,J1772,public
+ELEC,BEDFORD_EV,70 Katonah Ave.  Lot 1,Katonah,NY,10536,1,Public,ChargePoint Network,41.2598094,-73.6838308,3/8/19,88542,J1772,public
+ELEC,BEDFORDEV,65 Greenwich Rd,Bedford,NY,10506,1,Public,ChargePoint Network,41.1970582,-73.644729,3/8/19,88543,J1772,public
+ELEC,MASSENA_EV,21-25 Andrews St,Massena,NY,13662,1,Public,ChargePoint Network,44.9317568,-74.8939836,3/8/19,88547,J1772,public
+ELEC,TOWNHALLSTATION,2609 NY-23,Hillsdale,NY,12529,1,Public,ChargePoint Network,42.1795569,-73.5265684,3/8/19,88553,J1772,public
+ELEC,I-SQUARE,11 Stranahan Park,Rochester,NY,14617,1,Public,ChargePoint Network,43.209867,-77.59788,3/8/19,88565,J1772,public
+ELEC,DMV PARKING LOT,227 W Main St,Johnstown,NY,12095,1,Public,ChargePoint Network,43.006616,-74.3754234,3/8/19,88646,J1772,public
+ELEC,5TH AVE,1713 5th Ave,Troy,NY,12180,1,Public,ChargePoint Network,42.7305221,-73.6880595,3/8/19,88700,J1772,public
+ELEC,STATION 1 @ VIL,70 E Main St,Victor,NY,14564,1,Public,ChargePoint Network,42.9817554,-77.4083598,3/8/19,88701,J1772,public
+ELEC,VILLAGE HALL,12-40 Water St,Brockport,NY,14420,1,Public,ChargePoint Network,43.2156963,-77.9371925,3/8/19,88710,J1772,public
+ELEC,UTICA CITY HALL,1 Kennedy Plaza,Utica,NY,13502,1,Public,ChargePoint Network,43.1015541,-75.2355439,3/8/19,88728,J1772,public
+ELEC,TOWN OF AURORA,113 King St,East Aurora,NY,14052,1,Public,ChargePoint Network,42.7649349,-78.6133153,3/8/19,88729,J1772,public
+ELEC,ITHACA VISITORS,Conservatory Dr,Ithaca,NY,14850,1,Public,ChargePoint Network,42.420935,-76.5000839,3/8/19,88730,J1772,public
+ELEC,BRIDGESTREETLOT,63 Bridge St,Amsterdam,NY,12010,1,Public,ChargePoint Network,42.9343726,-74.1972709,3/8/19,88732,J1772,public
+ELEC,SHELTER ISLAND,2-6 E Thomas St,Shelter Island,NY,11964,1,Public,ChargePoint Network,41.0697943,-72.3385478,3/8/19,88780,J1772,public
+ELEC,TOWNE BMW,8195 Main St,Williamsville,NY,14221,1,Public,ChargePoint Network,42.9641386,-78.6880465,3/8/19,88786,J1772,public
+ELEC,BEAM CHARGING,750 Columbus Ave,New York,NY,10025,1,Public,ChargePoint Network,40.793416,-73.967719,3/8/19,88787,J1772,public
+ELEC,MAIN LIBRARY,99 Clinton St,Schenectady,NY,12305,1,Public,ChargePoint Network,42.8152467,-73.9377018,3/8/19,89047,J1772,public
+ELEC,WOODLAWN GARAGE,17-21 Division St,Saratoga Springs,NY,12866,1,Public,ChargePoint Network,43.0818863,-73.7865244,3/8/19,89779,J1772,public
+ELEC,ELECTRIC CAT,2037 Nys Hwy 17b,Bethel,NY,12720,1,Public,ChargePoint Network,41.6842743,-74.8773273,3/8/19,89783,J1772,public
+ELEC,2600 6TH AVE,102 Jay St,Troy,NY,12180,1,Public,ChargePoint Network,42.7418151,-73.6823865,3/8/19,89903,J1772,public
+ELEC,Davidson Chevrolet Cadillac Buick GMC of Rome,5871 Rome-Taberg Rd,Rome,NY,13440,1,Private,,43.232936,-75.496866,10/4/18,89914,J1772,private
+ELEC,Ulster County Office Complex - Employee Lot,1 Pearl St,Kingston,NY,12401,1,Public,,41.932665,-74.015958,12/11/18,89919,J1772,public
+ELEC,Davidson Chevrolet Cadillac Buick GMC of Rome,5871 Rome-Taberg Rd,Rome,NY,13440,1,Public,,43.232936,-75.496866,10/4/18,89922,J1772,public
+ELEC,K&H STATION 1,66 Southern Blvd,Nesconset,NY,11767,1,Public,ChargePoint Network,40.8538916,-73.1599226,3/8/19,89930,J1772,public
+ELEC,STRAND THEATRE,3092 NY-28,Old Forge,NY,13420,1,Public,ChargePoint Network,43.7108479,-74.9721519,3/8/19,89931,J1772,public
+ELEC,BATAVIA DOWNS,8323-8325 Park Rd,Batavia,NY,14020,1,Public,ChargePoint Network,43.0086833,-78.2060545,3/8/19,89932,J1772,public
+ELEC,MONTGOMERY COUN,200 Clark Dr,Fultonville,NY,12072,1,Public,ChargePoint Network,42.9345415,-74.3323165,3/8/19,89934,J1772,public
+ELEC,ULSTER COUNTY,5 Pearl St,Kingston,NY,12401,1,Public,ChargePoint Network,41.9325906,-74.0161362,3/8/19,89937,J1772,public
+ELEC,RXR REALTY,Earle Ovington Blvd,Uniondale,NY,11553,1,Public,ChargePoint Network,40.7245454,-73.5944542,3/8/19,89958,J1772,public
+ELEC,Price Chopper,3863 Route 31,Liverpool,NY,13090,1,Public,,43.18835,-76.2455,4/3/18,91865,J1772,public
+ELEC,Village of Sodus,14-16 Mill St,Sodus,NY,14551,1,Public,,43.235555,-77.061621,4/3/18,92116,J1772,public
+ELEC,TOWN OF BABYLON,151 Phelps Ln,North Babylon,NY,11703,1,Public,ChargePoint Network,40.726021,-73.329552,3/8/19,92259,J1772,public
+ELEC,APEX,64 Main St,Queensbury,NY,12804,1,Public,ChargePoint Network,43.2996329,-73.6694469,3/8/19,92271,J1772,public
+ELEC,BARD ALMNCT,Robbins Rd,Tivoli,NY,12583,1,Public,ChargePoint Network,42.0314528,-73.9041863,3/8/19,92277,J1772,public
+ELEC,HWS COLLEGES,311 Pulteney St,Geneva,NY,14456,1,Public,ChargePoint Network,42.8599595,-76.984274,3/8/19,92279,J1772,public
+ELEC,PANYNJ,LGA West Garage,Flushing,NY,11371,1,Public,ChargePoint Network,40.7729725,-73.875608,3/8/19,92300,J1772,public
+ELEC,PANYNJ,LGA West Garage,East Elmhurst,NY,11371,1,Public,ChargePoint Network,40.7729769,-73.875474,3/8/19,92305,J1772,public
+ELEC,HOLT1,671-699 W State St,Ithaca,NY,14850,1,Public,ChargePoint Network,42.4390692,-76.5101044,3/8/19,92319,J1772,public
+ELEC,CITY OF ITHACA,118 Dryden Rd,Ithaca,NY,14850,1,Public,ChargePoint Network,42.4421418,-76.4861117,3/8/19,92327,J1772,public
+ELEC,210 HANCOCK,423 1st St,Ithaca,NY,14850,1,Public,ChargePoint Network,42.4482748,-76.5033538,3/8/19,92331,J1772,public
+ELEC,CITY OF ITHACA,202 NY-79,Ithaca,NY,14850,1,Public,ChargePoint Network,42.4406668,-76.4962137,3/8/19,92334,J1772,public
+ELEC,TRICOR-PLAT1-2N,30-34 Plattekill Ave,New Paltz,NY,12561,1,Public,ChargePoint Network,41.7459524,-74.0840691,3/8/19,92366,J1772,public
+ELEC,DEWITT EV 1,5400 Butternut Drive,East Syracuse,NY,13057,1,Public,ChargePoint Network,43.0459177,-76.049853,3/8/19,92371,J1772,public
+ELEC,WYOMING COUNTY,23 W Buffalo St,Warsaw,NY,14569,1,Public,ChargePoint Network,42.7406244,-78.1337054,3/8/19,92412,J1772,public
+ELEC,COMMCTR,Veterans Dr,New Paltz,NY,12561,1,Public,ChargePoint Network,41.756382,-74.0810409,3/8/19,92429,J1772,public
+ELEC,SHINEMAN SOUTH,309 Washington Blvd SUNY Oswego PERMIT REQUIRED - Parking Lot C-8,Oswego,NY,13126,1,Public,ChargePoint Network,43.453772,-76.536902,3/8/19,92494,J1772,public
+ELEC,ULSTER COUNTY,239 Golden Hill Rd,Kingston,NY,12401,1,Public,ChargePoint Network,41.9168762,-74.0195941,3/8/19,92513,J1772,public
+ELEC,ULSTER COUNTY,317 Shamrock Lane,Kingston,NY,12401,1,Public,ChargePoint Network,41.9359712,-74.0282439,3/8/19,92514,J1772,public
+ELEC,ULSTER COUNTY,380 Boulevard,Kingston,NY,12401,1,Public,ChargePoint Network,41.9130185,-74.0146564,3/8/19,92515,J1772,public
+ELEC,ULSTER COUNTY,50 Center St,Ellenville,NY,12428,1,Public,ChargePoint Network,41.7177128,-74.3963205,3/8/19,92516,J1772,public
+ELEC,ULSTER COUNTY,733 Broadway,Kingston,NY,12401,1,Public,ChargePoint Network,41.9310913,-74.0105886,3/8/19,92518,J1772,public
+ELEC,Legend Nissan,268 Jericho Tpke,Syosset,NY,11791,1,Public - Card key at all times,eVgo Network,40.809678,-73.507767,3/8/19,93042,CHADEMO,public
+ELEC,Woodbury Common Premium Outlets,498 Red Apple Ct,Central Valley,NY,10917,1,Public - Card key at all times,eVgo Network,41.313472,-74.125,3/8/19,93221,CHADEMO,public
+ELEC,Sunshine Square,700 Patchogue Yaphank Rd,Medford,NY,11763,1,Public - Card key at all times,eVgo Network,40.807079,-72.954544,3/8/19,93249,CHADEMO,public
+ELEC,7-Eleven,5820 Francis Lewis Blvd,Oakland Gardens,NY,11364,1,Public - Card key at all times,eVgo Network,40.744883,-73.77711,3/8/19,93250,CHADEMO,public
+ELEC,Walgreens,589 Prospect Ave,Brooklyn,NY,11215,1,Public - Card key at all times,eVgo Network,40.65678,-73.97776,3/8/19,93308,CHADEMO,public
+ELEC,CVS Pharmacy,7568 N Broadway,Red Hook,NY,12571,1,Public - Card key at all times,eVgo Network,41.997516,-73.873474,3/8/19,93379,CHADEMO,public
+ELEC,Hannaford Supermarket,5239 Western Tpke,Altamont,NY,12009,1,Public - Card key at all times,eVgo Network,42.716251,-73.934456,3/8/19,93480,CHADEMO,public
+ELEC,Hannaford Supermarket,9 126th St,Troy,NY,12182,1,Public - Card key at all times,eVgo Network,42.788293,-73.672161,3/8/19,93507,CHADEMO,public
+ELEC,Hannaford Supermarket,900 Central Ave,Albany,NY,12206,1,Public - Card key at all times,eVgo Network,42.680666,-73.790984,3/8/19,93508,CHADEMO,public
+ELEC,Hannaford Supermarket,5 Maple Rd,Voorheesville,NY,12186,1,Public - Card key at all times,eVgo Network,42.649325,-73.9232,3/8/19,93509,CHADEMO,public
+ELEC,College Plaza,15-109 Middle Country Rd,Selden,NY,11784,1,Public - Card key at all times,eVgo Network,40.865166,-73.049438,3/8/19,93537,CHADEMO,public
+ELEC,Hannaford Supermarket,40 Main Ave,Wynantskill,NY,12198,1,Public - Card key at all times,eVgo Network,42.697504,-73.648501,3/8/19,93540,CHADEMO,public
+ELEC,Cumberland Farms,498 County Road 111,Manorville,NY,11949,1,Public - Card key at all times,eVgo Network,40.870464,-72.800041,3/8/19,93596,CHADEMO,public
+ELEC,Tazza Cafe,186 Katonah Ave,Katonah,NY,10536,1,Public - Card key at all times,eVgo Network,41.25652,-73.68427,3/8/19,93696,CHADEMO,public
+ELEC,Staples Plaza,3379 Crompond Rd,Yorktown Heights,NY,10598,1,Public - Card key at all times,eVgo Network,41.289963,-73.830711,3/8/19,93697,CHADEMO,public
+ELEC,Towne Centre at Somers,325 Route 100,Somers,NY,10589,1,Public - Card key at all times,eVgo Network,41.32562,-73.68772,3/8/19,93699,CHADEMO,public
+ELEC,Somers Commons Shopping Center,80 Route 6,Baldwin Place,NY,10505,1,Public - Card key at all times,eVgo Network,41.34334,-73.75728,3/8/19,93700,CHADEMO,public
+ELEC,Putnam Plaza Shopping Center,1872 Route 6,Carmel,NY,10512,1,Public - Card key at all times,eVgo Network,41.41401,-73.66824,3/8/19,93701,CHADEMO,public
+ELEC,Greenville Center,855 Central Park Ave,Scarsdale,NY,10583,1,Public - Card key at all times,eVgo Network,40.99542,-73.818987,3/8/19,93703,CHADEMO,public
+ELEC,Arcadian Shopping Center,216 S Highland Ave,Ossining,NY,10562,1,Public - Card key at all times,eVgo Network,41.143359,-73.862657,3/8/19,93704,CHADEMO,public
+ELEC,PPC,Point Place Casino 450 St Route 31,Bridgeport,NY,13030,1,Public,ChargePoint Network,43.153633,-75.9658962,3/8/19,93760,J1772,public
+ELEC,SCHENECTADY,500-530 Liberty St,Schenectady,NY,12305,1,Public,ChargePoint Network,42.8143479,-73.9390169,3/8/19,93830,J1772,public
+ELEC,KEELER BMW,1111 Troy-Schenectady Road,Latham,NY,12110,1,Public,ChargePoint Network,42.766981,-73.8142165,3/8/19,93835,J1772,public
+ELEC,TOWN OF BABYLON,100 Ocean Pkwy,Babylon,NY,11702,1,Public,ChargePoint Network,40.63372,-73.3337318,3/8/19,94349,J1772,public
+ELEC,OLD TOWN HALL,21-23 Midline Rd,Slaterville Springs,NY,14881,1,Public,ChargePoint Network,42.3942452,-76.3504896,3/8/19,94352,J1772,public
+ELEC,NATIONAL GRID,8 Clarkson Ave,Potsdam,NY,13676,1,Public,ChargePoint Network,44.6627697,-74.9982413,3/8/19,94549,J1772,public
+ELEC,Fairport North - Main Parking,80 N Main St,Fairport,NY,14450,1,Public,,43.104022,-77.441473,11/8/18,94576,J1772,public
+ELEC,SMITHTOWN VW,"536-540, NY-25",Smithtown,NY,11787,1,Public,ChargePoint Network,40.8588738,-73.161838,3/8/19,94600,J1772,public
+ELEC,Red Roof PLUS+ & Suites,42 Finney Blvd,Malone,NY,12953,1,Public,,44.84866,-74.294899,5/3/18,94725,J1772,public
+ELEC,Calspan Corporation Flight Research Center,2041 Niagara Falls Blvd,Niagara Falls,NY,14034,1,Public,EV Connect,43.09971,-78.939097,5/3/18,94826,J1772,public
+ELEC,Bard College,30 Campus Rd,Annandale-on-Hudson,NY,12504,1,Public,EV Connect,42.026023,-73.903346,5/3/18,94827,J1772,public
+ELEC,Town of Dickinson,531 Old Front St,Binghamton,NY,13905,1,Public,EV Connect,42.11978,-75.912473,5/3/18,94828,J1772,public
+ELEC,Dunkin Donuts,4 Independent Way,Brewster,NY,10590,1,Public,EV Connect,41.416405,-73.624373,5/3/18,94829,J1772,public
+ELEC,Parking Garage,2478 Jerome Ave,Bronx,NY,10468,1,Public,EV Connect,40.863131,-73.900529,5/3/18,94830,J1772,public
+ELEC,Parking Garage,59 Paidge Ave,Brooklyn,NY,11222,1,Public,EV Connect,40.737171,-73.949257,5/3/18,94831,J1772,public
+ELEC,Brooklyn Navy Yard,63 Flushing Ave,Brooklyn,NY,11205,1,Public,EV Connect,40.698235,-73.975114,5/3/18,94832,J1772,public
+ELEC,Spectrum,769 5th Ave,Brooklyn,NY,10010,1,Public,EV Connect,40.657846,-73.996791,5/3/18,94833,J1772,public
+ELEC,Greyhound Bus Station,181 Ellicott St,Buffalo,NY,14203,1,Public,EV Connect,42.882943,-78.872701,5/3/18,94834,J1772,public
+ELEC,Village of Champlain,1104 Route 9,Champlain,NY,12919,1,Public,EV Connect,44.983225,-73.444864,5/3/18,94835,J1772,public
+ELEC,The Lovett Group,109-15 14th Ave,College Point,NY,11356,1,Public,EV Connect,40.785772,-73.857401,5/3/18,94836,J1772,public
+ELEC,Cortlandt Train Station,2 Memorial Dr,Cortlandt Manor,NY,10566,1,Public,EV Connect,41.360081,-73.572809,5/3/18,94837,J1772,public
+ELEC,Fair Haven Public Works,14523 Cayuga St,Fair Haven,NY,13156,1,Public,EV Connect,43.319653,-76.698558,5/3/18,94838,J1772,public
+ELEC,Office Building,35 Queens Blvd,Forest Hills,NY,11375,1,Public,EV Connect,40.71567106,-73.83040221,5/3/18,94839,J1772,public
+ELEC,New York Power Authority - Blenheim-Gilboa Project,397 Power Plant Access Rd,Gilboa,NY,12076,1,Public,EV Connect,42.44229,-74.447636,5/3/18,94840,J1772,public
+ELEC,Marriott,850 Veterans Memorial Hwy,Hauppauge,NY,11788,1,Public - Call ahead,EV Connect,40.819909,-73.204171,5/3/18,94841,J1772,public
+ELEC,Office Building,40 Newbridge Rd,Hicksville,NY,11801,1,Public,EV Connect,40.76828,-73.528019,5/3/18,94842,J1772,public
+ELEC,Homer Recreation Department,53 S Main St,Homer,NY,13077,1,Public,EV Connect,42.63465,-76.178589,5/3/18,94843,J1772,public
+ELEC,Spectrum,133-19 Atlantic Ave,Jamaica,NY,11418,1,Public,EV Connect,40.696909,-73.816114,5/3/18,94844,J1772,public
+ELEC,Central Parking Corp,15 W 5th St,Jamestown,NY,14701,1,Public,EV Connect,42.097522,-79.242525,5/3/18,94845,J1772,public
+ELEC,Thrifty Rent A Car,851 Albany Shaker Rd,Latham,NY,12110,1,Private,EV Connect,42.754332,-73.818033,5/3/18,94847,J1772,private
+ELEC,Delancey & Essex Municipal Parking Garage,107 Essex St,Manhattan,NY,10002,1,Public,EV Connect,40.719051,-73.988181,5/3/18,94848,J1772,public
+ELEC,Marcellus Village Police Department,6 Slocombe Ave,Marcellus,NY,13108,1,Public,EV Connect,42.98282,-76.34141,6/5/18,94849,J1772,public
+ELEC,Hilton,598 Broadhollow Rd,Melville,NY,11747,1,Public - Call ahead,EV Connect,40.76379,-73.423658,5/3/18,94850,J1772,public
+ELEC,Days Inn,367 NY-59,Nanuet,NY,10954,1,Public - Call ahead,EV Connect,41.102018,-74.02801,5/3/18,94851,J1772,public
+ELEC,Woodland Pond at New Paltz,100 Woodland Pond Cir,New Paltz,NY,12561,1,Public,EV Connect,41.758115,-74.061596,5/3/18,94852,J1772,public
+ELEC,Sky Zone Trampoline Park,33 LeCount Pl,New Rochelle,NY,10801,1,Public,EV Connect,40.911315,-73.779296,5/3/18,94853,J1772,public
+ELEC,Spectrum,401 W 219th St,New York,NY,10034,1,Public,EV Connect,40.87121,-73.911616,5/3/18,94854,J1772,public
+ELEC,Residence Inn,2525 South St,Poughkeepsie,NY,12601,1,Public - Call ahead,EV Connect,41.661078,-73.93249,5/3/18,94855,J1772,public
+ELEC,Taste NY,4640 Taconic State Pkwy N,Poughkeepsie,NY,12603,1,Public,EV Connect,41.57229706,-73.77994716,6/5/18,94856,J1772,public
+ELEC,Queens Family Court Municipal Garage,149-15 Archer Ave,Jamaica,NY,11435,1,Public,EV Connect,40.7015,-73.804703,5/3/18,94857,J1772,public
+ELEC,Courtyard Marriott,631 Midland Ave,Rye,NY,10580,1,Public - Call ahead,EV Connect,40.989535,-73.672445,5/3/18,94858,J1772,public
+ELEC,Homewood Suites,3368 S Broadway,Saratoga Springs,NY,12866,1,Public - Call ahead,EV Connect,43.05419501,-73.78681017,5/3/18,94859,J1772,public
+ELEC,Sleepy Hollow Senior Center,55 Elm St,Sleepy Hollow,NY,10591,1,Public,EV Connect,41.08572,-73.865534,5/3/18,94860,J1772,public
+ELEC,Spectrum,100 Cable Way,Staten Island,NY,10303,1,Private,EV Connect,40.630898,-74.168358,5/3/18,94861,J1772,private
+ELEC,Stony Brook University,100 Nicolls Rd,Stony Brook,NY,11794,1,Public,EV Connect,40.913685,-73.116048,5/3/18,94862,J1772,public
+ELEC,Residence Inn,6420 Yorktown Cir,Syracuse,NY,13057,1,Public - Call ahead,EV Connect,43.09077,-76.088086,5/3/18,94863,J1772,public
+ELEC,Parking Lot,1 Lyon Pl,White Plains,NY,10601,1,Public,EV Connect,41.02932,-73.763192,5/3/18,94864,J1772,public
+ELEC,Westchester County Department of Health,134 Main St,White Plains,NY,10601,1,Public,EV Connect,41.031941,-73.769376,5/3/18,94865,J1772,public
+ELEC,Hamilton Main Garage,365 Hamilton Ave,White Plains,NY,10601,1,Public,EV Connect,41.034121,-73.766241,5/3/18,94866,J1772,public
+ELEC,Office Building,50 Haarlem Ave,White Plains,NY,10603,1,Public,EV Connect,41.051099,-73.771738,5/3/18,94867,J1772,public
+ELEC,Windsor Town Court Room,124 Main St,Windsor,NY,13865,1,Public,EV Connect,42.077966,-75.639472,5/3/18,94868,J1772,public
+ELEC,Art Delta NY,25-20 Brooklyn Queens Expy,Woodside,NY,11377,1,Public,EV Connect,40.763555,-73.896042,5/3/18,94869,J1772,public
+ELEC,City of Yonkers,40 S Broadway,Yonkers,NY,10701,1,Public,EV Connect,40.932276,-73.897606,5/3/18,94870,J1772,public
+ELEC,Yonkers Parking Authority,8 Buena Vista Ave,Yonkers,NY,10701,1,Public,EV Connect,40.93427,-73.902149,5/3/18,94871,J1772,public
+ELEC,TOWN OF BABYLON,N Indiana Ave,Lindenhurst,NY,11757,1,Public,ChargePoint Network,40.7036149,-73.376144,3/8/19,94889,J1772,public
+ELEC,TOWNOFHEMPSTEAD,1501 Lido Blvd,Point Lookout,NY,11569,1,Public,ChargePoint Network,40.592409,-73.585343,3/8/19,94965,J1772,public
+ELEC,The Shops at Riverhead,1762 Old Country Rd,Riverhead,NY,11901,1,Public - Card key at all times,eVgo Network,40.927748,-72.706334,3/8/19,94970,CHADEMO,public
+ELEC,OSSINING TOWN,Ryder Park 43 Morningside Drive,Ossining,NY,10562,1,Public,ChargePoint Network,41.1666875,-73.8279249,3/8/19,95017,J1772,public
+ELEC,OSSINING TOWN,Cedar Lane Park 235 Cedar Lane,Ossining,NY,10562,1,Public,ChargePoint Network,41.1916085,-73.8546919,3/8/19,95018,J1772,public
+ELEC,Hunter's Point South Crossing,1-55 Borden Avenue,Queens,NY,11101,1,Public,Blink Network,40.742397,-73.959225,3/8/19,95054,J1772,public
+ELEC,Central Parking - Tower 31,9 W 31st Street,New York,NY,10001,1,Public,Blink Network,40.74709,-73.98667,3/8/19,95069,J1772,public
+ELEC,Icon Parking - Patriot Parking,376 Greenwich Street,New York,NY,10013,1,Public,Blink Network,40.719772,-74.010475,3/8/19,95078,J1772,public
+ELEC,Icon Parking - One Lincoln Plaza,20 W 64th Street,New York,NY,10023,1,Public,Blink Network,40.771626,-73.981047,3/8/19,95079,J1772,public
+ELEC,IKEA - Brooklyn,One Beard St,Brooklyn,NY,11231,1,Public,Blink Network,40.672247,-74.011183,3/8/19,95209,J1772,public
+ELEC,The Caledonia,450 W 17th Street,New York,NY,10011,1,Public,Blink Network,40.743832,-74.006578,3/8/19,95252,J1772,public
+ELEC,iPark - Paradise Garage,62-60 99th Street,Rego Park,NY,11374,1,Public,Blink Network,40.733347,-73.858012,3/8/19,95270,J1772,public
+ELEC,iPark - 59 Allen Street Garage,59 Allen Street,New York,NY,10002,1,Public,Blink Network,40.717195,-73.991658,3/8/19,95271,J1772,public
+ELEC,BEAM CHARGING / KEW GARAGE,80-02 Kew Gardens Rd,Kew Gardens,NY,11415,1,Public,Blink Network,40.713705,-73.831217,3/8/19,95431,J1772,public
+ELEC,BEAM CHARGING / 200 CADMAN PLZ,75 Henry Street,Brooklyn,NY,11221,1,Public,Blink Network,40.698673,-73.992427,3/8/19,95438,J1772,public
+ELEC,The Westminster,180 W 20th Street,New York,NY,10011,1,Public,Blink Network,40.741945,-73.996664,3/8/19,95502,J1772,public
+ELEC,The Cambium,10 Byron Place,Larchmont,NY,10538,1,Private,Blink Network,40.931507,-73.76318,3/8/19,95516,J1772,private
+ELEC,Sylvan Parking - Pinnacle Garage,112-01 Queens Boulevard,Forest Hills,NY,11375,1,Public,Blink Network,40.718455,-73.83651,3/8/19,95615,J1772,public
+ELEC,Castle Village Parking Garage,200 Cabrini Boulevard,New York,NY,10033,1,Public,Blink Network,40.854693,-73.939432,3/8/19,95779,J1772,public
+ELEC,Turning Stone Resort Casino,5218 Patrick Rd,Verona,NY,13478,1,Public,Blink Network,43.113732,-75.592024,3/8/19,96202,J1772,public
+ELEC,133-59 Roosevelt Ave Parking Garage,133-59 Roosevelt Ave,Flushing,NY,11354,1,Public,Blink Network,40.85453,-73.832309,3/8/19,96381,J1772,public
+ELEC,Icon Parking - Omni Parking,143-159 W 68th Street,New York,NY,10023,1,Public,Blink Network,40.776152,-73.98282,3/8/19,96384,J1772,public
+ELEC,GMC Parking - Continental Towers,301 East 79th Street,New York,NY,10075,1,Public,Blink Network,40.773472,-73.955287,3/8/19,96485,J1772,public
+ELEC,Icon Parking - Claridge 87 Parking,200-206 E 88th Street,New York,NY,10128,1,Public,Blink Network,40.779901,-73.952675,3/8/19,96488,J1772,public
+ELEC,SP+ - 200 Chambers Street Garage,200 Chambers Street,New York,NY,10007,1,Public,Blink Network,40.7163,-74.01258,3/8/19,96507,J1772,public
+ELEC,"First Avenue Parking, LLC",630 1st Avenue,New York,NY,10016,1,Private,Blink Network,40.745096,-73.971921,3/8/19,96624,J1772,private
+ELEC,Four Brothers Drive In,4957 Route 22,Amenia,NY,12501,1,Public,Blink Network,41.850398,-73.557933,3/8/19,96638,J1772,public
+ELEC,Tribeca Park,400 Chambers St,New York,NY,10282,1,Private,Blink Network,37.437633,-76.321978,3/8/19,96646,J1772,private
+ELEC,Gateway Center at Bronx Terminal Market,610 Exterior St,Bronx,NY,10451,1,Public,Blink Network,40.822142,-73.931128,3/8/19,96647,J1772,public
+ELEC,COE ITC,727-799 E Washington St,Syracuse,NY,13210,1,Public,ChargePoint Network,43.0496336,-76.1410793,3/8/19,96695,J1772,public
+ELEC,CLAY STATION,4401 NY-31,Clay,NY,13041,1,Public,ChargePoint Network,43.1870197,-76.2082989,3/8/19,96696,J1772,public
+ELEC,STATION PC,219-249 Villa Roma Rd,Callicoon,NY,12723,1,Public,ChargePoint Network,41.7604718,-74.9746738,3/8/19,96697,J1772,public
+ELEC,OSSINING TOWN,Louis Engel Park (Waterfront Park) 161-185 Westerly Rd.,Ossining,NY,10562,1,Public,ChargePoint Network,41.1560935,-73.8696397,3/8/19,96726,J1772,public
+ELEC,CORNELL,37 Forest Home Dr,Ithaca,NY,14850,1,Public,ChargePoint Network,42.4504921,-76.4785196,3/8/19,96757,J1772,public
+ELEC,DEPOT SQUARE,99 Depot Square,Chatham,NY,12037,1,Public,ChargePoint Network,42.3621019,-73.5973801,3/8/19,96911,J1772,public
+ELEC,BOND OPERATING,363 Bond St,Gowanus,NY,11231,1,Public,ChargePoint Network,40.677977,-73.990135,3/8/19,96922,J1772,public
+ELEC,CHATHAM EVC,51 Railroad Ave,Chatham,NY,12037,1,Public,ChargePoint Network,42.3632585,-73.5945286,3/8/19,96923,J1772,public
+ELEC,BMW FREEPORT,100 Cleveland Ave,Freeport,NY,11520,1,Public,ChargePoint Network,40.6542078,-73.5691342,3/8/19,96981,J1772,public
+ELEC,NATIONAL GRID,5 Morthside Drive,Clifton Park,NY,12065,1,Public,ChargePoint Network,42.8634621,-73.771907,3/8/19,97019,J1772,public
+ELEC,Tony Mangino Mitsubishi,1658 Route 9,Clifton Park,NY,12065,1,Public,,42.858085,-73.762909,6/5/18,98431,J1772,public
+ELEC,CORNELL,343 Campus Rd,Ithaca,NY,14853,1,Public,ChargePoint Network,42.444631,-76.482788,3/8/19,98570,J1772,public
+ELEC,U OF R,730 Library Rd,Rochester,NY,14627,1,Public,ChargePoint Network,43.1299518,-77.6290515,3/8/19,98592,J1772,public
+ELEC,U OF R,265 Crittenden Blvd,Rochester,NY,14642,1,Public,ChargePoint Network,43.1206966,-77.6277598,3/8/19,98593,J1772,public
+ELEC,SULLIVAN CENTER,270-277 Rock Hill Dr,Rock Hill,NY,12775,1,Public,ChargePoint Network,41.6231687,-74.5907222,3/8/19,98613,J1772,public
+ELEC,Environmental Protection Agency,290 Broadway,New York,NY,10007,1,Private,,40.714723,-74.005143,6/5/18,98674,J1772,private
+ELEC,United States Marine Corps,605 Stewart Ave,Garden City,NY,11530,1,Private,,40.729637,-73.615008,6/5/18,98692,J1772,private
+ELEC,ITHACA VISITORS,College Cir,Ithaca,NY,14850,1,Public,ChargePoint Network,42.411718,-76.5008374,3/8/19,98731,J1772,public
+ELEC,VILLAGE HF,378-390 Main St,Highland Falls,NY,10928,1,Public,ChargePoint Network,41.3725703,-73.9641037,3/8/19,98732,J1772,public
+ELEC,James Mitsubishi - Hamburg,5160 Camp Rd,Hamburg,NY,14075,1,Public,,42.746772,-78.852481,7/9/18,98836,J1772,public
+ELEC,OUTSIDE,175 Freemans Bridge Rd,Schenectady,NY,12302,1,Public,ChargePoint Network,42.846224,-73.943511,3/8/19,98847,J1772,public
+ELEC,Greenlots - 63144,435 W Martin Luther King Jr St,Ithica,NY,14850,1,Public,Greenlots,42.43932343,-76.5057373,3/7/19,99083,CHADEMO,public
+ELEC,Greenlots - 63149,Milepost 96S,Ruby,NY,12449,1,Public,Greenlots,42.01409531,-73.99984741,3/7/19,99101,CHADEMO,public
+ELEC,Greenlots - 63148,Milepost 66S,Modena,NY,12589,1,Public,Greenlots,41.59222794,-74.08860779,3/7/19,99102,CHADEMO,public
+ELEC,Greenlots - 63147,New York State Thruway,Plattekill,NY,12589,1,Public,Greenlots,41.57774353,-74.08538055,3/7/19,99103,CHADEMO,public
+ELEC,Greenlots - 63152,New York Thruway Mile Post 103 North I-87,Malden on the Hudson,NY,12453,1,Public,Greenlots,42.11033249,-73.95639038,3/7/19,99111,CHADEMO,public
+ELEC,Greenlots - 92052,250 Vesey St,New York,NY,10281,1,Public,Greenlots,40.713828,-74.015909,3/7/19,99159,J1772,public
+ELEC,Greenlots - 92085,200 Liberty,New York,NY,10281,1,Public,Greenlots,40.710905,-74.015585,3/7/19,99175,J1772,public
+ELEC,Greenlots - 92133,581 Clarkson Ave,Brooklyn,NY,11203,1,Public,Greenlots,40.656148,-73.940355,3/7/19,99290,J1772,public
+ELEC,Village of Waterville - West Main Street,115 W Main St,Waterville,NY,13480,1,Public,,42.930765,-75.38053,7/9/18,99360,J1772,public
+ELEC,DEFREETSVILLE 1,649 Bloomingrove Dr,Rensselaer,NY,12144,1,Public,ChargePoint Network,42.6526798,-73.6962387,3/8/19,99372,J1772,public
+ELEC,NATIONAL GRID,Collins Circle,Albany,NY,12206,1,Public,ChargePoint Network,42.6889315,-73.8230263,3/8/19,99418,J1772,public
+ELEC,SIBLEY SQUARE,83 Mortimer St,Rochester,NY,14604,1,Public,ChargePoint Network,43.157829,-77.607583,3/8/19,99422,J1772,public
+ELEC,EVPASS,400-498 Harrison St,Syracuse,NY,13202,1,Public,ChargePoint Network,43.044095,-76.147524,3/8/19,99424,J1772,public
+ELEC,SUNY NEW PALTZ,1 Sojourner Way,New Paltz,NY,12561,1,Public,ChargePoint Network,41.743938,-74.084258,3/8/19,99444,J1772,public
+ELEC,NORDEN LOFTS,121 Westmoreland Ave,White Plains,NY,10606,1,Public,ChargePoint Network,41.027432,-73.777595,3/8/19,99448,J1772,public
+ELEC,EVCHARGE,Taughannock State Park Access Rd,Trumansburg,NY,14886,1,Public,ChargePoint Network,42.5446487,-76.5964452,3/8/19,99494,J1772,public
+ELEC,Nissan of Staten Island,1976 Hylan Blvd,Staten Island,NY,10306,1,Public,,40.581432,-74.097694,7/9/18,99500,J1772,public
+ELEC,Nissan of Staten Island,1976 Hylan Blvd,Staten Island,NY,10306,1,Private,,40.581432,-74.097694,7/9/18,99501,J1772,private
+ELEC,DEFREETSVILLE 1,443 East St,Rensselaer,NY,12144,1,Public,ChargePoint Network,42.6405896,-73.7407377,3/8/19,99515,J1772,public
+ELEC,854ELLICOTT,854 Ellicott St,Buffalo,NY,14203,1,Public,ChargePoint Network,42.901368,-78.867112,3/8/19,99545,J1772,public
+ELEC,EV CHARGE460,460 S Broadway,Tarrytown,NY,10591,1,Public,ChargePoint Network,41.0609957,-73.8615245,3/8/19,99546,J1772,public
+ELEC,NATIONAL GRID,60 wolf rd,Colonie,NY,12205,1,Public,ChargePoint Network,42.7147306,-73.814118,3/8/19,99604,J1772,public
+ELEC,NATIONAL GRID,1 Flint rd,Buffalo,NY,14221,1,Public,ChargePoint Network,42.9902513,-78.7907689,3/8/19,99613,J1772,public
+ELEC,NATIONAL GRID,Bissel Hall,Buffalo,NY,14228,1,Public,ChargePoint Network,42.9985549,-78.7813231,3/8/19,99614,J1772,public
+ELEC,HUNTER LOT,141 Prospect Ave,Mamaroneck,NY,10543,1,Public,ChargePoint Network,40.9495831,-73.735136,3/8/19,99633,J1772,public
+ELEC,NATIONAL GRID,3115 Niagara Falls Blvd,Buffalo,NY,14228,1,Public,ChargePoint Network,43.0392727,-78.8209529,3/8/19,99642,J1772,public
+ELEC,NATIONAL GRID,5274 Main St,Williamsville,NY,14221,1,Public,ChargePoint Network,42.9624017,-78.7572193,3/8/19,99643,J1772,public
+ELEC,NATIONAL GRID,1145 Niagara Falls Blvd,Amherst,NY,14226,1,Public,ChargePoint Network,42.9846477,-78.8219843,3/8/19,99698,J1772,public
+ELEC,NYISO,10 Krey Blvd,Rensselaer,NY,12144,1,Public,ChargePoint Network,42.648714,-73.708014,3/8/19,99703,J1772,public
+ELEC,RED HOOK V.,7477 S Broadway,Red Hook,NY,12571,1,Public,ChargePoint Network,41.994604,-73.87644,3/8/19,99764,J1772,public
+ELEC,NATIONAL GRID,600 Riverwalk Pkwy,Tonawanda,NY,14150,1,Public,ChargePoint Network,43.0000678,-78.9109504,3/8/19,99787,J1772,public
+ELEC,NATIONAL GRID,3954 NY-31,Liverpool,NY,13090,1,Public,ChargePoint Network,43.1845482,-76.2381941,3/8/19,99803,J1772,public
+ELEC,NATIONAL GRID,104 Lake Dr,Liverpool,NY,13088,1,Public,ChargePoint Network,43.1004995,-76.2066475,3/8/19,99847,J1772,public
+ELEC,NATIONAL GRID,301 1st St,Liverpool,NY,13088,1,Public,ChargePoint Network,43.1015814,-76.2074545,3/8/19,99848,J1772,public
+ELEC,Hawthorne Valley,330 County Route 21C,Ghent,NY,12075,1,Public,,42.270437,-73.593885,10/4/18,99949,J1772,public
+ELEC,Town of Veteran,4049 Watkins Rd,Millport,NY,14864,1,Public,,42.250834,-76.838332,12/11/18,99950,J1772,public
+ELEC,NATIONAL GRID,3380 Big Tree Rd,Hamburg,NY,14075,1,Public,ChargePoint Network,42.7737076,-78.8615558,3/8/19,99980,J1772,public
+ELEC,LANDING PARK,70 Main St,Coeymans,NY,12045,1,Public,ChargePoint Network,42.472557,-73.7903959,3/8/19,99993,J1772,public
+ELEC,NATIONAL GRID,79 Weibel Rd,Saratoga Springs,NY,12866,1,Public,ChargePoint Network,43.097209,-73.7466009,3/8/19,99994,J1772,public
+ELEC,NATIONAL GRID,22050 US-11,Watertown,NY,13601,1,Public,ChargePoint Network,43.9948098,-75.90173,3/8/19,100016,J1772,public
+ELEC,NATIONAL GRID,23725 NY-342,Watertown,NY,13601,1,Public,ChargePoint Network,44.0411115,-75.8997853,3/8/19,100017,J1772,public
+ELEC,NATIONAL GRID,1 Bridge PLaza,Ogdensburg,NY,13669,1,Public,ChargePoint Network,44.7183031,-75.4557982,3/8/19,100032,J1772,public
+ELEC,NATIONAL GRID,40 Leigh St,Canton,NY,13617,1,Public,ChargePoint Network,44.5861699,-75.1639365,3/8/19,100271,J1772,public
+ELEC,NATIONAL GRID,NY-5,Schenectady,NY,12305,1,Public,ChargePoint Network,42.8151758,-73.9528751,3/8/19,100272,J1772,public
+ELEC,NATIONAL GRID,34 Cornell Dr,Canton,NY,13617,1,Public,ChargePoint Network,44.6009042,-75.1828763,3/8/19,100275,J1772,public
+ELEC,NATIONAL GRID,1043 U.S. 9,Queensbury,NY,12804,1,Public,ChargePoint Network,43.3434507,-73.6856995,3/8/19,100277,J1772,public
+ELEC,NATIONAL GRID,670 Liberty St,Schenectady,NY,12305,1,Public,ChargePoint Network,42.8140214,-73.9345175,3/8/19,100332,J1772,public
+ELEC,NATIONAL GRID,Campus Loop Rd,Utica,NY,13502,1,Public,ChargePoint Network,43.1353291,-75.2273421,3/8/19,100334,J1772,public
+ELEC,NATIONAL GRID,15-25 4th St,Troy,NY,12180,1,Public,ChargePoint Network,42.733036,-73.689266,3/8/19,100350,J1772,public
+ELEC,HABBERSTAD BMW,596 Sunrise Hwy,Bay Shore,NY,11706,1,Public,ChargePoint Network,40.7269255,-73.2831431,3/8/19,100389,J1772,public
+ELEC,LIA HONDA,4891 Transit Rd,Buffalo,NY,14221,1,Public,ChargePoint Network,42.980699,-78.696681,3/8/19,100394,J1772,public
+ELEC,LIA HONDA,4871 NY-78,Buffalo,NY,14221,1,Public,ChargePoint Network,42.9806058,-78.6964517,3/8/19,100395,J1772,public
+ELEC,NATIONAL GRID,113 West Ave,Saratoga Springs,NY,12866,1,Public,ChargePoint Network,43.0777433,-73.8045224,3/8/19,100427,J1772,public
+ELEC,JLRWHITEPLAINS,295 E Main St,Elmsford,NY,10523,1,Public,ChargePoint Network,41.047563,-73.806333,3/8/19,100430,J1772,public
+ELEC,VILLAGEHALL,76 E Market Street,Rhinebeck,NY,12572,1,Public,ChargePoint Network,41.926636,-73.909771,3/8/19,100440,J1772,public
+ELEC,NATIONAL GRID,911 Saratoga Dr,Cobleskill,NY,12043,1,Public,ChargePoint Network,42.6701434,-74.5077922,3/8/19,100527,J1772,public
+ELEC,NATIONAL GRID,120 Amsterdam commons,Amsterdam,NY,12010,1,Public,ChargePoint Network,42.9643646,-74.1899012,3/8/19,100528,J1772,public
+ELEC,ALBANY COUNTY,100 Beaver St,Albany,NY,12207,1,Public,ChargePoint Network,42.648885,-73.754699,3/8/19,100546,J1772,public
+ELEC,JATC LU25,370 Vanderbilt Motor Pkwy,Hauppauge,NY,11788,1,Public,ChargePoint Network,40.808219,-73.2417349,3/8/19,100548,J1772,public
+ELEC,COMFORT INN,156 Sacandaga Rd,Scotia,NY,12302,1,Public,ChargePoint Network,42.8342695,-73.9699719,3/8/19,100550,J1772,public
+ELEC,Colonie Center - Tesla Supercharger,131 Colonie Center,Albany,NY,12205,1,Public,Tesla,42.708419,-73.81657,9/10/18,102325,TESLA,public
+ELEC,The Spot Restaurant - Tesla Supercharger,1062 Front St,Binghamton,NY,13905,1,Public,Tesla,42.145531,-75.902075,9/10/18,102326,TESLA,public
+ELEC,North 12 Parking - Tesla Supercharger,113 N 12th St,Brooklyn,NY,11249,1,Public,Tesla,40.722344,-73.957179,9/10/18,102327,TESLA,public
+ELEC,Shops at Main - Tesla Supercharger,4455 Transit Rd,Buffalo,NY,14221,1,Public,Tesla,42.968195,-78.696606,9/10/18,102328,TESLA,public
+ELEC,Stewart's Shop - Tesla Supercharger,2300 Salt Point Turnpike,Clinton Corners,NY,12514,1,Public,Tesla,41.825295,-73.770429,9/10/18,102329,TESLA,public
+ELEC,Crossgates Mall - Tesla Supercharger,1 Crossgates Mall Rd,Guilderland,NY,12203,1,Public,Tesla,42.687213,-73.85051,9/10/18,102330,TESLA,public
+ELEC,QuickChek - Tesla Supercharger,640 Washington Ave,Kingston,NY,12401,1,Public,Tesla,41.941339,-74.027159,9/10/18,102331,TESLA,public
+ELEC,Holiday Inn - Tesla Supercharger,441 Electronics Pkwy,Liverpool,NY,13088,1,Public,Tesla,43.101615,-76.187821,9/10/18,102332,TESLA,public
+ELEC,New Roc Garage - Tesla Supercharger,33 LeCount Pl and Huguenot St,New Rochelle,NY,10801,1,Public,Tesla,40.912547,-73.780488,9/10/18,102333,TESLA,public
+ELEC,Mott Street Parking - Tesla Supercharger,106 Mott St,New York,NY,10013,1,Public - Call ahead,Tesla,40.717508,-73.99714,9/10/18,102334,TESLA,public
+ELEC,W 75th Parking Garage - Tesla Supercharger,201 W 75th St,New York,NY,10023,1,Public,Tesla,40.780743,-73.980137,9/10/18,102335,TESLA,public
+ELEC,East 47th Street - Tesla Supercharger,212 E 47th St,New York,NY,10017,1,Public,Tesla,40.753271,-73.971657,9/10/18,102336,TESLA,public
+ELEC,Cosimo's on Union - Tesla Supercharger,1217 New York 300,Newburgh,NY,12550,1,Public,Tesla,41.49982,-74.07147,9/10/18,102337,TESLA,public
+ELEC,Dunkin' Donuts - Tesla Supercharger,125 Victory Hwy,Painted Post,NY,14870,1,Public,Tesla,42.170992,-77.107702,9/10/18,102338,TESLA,public
+ELEC,Country Pointe Plainview - Tesla Supercharger,1427 Old Country Rd,Plainview,NY,11803,1,Public,Tesla,40.779271,-73.452744,9/10/18,102339,TESLA,public
+ELEC,Champlain Centre - Tesla Supercharger,60 Smithfield Blvd,Plattsburgh,NY,12901,1,Public,Tesla,44.702852,-73.49471,9/10/18,102340,TESLA,public
+ELEC,JFK Airport Travel Plaza - Tesla Supercharger,150th Ave and 147th St,Queens,NY,11430,1,Public,Tesla,40.66196979,-73.79275927,9/10/18,102341,TESLA,public
+ELEC,Aviation Mall - Tesla Supercharger,578 Aviation Rd,Queensbury,NY,12804,1,Public,Tesla,43.328285,-73.676221,9/10/18,102342,TESLA,public
+ELEC,Cafe Crust - Tesla Supercharger,850 County Rd 39,Southampton,NY,11968,1,Public,Tesla,40.891919,-72.426168,9/10/18,102343,TESLA,public
+ELEC,Green Acres Commons - Tesla Supercharger,2034 Green Acres Mall,Sunrise Highway Valley Stream,NY,11581,1,Public,Tesla,40.663272,-73.719248,9/10/18,102344,TESLA,public
+ELEC,Sheraton Tarrytown Hotel - Tesla Supercharger,600 White Plains Rd,Tarrytown,NY,10591,1,Public,Tesla,41.062191,-73.837523,9/10/18,102346,TESLA,public
+ELEC,North Utica Shopping Center - Tesla Supercharger,50 Auert Ave,Utica,NY,13502,1,Public,Tesla,43.114286,-75.208586,9/10/18,102347,TESLA,public
+ELEC,Eastview Mall - Tesla Supercharger,7979 Pittsford Victor Rd,Victor,NY,14564,1,Public,Tesla,43.031305,-77.441172,9/10/18,102348,TESLA,public
+ELEC,Del Lago Resort and Casino - Tesla Supercharger,1133 Route 414,Waterloo,NY,13165,1,Public,Tesla,42.969277,-76.847329,9/10/18,102349,TESLA,public
+ELEC,Salmon Run Mall - Tesla Supercharger,21182 Salmon Run Mall Loop W,Watertown,NY,13601,1,Public,Tesla,43.97773,-75.95449,9/10/18,102350,TESLA,public
+ELEC,Westchester's Ridge Hill - Tesla Supercharger,Archer St,Yonkers,NY,10701,1,Public - Call ahead,Tesla,40.963395,-73.854936,9/10/18,102351,TESLA,public
+ELEC,NATIONAL GRID,977 Loudon rd,Cohoes,NY,12047,1,Public,ChargePoint Network,42.7712976,-73.7526558,3/8/19,102546,J1772,public
+ELEC,KINGSTON,Saccoman Ln,Kingston,NY,12401,1,Public,ChargePoint Network,41.9295875,-74.002941,3/8/19,102547,J1772,public
+ELEC,KINGSTON,2 Broadway,Kingston,NY,12401,1,Public,ChargePoint Network,41.9185163,-73.9827581,3/8/19,102548,J1772,public
+ELEC,KINGSTON,95 Dock St TR Gallo Waterfront Park,Kingston,NY,12401,1,Public,ChargePoint Network,41.917631,-73.9836714,3/8/19,102549,J1772,public
+ELEC,NATIONAL GRID,N Barry St,Olean,NY,14760,1,Public,ChargePoint Network,42.0818852,-78.4279935,3/8/19,102593,J1772,public
+ELEC,ULSTER COUNTY,28 Crown St,Kingston,NY,12401,1,Public,ChargePoint Network,41.9328449,-74.0206759,3/8/19,102599,J1772,public
+ELEC,ULSTER COUNTY,16 Main St,Kingston,NY,12401,1,Public,ChargePoint Network,41.9329844,-74.0171336,3/8/19,102600,J1772,public
+ELEC,KISSENA GARAGE,43-70 Kissena Boulevard,Flushing,NY,11355,1,Public,Blink Network,40.753624,-73.823573,3/8/19,102669,J1772,public
+ELEC,ULSTER COUNTY,239 Golden Hill Dr Dept. of Health,Kingston,NY,12401,1,Public,ChargePoint Network,41.9171208,-74.0190235,3/8/19,102672,J1772,public
+ELEC,NATIONAL GRID,126 South St,Glens Falls,NY,12801,1,Public,ChargePoint Network,43.3053081,-73.6493706,3/8/19,102674,J1772,public
+ELEC,BEAM CHARGING,444 Kent Ave,Brooklyn,NY,11249,1,Public,ChargePoint Network,40.7091577,-73.9684904,3/8/19,102686,J1772,public
+ELEC,NATIONAL GRID,350 Prospect St,Niagara Falls,NY,14303,1,Public,ChargePoint Network,43.086961,-79.0658425,3/8/19,102777,J1772,public
+ELEC,NATIONAL GRID,Goat Island Rd,Niagara Falls,NY,14303,1,Public,ChargePoint Network,43.0815388,-79.0704271,3/8/19,102778,J1772,public
+ELEC,ERIE COUNTY,6121 Chestnut Ridge Rd,Orchard Park,NY,14127,1,Public,ChargePoint Network,42.722323,-78.7442997,3/8/19,103090,J1772,public
+ELEC,NATIONAL GRID,1220 Coffeen street,Watertown,NY,13601,1,Public,ChargePoint Network,43.987562,-75.939726,3/8/19,103138,J1772,public
+ELEC,GLOVERS PARKING,85 Mill Rd,Westhampton Beach,NY,11978,1,Public,ChargePoint Network,40.811928,-72.643211,3/8/19,103139,J1772,public
+ELEC,WOODLAWN GARAGE,37 Woodlawn Ave,Saratoga Springs,NY,12866,1,Public,ChargePoint Network,43.0844158,-73.7864404,3/8/19,103494,J1772,public
+ELEC,CHEEKTOWAGA,211 Ridge Park Ave,Cheektowaga,NY,14225,1,Public,ChargePoint Network,42.9134781,-78.7898783,3/8/19,103506,J1772,public
+ELEC,BUFFALO HARBOR,1111 Fuhrmann Boulevard,Buffalo,NY,14203,1,Public,ChargePoint Network,42.8510456,-78.864496,3/8/19,103527,J1772,public
+ELEC,RPI 1,2 Colvin Cir,Troy,NY,12180,1,Public,ChargePoint Network,42.7313864,-73.6690861,3/8/19,103530,J1772,public
+ELEC,JATC IBEW LU910,111 Ohio Ave,Plattsburgh,NY,12901,1,Public,ChargePoint Network,44.6830435,-73.4473912,3/8/19,103632,J1772,public
+ELEC,Village of Lima,7327 E Main St,Lima,NY,14485,1,Public,EV Connect,42.90552,-77.610606,11/8/18,103810,J1772,public
+ELEC,PUBLIC RESTROOM,56 Rock City Rd Woodstock Community Ctr.,Woodstock,NY,12498,1,Public,ChargePoint Network,42.0447985,-74.1181663,3/8/19,103822,J1772,public
+ELEC,CAPITAL ONE,1307 Walt Whitman Rd,Melville,NY,11747,1,Public,ChargePoint Network,40.784051,-73.425082,3/8/19,103851,J1772,public
+ELEC,STARR LIBRARY,68 W Market St,Rhinebeck,NY,12572,1,Public,ChargePoint Network,41.9263801,-73.9183809,3/8/19,103914,J1772,public
+ELEC,"Walgreens - Brooklyn, NY #15097",589 Prospect Avenue,Brooklyn,NY,11215,1,Public - Card key at all times,SemaCharge Network,40.6567801,-73.9777597,3/8/19,103930,J1772,public
+ELEC,DOUBLEDAY EV,2 Doubleday Ct,Cooperstown,NY,13326,1,Public,ChargePoint Network,42.700207,-74.92641,3/8/19,103934,J1772,public
+ELEC,Bottle Bargains,1033 Fort Salonga Rd,Northport,NY,11768,1,Public,SemaCharge Network,40.9081167,-73.3154628,3/8/19,104012,J1772,public
+ELEC,WEST HERR HONDA,6120 S Transit Rd,Lockport,NY,14094,1,Public,ChargePoint Network,43.1279538,-78.6973909,3/8/19,104035,J1772,public
+ELEC,PUBLIC RESTROOM,10 Rock City Rd Chamber of Commerce,Woodstock,NY,12498,1,Public,ChargePoint Network,42.0414809,-74.1179923,3/8/19,104064,J1772,public
+ELEC,Village of Cherry Valley,2 Genesee St,Cherry Valley,NY,13320,1,Public,,42.797294,-74.758022,11/8/18,104135,J1772,public
+ELEC,SOLOMON,1A Lakeview Drive,Clifton Park,NY,12065,1,Public,ChargePoint Network,42.8546238,-73.7685477,3/8/19,104197,J1772,public
+ELEC,E.H. VILLAGE,2 Gingerbread Ln,East Hampton,NY,11937,1,Public,ChargePoint Network,40.9630821,-72.1926333,3/8/19,104226,J1772,public
+ELEC,WCS,Boston Rd,Bronx,NY,10460,1,Public,ChargePoint Network,40.8466117,-73.876323,3/8/19,104341,J1772,public
+ELEC,ERIE COUNTY,2220 Como Park Blvd,Lancaster,NY,14086,1,Public,ChargePoint Network,42.8881702,-78.6604888,3/8/19,104380,J1772,public
+ELEC,TRICITYJATCINC,428 Old Niskayuna Rd,Latham,NY,12110,1,Public,ChargePoint Network,42.7551384,-73.7965451,3/8/19,104397,J1772,public
+ELEC,Country Inn & Suites,1 Round Pond Rd,Queensbury,NY,12804,1,Public,,43.348123,-73.689803,12/11/18,104409,J1772,public
+ELEC,IBEW 325,142 Corporate Dr,Binghamton,NY,13904,1,Public,ChargePoint Network,42.1012676,-75.8171864,3/8/19,104432,J1772,public
+ELEC,MIDDLE COUNTRY,575 Middle Country Rd,Selden,NY,11784,1,Public,ChargePoint Network,40.8674757,-73.0330339,3/8/19,104435,J1772,public
+ELEC,NATIONAL GRID,409 W Genesee St,Syracuse,NY,13202,1,Public,ChargePoint Network,43.0523354,-76.1564806,3/8/19,104438,J1772,public
+ELEC,LOCKS PLAZA,1 Locks Plaza,Lockport,NY,14094,1,Public,ChargePoint Network,43.1693204,-78.695433,3/8/19,104485,J1772,public
+ELEC,MASPETH FEDERAL,56-18 69th St,Maspeth,NY,11378,1,Public,ChargePoint Network,40.7262317,-73.8957051,3/8/19,104575,J1772,public
+ELEC,JLRWHITEPLAINS,265 east Main Street,White Plains,NY,10601,1,Public,ChargePoint Network,41.0342687,-73.7647019,3/8/19,104576,J1772,public
+ELEC,RPI 1,2144 Burdett Ave,Troy,NY,12180,1,Public,ChargePoint Network,42.7322091,-73.6713319,3/8/19,104670,J1772,public
+ELEC,NAT GRID WRKPLC,1165 Broadway,Menands,NY,12204,1,Public,ChargePoint Network,42.6679595,-73.7400209,3/8/19,104676,J1772,public
+ELEC,MAIN LOT,112 Main St,Dobbs Ferry,NY,10522,1,Public,ChargePoint Network,41.0156911,-73.8745317,3/8/19,104699,J1772,public
+ELEC,Western New York Welcome Center,2182 Alvin Rd,Grand Island,NY,14072,1,Public,,43.01931644,-78.97480837,12/11/18,104725,CHADEMO,public
+ELEC,Augspurger Ramp,362 Pearl St,Buffalo,NY,14202,1,Public,EV Connect,42.889784,-78.874463,12/11/18,104726,J1772,public
+ELEC,Main Place Ramp,221 Pearl St,Buffalo,NY,14202,1,Public,EV Connect,42.885188,-78.875488,12/11/18,104727,J1772,public
+ELEC,Fernbach Ramp,200 Pearl St,Buffalo,NY,14202,1,Public,EV Connect,42.884991,-78.876036,12/11/18,104728,J1772,public
+ELEC,Turner Ramp,1 Perkins Dr,Buffalo,NY,14202,1,Public,EV Connect,42.886421,-78.878997,12/11/18,104729,J1772,public
+ELEC,One Seneca Ramp,1 Seneca Dr,Buffalo,NY,14203,1,Public,EV Connect,42.879878,-78.875574,1/10/19,104730,J1772,public
+ELEC,Adam Ramp,384 Washington St,Buffalo,NY,14203,1,Public,EV Connect,42.884552,-78.873864,12/11/18,104731,J1772,public
+ELEC,Williamsville Village Hall,5565 Main St,Buffalo,NY,14221,1,Public,,42.962545,-78.745836,12/11/18,104732,J1772,public
+ELEC,TownePlace Suites - Buffalo Airport,4265 Genesee St,Buffalo,NY,14225,1,Public,,42.932078,-78.727638,12/11/18,104733,J1772,public
+ELEC,Buffalo State - Cleveland Hall,1300 Elmwood Ave,Buffalo,NY,14222,1,Public,,42.932241,-78.877174,12/11/18,104734,J1772,public
+ELEC,TOWNOFLEWISTON1,1375 Ridge Rd,Lewiston,NY,14092,1,Public,ChargePoint Network,43.1795816,-78.9841003,3/8/19,104778,J1772,public
+ELEC,AUSTERLITZ EVSE,812 NY-203,Spencertown,NY,12165,1,Public,ChargePoint Network,42.3230369,-73.5454872,3/8/19,104782,J1772,public
+ELEC,JLR ROC SHOP1,770 Panorama Trail S,Rochester,NY,14625,1,Public,ChargePoint Network,43.1292313,-77.4938612,3/8/19,104799,J1772,public
+ELEC,HIGHBRIDGE,128 Vineyard Ave,Highland,NY,12528,1,Public,ChargePoint Network,41.7163187,-73.9677424,3/8/19,104800,J1772,public
+ELEC,Town of Danby - Town Hall,1830 Danby Rd,Danby,NY,14850,1,Public,EV Connect,42.354039,-76.482062,12/11/18,104824,J1772,public
+ELEC,CITY OF ONEONTA,37 Dietz St,Oneonta,NY,13820,1,Public,ChargePoint Network,42.4557333,-75.0627602,3/8/19,104834,J1772,public
+ELEC,Capital One - Melville,1307 Walt Whitman Rd,Melville,NY,11747,1,Private,,40.784051,-73.425082,12/11/18,104937,J1772,private
+ELEC,4TH & LAFAYETTE,402 Lafayette St,Jamestown,NY,14701,1,Public,ChargePoint Network,42.0963877,-79.2456168,3/8/19,104968,CHADEMO,public
+ELEC,Southern Tier Welcome Center,2 Route 81 N,Kirkwood,NY,13795,1,Public,,42.02022,-75.779983,12/11/18,104977,CHADEMO,public
+ELEC,Queensbury Rest Area - Northbound,368 Big Boom Rd,Queensbury,NY,12804,1,Public,,43.273451,-73.674594,2/6/19,104978,CHADEMO,public
+ELEC,Mohawk Valley Welcome Center,I-90 W Milepost 187,Fultonville,NY,12072,1,Public,,42.916264,-74.446749,12/11/18,104980,CHADEMO,public
+ELEC,N SYR  LOT,106 Fergerson Ave,Syracuse,NY,13212,1,Public,ChargePoint Network,43.1352793,-76.1306471,3/8/19,105052,J1772,public
+ELEC,PAR PHARMA,One Ram Ridge Road,Chestnut Ridge,NY,10977,1,Public,ChargePoint Network,41.0801088,-74.052096,3/8/19,105056,J1772,public
+ELEC,SOLVAY LIBRARY,615 Woods Rd,Syracuse,NY,13209,1,Public,ChargePoint Network,43.0578323,-76.2074131,3/8/19,105102,J1772,public
+ELEC,TPS AMC,22 Holland Ave,Albany,NY,12209,1,Public,ChargePoint Network,42.6462302,-73.7729301,3/8/19,105160,J1772,public
+ELEC,Mohawk Ramp,477 Washington St,Buffalo,NY,14203,1,Public,EV Connect,42.887468,-78.872406,1/10/19,105187,J1772,public
+ELEC,Walmart,10401 Bennett Rd,Fredonia,NY,14063,1,Public - Credit card at all times,Electrify America,42.453762,-79.313359,3/7/19,105256,CHADEMO,public
+ELEC,THE ELMS,1 Bay Rd,Lake Luzerne,NY,12846,1,Public,ChargePoint Network,43.3127414,-73.8352493,3/8/19,105269,J1772,public
+ELEC,GARBER ROC,3925 W Henrietta Rd,Rochester,NY,14623,1,Public,ChargePoint Network,43.074417,-77.64474,3/8/19,105334,J1772,public
+ELEC,COLCHESTER EV,15185 NY-30,Downsville,NY,13755,1,Public,ChargePoint Network,42.079406,-74.9936246,3/8/19,105372,J1772,public
+ELEC,IKEA Distribution Services Center,586 Gulf Avenue,Staten Island,NY,10314,1,Public,Blink Network,40.613664,-74.184328,3/8/19,105435,J1772,public
+ELEC,HUNTER MOUNTAIN,82 Liftside Dr,Hunter,NY,12442,1,Public,ChargePoint Network,42.2051272,-74.2126695,3/8/19,105452,J1772,public
+ELEC,WILLIAMSVILLE,5565 Main St,Williamsville,NY,14221,1,Public,ChargePoint Network,42.9619809,-78.7454514,3/8/19,105526,J1772,public
+ELEC,AAA - Albany - Tesla Destination,618 Delaware Ave,Albany,NY,12209,1,Public,Tesla Destination,42.636441,-73.791489,1/10/19,114878,TESLA,public
+ELEC,Troutbeck - Tesla Destination,515 Leedsville Rd,Amenia,NY,12501,1,Public,Tesla Destination,41.855019,-73.515167,1/10/19,114879,TESLA,public
+ELEC,Paumanok Vineyards - Tesla Destination,1074 Main Rd,Aquebogue,NY,11931,1,Public - Call ahead,Tesla Destination,40.94872521,-72.60259362,1/10/19,114880,TESLA,public
+ELEC,Central Parking - Astoria - Tesla Destination,31-57 31st St,Astoria,NY,11106,1,Public,Tesla Destination,40.762763,-73.924473,1/10/19,114881,TESLA,public
+ELEC,Peppermints Restaurant - Tesla Destination,244 E Main St,Avon,NY,14414,1,Public,Tesla Destination,42.910883,-77.735952,1/10/19,114882,TESLA,public
+ELEC,DoubleTree - Binghamton - Tesla Destination,225 Water St,Binghamton,NY,13901,1,Public,Tesla Destination,42.101763,-75.914203,1/10/19,114883,TESLA,public
+ELEC,Scotttech - Tesla Destination,336 Court St,Binghamton,NY,13904,1,Public,Tesla Destination,42.103472,-75.892293,1/10/19,114884,TESLA,public
+ELEC,Fairfield Inn - Binghamton - Tesla Destination,864 Upper Front St,Binghamton,NY,13905,1,Public,Tesla Destination,42.130103,-75.905801,1/10/19,114885,TESLA,public
+ELEC,Hunt County Vineyards - Tesla Destination,4021 Italy Hill Rd,Branchport,NY,14418,1,Public,Tesla Destination,42.591377,-77.172899,1/10/19,114886,TESLA,public
+ELEC,Point Place Casino - Tesla Destination,450-452 NY-31,Bridgeport,NY,13030,1,Public,Tesla Destination,43.154875,-75.965306,1/10/19,114887,TESLA,public
+ELEC,Century Parking - Tesla Destination,2600 Netherland Ave,Bronx,NY,10463,1,Public,Tesla Destination,40.878611,-73.914792,1/10/19,114888,TESLA,public
+ELEC,Standard Parking - Tesla Destination,1360 Fulton St,Brooklyn,NY,11216,1,Public,Tesla Destination,40.679983,-73.946504,1/10/19,114889,TESLA,public
+ELEC,Standard Parking - Tesla Destination,15 Metrotech Ctr S,Brooklyn,NY,11201,1,Public,Tesla Destination,40.693317,-73.9871,1/10/19,114890,TESLA,public
+ELEC,Quik Park - Tesla Destination,172 Vanderbilt,Brooklyn,NY,11205,1,Public,Tesla Destination,40.692372,-73.969893,1/10/19,114891,TESLA,public
+ELEC,Discount Parking - Tesla Destination,180 Ashland Pl,Brooklyn,NY,11217,1,Public,Tesla Destination,40.689411,-73.978741,1/10/19,114892,TESLA,public
+ELEC,iPark - Tesla Destination,22 N 5th St,Brooklyn,NY,11211,1,Public,Tesla Destination,40.718794,-73.962594,1/10/19,114893,TESLA,public
+ELEC,iPark - Tesla Destination,249 N 7th St,Brooklyn,NY,11248,1,Public,Tesla Destination,40.716085,-73.954508,1/10/19,114894,TESLA,public
+ELEC,Parkright - Tesla Destination,257 Gold St,Brooklyn,NY,11201,1,Public,Tesla Destination,40.696871,-73.983002,1/10/19,114895,TESLA,public
+ELEC,Standard Parking - Tesla Destination,300 Cadman,Brooklyn,NY,11201,1,Public,Tesla Destination,40.695115,-73.990993,1/10/19,114896,TESLA,public
+ELEC,Enterprise - Tesla Destination,309 Gold St,Brooklyn,NY,11201,1,Public,Tesla Destination,40.695013,-73.982843,1/10/19,114897,TESLA,public
+ELEC,iPark - Tesla Destination,34 N 6th St,Brooklyn,NY,11249,1,Public,Tesla Destination,40.719756,-73.962933,1/10/19,114898,TESLA,public
+ELEC,iPark - Tesla Destination,34 N 7th St,Brooklyn,NY,11249,1,Public,Tesla Destination,40.720475,-73.96265,1/10/19,114899,TESLA,public
+ELEC,Standard Parking - Tesla Destination,351 Jay St,Brooklyn,NY,11201,1,Public,Tesla Destination,40.693216,-73.986716,1/10/19,114900,TESLA,public
+ELEC,GGMC Parking - Tesla Destination,356 Bridge St,Brooklyn,NY,11201,1,Public,Tesla Destination,40.692645,-73.985451,1/10/19,114901,TESLA,public
+ELEC,Quik Park - Tesla Destination,365 Bond St,Brooklyn,NY,11231,1,Public,Tesla Destination,40.677433,-73.990299,1/10/19,114902,TESLA,public
+ELEC,GMC Parking - Tesla Destination,388 Bridge St,Brooklyn,NY,11201,1,Public,Tesla Destination,40.691652,-73.985733,1/10/19,114903,TESLA,public
+ELEC,Quik Park - Tesla Destination,4 Joralemon St,Brooklyn,NY,11201,1,Public,Tesla Destination,40.693949,-74.00025,1/10/19,114904,TESLA,public
+ELEC,Rapidpark - Tesla Destination,44 State St,Brooklyn,NY,11201,1,Public,Tesla Destination,40.691871,-73.998307,1/10/19,114905,TESLA,public
+ELEC,Park Kwik - Tesla Destination,45 Main St,Brooklyn,NY,11201,1,Public,Tesla Destination,40.702769,-73.990584,1/10/19,114906,TESLA,public
+ELEC,Kings County Parking - Tesla Destination,581 Clarkson Ave,Brooklyn,NY,11203,1,Public,Tesla Destination,40.656148,-73.940355,1/10/19,114907,TESLA,public
+ELEC,1 Hotel - Brooklyn Bridge - Tesla Destination,60 Furman St,Brooklyn,NY,11201,1,Public,Tesla Destination,40.702241,-73.995539,1/10/19,114908,TESLA,public
+ELEC,City Parking - Tesla Destination,62 Northside Piers,Brooklyn,NY,11249,1,Public,Tesla Destination,40.71955,-73.96413,1/10/19,114909,TESLA,public
+ELEC,Littleman Driggs Parking - Tesla Destination,626 Driggs Ave,Brooklyn,NY,11211,1,Public,Tesla Destination,40.715405,-73.958638,1/10/19,114910,TESLA,public
+ELEC,GGMC Parking - Tesla Destination,66 Rockwell Pl,Brooklyn,NY,11217,1,Public,Tesla Destination,40.68806,-73.979449,1/10/19,114911,TESLA,public
+ELEC,Standard Parking - Tesla Destination,75 Henry St,Brooklyn,NY,11221,1,Public,Tesla Destination,40.698807,-73.991859,1/10/19,114912,TESLA,public
+ELEC,GGMC Parking - Tesla Destination,75 Smith St,Brooklyn,NY,11201,1,Public,Tesla Destination,40.688799,-73.988642,1/10/19,114913,TESLA,public
+ELEC,Standard Parking - Tesla Destination,8 Metrotech Ctr S,Brooklyn,NY,11201,1,Public,Tesla Destination,40.692919,-73.987193,1/10/19,114914,TESLA,public
+ELEC,Quik Park - Tesla Destination,81 Fleet Pl,Brooklyn,NY,11201,1,Public,Tesla Destination,40.693208,-73.981326,1/10/19,114915,TESLA,public
+ELEC,Rapidpark - Tesla Destination,906 Union St,Brooklyn,NY,11215,1,Public,Tesla Destination,40.672726,-73.971664,1/10/19,114916,TESLA,public
+ELEC,MPG - Tesla Destination,100 Jay St,Brooklyn,NY,10021,1,Public,Tesla Destination,40.702004,-73.987053,1/10/19,114917,TESLA,public
+ELEC,imPark - 101 Bedford Ave - Tesla Destination,101 Bedford Ave,Brooklyn,NY,11211,1,Public,Tesla Destination,40.720014,-73.95455,1/10/19,114918,TESLA,public
+ELEC,The William Vale Hotel - Tesla Destination,111 N 12th St,Brooklyn,NY,11249,1,Public,Tesla Destination,40.722362,-73.957208,1/10/19,114919,TESLA,public
+ELEC,Holiday Inn Express - Canandaigua - Tesla Destination,330 Eastern Blvd,Canandaigua,NY,14424,1,Public,Tesla Destination,42.878166,-77.255793,1/10/19,114920,TESLA,public
+ELEC,Best Western - University Inn - Tesla Destination,90 E Main St,Canton,NY,13617,1,Public,Tesla Destination,44.596265,-75.149319,1/10/19,114921,TESLA,public
+ELEC,Glenmere Mansion - Tesla Destination,634 Pine Hill Rd,Chester,NY,10918,1,Public - Call ahead,Tesla Destination,41.338768,-74.322712,1/10/19,114922,TESLA,public
+ELEC,The Fern Lodge - Tesla Destination,46 Fiddlehead Bay Rd,Chestertown,NY,12817,1,Public,Tesla Destination,43.625316,-73.850472,1/10/19,114923,TESLA,public
+ELEC,Asa Ransom House - Tesla Destination,10529 Main St,Clarence,NY,14031,1,Public,Tesla Destination,42.980201,-78.595784,1/10/19,114924,TESLA,public
+ELEC,The Inn at Cooperstown - Tesla Destination,16 Chestnut St,Cooperstown,NY,13326,1,Public,Tesla Destination,42.70163,-74.926982,1/10/19,114925,TESLA,public
+ELEC,Fairfield Inn - Corning Riverside - Tesla Destination,3 S Buffalo St,Corning,NY,14830,1,Public,Tesla Destination,42.153255,-77.080389,1/10/19,114926,TESLA,public
+ELEC,Comfort Inn - Tesla Destination,66 W Pulteney St,Corning,NY,14830,1,Public,Tesla Destination,42.150849,-77.064055,1/10/19,114927,TESLA,public
+ELEC,Storm King Tavern and Golf Club - Tesla Destination,18 Ridge Rd,Cornwall,NY,12518,1,Public,Tesla Destination,41.429428,-74.028204,1/10/19,114928,TESLA,public
+ELEC,Hampton Inn - Tesla Destination,26 River St,Cortland,NY,13045,1,Public,Tesla Destination,42.606836,-76.164117,1/10/19,114929,TESLA,public
+ELEC,Country Inn & Suites - Cortland - Tesla Destination,3707 State Rte 281,Cortland,NY,13045,1,Public,Tesla Destination,42.58651637,-76.2116752,1/10/19,114930,TESLA,public
+ELEC,The Farmhouse Bed & Breakfast - Tesla Destination,1855 Depot Ln,Cutchogue,NY,11935,1,Public - Call ahead,Tesla Destination,41.015587,-72.489904,1/10/19,114931,TESLA,public
+ELEC,River Spring Lodge - Tesla Destination,1961 Church Rd,Darien Center,NY,14040,1,Public - Call ahead,Tesla Destination,42.86245,-78.34496,1/10/19,114932,TESLA,public
+ELEC,Culinary Arts Center - Auburn Watson - Tesla Destination,3295 Walden Ave,Depew,NY,14043,1,Public,Tesla Destination,42.911728,-78.694835,1/10/19,114933,TESLA,public
+ELEC,Airbnb - Dryden - Tesla Destination,277 Lake Rd,Dryden,NY,13053,1,Private,Tesla Destination,42.470417,-76.279078,1/10/19,114934,TESLA,private
+ELEC,The FLX Winery - Tesla Destination,5090 Highway 14,Dundee,NY,14837,1,Public - Call ahead,Tesla Destination,42.519115,-76.922429,1/10/19,114935,TESLA,public
+ELEC,Hampton Inn - Tesla Destination,49 Olean St,East Aurora,NY,14052,1,Public,Tesla Destination,42.766365,-78.608141,1/10/19,114936,TESLA,public
+ELEC,Hampton Inn - LaGuardia Airport - Tesla Destination,102-40 Ditmars Blvd,East Elmhurst,NY,11369,1,Public,Tesla Destination,40.767871,-73.867659,1/10/19,114937,TESLA,public
+ELEC,Luce Ristorante - Tesla Destination,1053 Oyster Bay Rd,East Norwich,NY,11732,1,Public,Tesla Destination,40.843546,-73.532489,1/10/19,114938,TESLA,public
+ELEC,MPG - The Shops at Skyview - Tesla Destination,40-24 College Point Blvd,Flushing,NY,11354,1,Public,Tesla Destination,40.756893,-73.834158,1/10/19,114939,TESLA,public
+ELEC,Sylvan Pinnacle Garage - Tesla Destination,112-01 Queens Blvd,Forest Hills,NY,11375,1,Public,Tesla Destination,40.726421,-73.851406,1/10/19,114940,TESLA,public
+ELEC,Inn at Lake Joseph - Tesla Destination,162 Saint Josephs Rd,Forestburgh,NY,12777,1,Public - Call ahead,Tesla Destination,41.589244,-74.713261,1/10/19,114941,TESLA,public
+ELEC,Airbnb - Ft. Montgomery - Tesla Destination,210 Canterbury Rd,Fort Montgomery,NY,10922,1,Private,Tesla Destination,41.33167787,-73.98855495,1/10/19,114942,TESLA,private
+ELEC,Hampton Inn - Tesla Destination,1 North Ave,Garden City,NY,11530,1,Public,Tesla Destination,40.741668,-73.609459,1/10/19,114943,TESLA,public
+ELEC,Tuthilltown Spirits - Tesla Destination,14 Gristmill Ln,Gardiner,NY,12525,1,Public,Tesla Destination,41.687197,-74.175388,1/10/19,114944,TESLA,public
+ELEC,The Garrison and Highlands Country Club - Tesla Destination,1 Snakehill Rd,Garrison,NY,10524,1,Public,Tesla Destination,41.381167,-73.912428,1/10/19,114945,TESLA,public
+ELEC,Hawthorne Valley - Tesla Destination,330 Country Rte 21C,Ghent,NY,12075,1,Public,Tesla Destination,42.270437,-73.593885,1/10/19,114946,TESLA,public
+ELEC,Greenporter Hotel - Tesla Destination,326 Front St,Greenport,NY,11944,1,Public,Tesla Destination,41.101654,-72.364242,1/10/19,114947,TESLA,public
+ELEC,Peppermints Restaurant - Tesla Destination,4870 W Henrietta Rd,Henrietta,NY,14467,1,Public,Tesla Destination,43.055362,-77.65315,1/10/19,114948,TESLA,public
+ELEC,Hudson Valley Rail Trail Depot - Tesla Destination,101 New Paltz Rd,Highland,NY,12528,1,Public,Tesla Destination,41.733972,-73.974846,1/10/19,114949,TESLA,public
+ELEC,Town of Lloyd Municipal Parking Lot - Tesla Destination,39 Main St,Highland,NY,12528,1,Public,Tesla Destination,41.720133,-73.964807,1/10/19,114950,TESLA,public
+ELEC,Grape Hollow Farm - Tesla Destination,62 Paine Rd,Holmes,NY,12531,1,Public,Tesla Destination,41.548637,-73.692718,1/10/19,114951,TESLA,public
+ELEC,Best Western - Maple City Inn - Tesla Destination,1 Canisteo Square,Hornell,NY,14843,1,Public,Tesla Destination,42.32285,-77.662418,1/10/19,114952,TESLA,public
+ELEC,Fairfield Inn & Suites - Elmira Corning - Tesla Destination,1600 County Rd 64,Horseheads,NY,14845,1,Public,Tesla Destination,42.15882,-76.85612,1/10/19,114953,TESLA,public
+ELEC,Courtyard Marriott - Elmira Horseheads - Tesla Destination,202 Colonial Dr,Horseheads,NY,14845,1,Public,Tesla Destination,42.161972,-76.867318,1/10/19,114954,TESLA,public
+ELEC,Hilton Garden Inn - Elmira - Tesla Destination,35 Arnot Rd,Horseheads,NY,14845,1,Public,Tesla Destination,42.162052,-76.873535,1/10/19,114955,TESLA,public
+ELEC,The Wick Hotel - Tesla Destination,41 Cross St,Hudson,NY,12534,1,Public,Tesla Destination,42.253073,-73.796003,1/10/19,114956,TESLA,public
+ELEC,La Tourelle Hotel & Spa - Tesla Destination,1150 Danby Rd,Ithaca,NY,14850,1,Public - Call ahead,Tesla Destination,42.401806,-76.502908,1/10/19,114957,TESLA,public
+ELEC,Hilton Garden Inn - Downtown Ithaca - Tesla Destination,130 E Seneca St,Ithaca,NY,14850,1,Public - Call ahead,Tesla Destination,42.440673,-76.497375,1/10/19,114958,TESLA,public
+ELEC,William Henry Miller Inn - Tesla Destination,303 N Aurora St,Ithaca,NY,14850,1,Public,Tesla Destination,42.441724,-76.495362,1/10/19,114959,TESLA,public
+ELEC,Jamesport Vineyards - Tesla Destination,1216 Main Rd,Jamesport,NY,11947,1,Public,Tesla Destination,40.94866518,-72.59730122,1/10/19,114960,TESLA,public
+ELEC,Hampton Inn - Tesla Destination,1307 Ulster Ave,Kingston,NY,12401,1,Public - Call ahead,Tesla Destination,41.970001,-73.989083,1/10/19,114961,TESLA,public
+ELEC,Courtyard Marriott - Tesla Destination,500 Frank Sottile Blvd,Kingston,NY,12401,1,Public,Tesla Destination,41.970145,-73.985923,1/10/19,114962,TESLA,public
+ELEC,Airbnb - Starfish Cottage - Tesla Destination,46 Cunningham Dr,Lagrageville,NY,12540,1,Private,Tesla Destination,41.662507,-73.731698,1/10/19,114963,TESLA,private
+ELEC,Adirondack Mountain Club - Tesla Destination,814 Goggins Rd,Lake George,NY,12845,1,Public,Tesla Destination,43.400634,-73.716573,1/10/19,114964,TESLA,public
+ELEC,Best Western - Adirondack Inn - Tesla Destination,2625 Main St,Lake Placid,NY,12946,1,Public,Tesla Destination,44.284065,-73.983532,1/10/19,114965,TESLA,public
+ELEC,The Whiteface Lodge - Tesla Destination,7 Whiteface Inn Ln,Lake Placid,NY,12946,1,Public - Call ahead,Tesla Destination,44.297026,-74.010764,1/10/19,114966,TESLA,public
+ELEC,AAA - Latham - Tesla Destination,595 New Loudon Rd,Latham,NY,12110,1,Public,Tesla Destination,42.728097,-73.759578,1/10/19,114967,TESLA,public
+ELEC,MPG - 1-50 51st Ave - Tesla Destination,1-50 51st Ave,Long Island City,NY,11101,1,Public,Tesla Destination,40.742713,-73.959323,1/10/19,114968,TESLA,public
+ELEC,iPark - Tesla Destination,43-25 Hunter St,Long Island City,NY,11101,1,Public,Tesla Destination,40.747653,-73.942313,1/10/19,114969,TESLA,public
+ELEC,Little Man Parking (Queens West) - Tesla Destination,4-76 47th Ave,Long Island City,NY,11109,1,Public,Tesla Destination,40.74581,-73.955812,1/10/19,114970,TESLA,public
+ELEC,Red Roof Inn - Malone - Tesla Destination,42 Finney Blvd,Malone,NY,12953,1,Public,Tesla Destination,44.847758,-74.300297,1/10/19,114971,TESLA,public
+ELEC,Icon Parking - Tesla Destination,235 W 48th St,Manhattan,NY,10036,1,Public,Tesla Destination,40.760856,-73.986218,1/10/19,114972,TESLA,public
+ELEC,Icon Parking - Tesla Destination,360 E 65th St,Manhattan,NY,10065,1,Public,Tesla Destination,40.763564,-73.960236,1/10/19,114973,TESLA,public
+ELEC,Icon Parking - Tesla Destination,205 E 63rd St,Manhattan,NY,10065,1,Public,Tesla Destination,40.764174,-73.964533,1/10/19,114974,TESLA,public
+ELEC,Clemson Bros Brewery - Tesla Destination,22 Cottage St,Middletown,NY,10940,1,Public,Tesla Destination,41.446952,-74.415608,1/10/19,114975,TESLA,public
+ELEC,Home2 Suites - Middletown - Tesla Destination,600 Route 211 E,Middletown,NY,10941,1,Public,Tesla Destination,41.462968,-74.368183,1/10/19,114976,TESLA,public
+ELEC,Buttermilk Falls Inn & Spa - Tesla Destination,220 North Rd,Milton,NY,12547,1,Public,Tesla Destination,41.666684,-73.955378,1/10/19,114977,TESLA,public
+ELEC,SunPower by New York State Solar Farm - Tesla Destination,1938 Route 44/55,Modena,NY,12548,1,Public,Tesla Destination,41.667875,-74.105849,1/10/19,114978,TESLA,public
+ELEC,Gurney's Montauk Resort & Spa - Tesla Destination,290 Old Montauk Hwy,Montauk,NY,11954,1,Public,Tesla Destination,41.015489,-71.992316,1/10/19,114979,TESLA,public
+ELEC,Montauk Yacht Club Resort & Marina - Tesla Destination,32 Star Island Rd,Montauk,NY,11954,1,Public,Tesla Destination,41.069404,-71.932673,1/10/19,114980,TESLA,public
+ELEC,Borland House Bed & Breakfast - Tesla Destination,130 Clinton St,Montgomery,NY,12549,1,Public,Tesla Destination,41.52688,-74.235988,1/10/19,114981,TESLA,public
+ELEC,Hampton Inn - Tesla Destination,4 S Putt Corners Rd,New Paltz,NY,12561,1,Public,Tesla Destination,41.740795,-74.067127,1/10/19,114982,TESLA,public
+ELEC,MPG - 10 E 102nd Street - Tesla Destination,10 E 102nd St,New York,NY,10029,1,Public,Tesla Destination,40.791232,-73.95237,1/10/19,114983,TESLA,public
+ELEC,Rapidpark - Tesla Destination,10 E 30th St,New York,NY,10016,1,Public,Tesla Destination,40.745384,-73.985704,1/10/19,114984,TESLA,public
+ELEC,Icon Parking - Tesla Destination,10 E 87th St,New York,NY,10028,1,Public,Tesla Destination,40.782031,-73.959484,1/10/19,114985,TESLA,public
+ELEC,iPark - Tesla Destination,10 W 15th,New York,NY,10011,1,Public,Tesla Destination,40.736754,-73.993789,1/10/19,114986,TESLA,public
+ELEC,GGMC Parking - Tesla Destination,10 W 66th St,New York,NY,10023,1,Public,Tesla Destination,40.772308,-73.978966,1/10/19,114987,TESLA,public
+ELEC,GGMC Parking - Tesla Destination,100 E 15th St,New York,NY,10003,1,Public,Tesla Destination,40.734817,-73.989198,1/10/19,114988,TESLA,public
+ELEC,Icon Parking - Tesla Destination,100 Riverside Blvd,New York,NY,10024,1,Public,Tesla Destination,40.775704,-73.989483,1/10/19,114989,TESLA,public
+ELEC,Rapidpark - Tesla Destination,100 W 89th,New York,NY,10024,1,Public,Tesla Destination,40.788305,-73.971353,1/10/19,114990,TESLA,public
+ELEC,Champion Parking - E 16th Street - Tesla Destination,101 E 16th St,New York,NY,10003,1,Public,Tesla Destination,40.736116,-73.989322,1/10/19,114991,TESLA,public
+ELEC,Icon Parking - Tesla Destination,101 W 15th St,New York,NY,10011,1,Public,Tesla Destination,40.738352,-73.996519,1/10/19,114992,TESLA,public
+ELEC,iPark - Tesla Destination,101 W 88th St,New York,NY,10024,1,Public,Tesla Destination,40.787976,-73.971145,1/10/19,114993,TESLA,public
+ELEC,Icon Parking - Tesla Destination,101 West End Ave,New York,NY,10023,1,Public,Tesla Destination,40.775188,-73.988501,1/10/19,114994,TESLA,public
+ELEC,ABM Parking - 475 Park Ave South - Tesla Destination,104 E 32nd St,New York,NY,10016,1,Public,Tesla Destination,40.745497,-73.98208,1/10/19,114995,TESLA,public
+ELEC,Rapidpark - Tesla Destination,105 E 39th,New York,NY,10016,1,Public,Tesla Destination,40.750254,-73.978627,1/10/19,114996,TESLA,public
+ELEC,iPark - Tesla Destination,107 W 13th St,New York,NY,10011,1,Public,Tesla Destination,40.737094,-73.997754,1/10/19,114997,TESLA,public
+ELEC,Icon Parking - Tesla Destination,11 5th Ave,New York,NY,10003,1,Public,Tesla Destination,40.732257,-73.99608,1/10/19,114998,TESLA,public
+ELEC,iPark - Tesla Destination,11 E 83rd St,New York,NY,10028,1,Public,Tesla Destination,40.779468,-73.961086,1/10/19,114999,TESLA,public
+ELEC,GMC Parking - 111 E 82nd St - Tesla Destination,111 E 82nd St,New York,NY,10065,1,Public,Tesla Destination,40.777545,-73.958471,1/10/19,115000,TESLA,public
+ELEC,iPark - Tesla Destination,112 E 65th St,New York,NY,10065,1,Public,Tesla Destination,40.766174,-73.966419,1/10/19,115001,TESLA,public
+ELEC,Quik Park - Tesla Destination,1133 6th Ave,New York,NY,10036,1,Public,Tesla Destination,40.756071,-73.98392,1/10/19,115002,TESLA,public
+ELEC,iPark - Tesla Destination,116 E 98th St,New York,NY,10029,1,Public,Tesla Destination,40.787343,-73.951003,1/10/19,115003,TESLA,public
+ELEC,ABM Parking - 750 Lexington Ave - Tesla Destination,118 E 60th St,New York,NY,10022,1,Public,Tesla Destination,40.762806,-73.9687,1/10/19,115004,TESLA,public
+ELEC,Icon Parking - Tesla Destination,12 E 9th St,New York,NY,10003,1,Public,Tesla Destination,40.732324,-73.99517,1/10/19,115005,TESLA,public
+ELEC,MPG - 121 Reade Street - Tesla Destination,121 Reade St,New York,NY,10013,1,Public,Tesla Destination,40.716208,-74.009488,1/10/19,115006,TESLA,public
+ELEC,GMC Parking - Narragansett - Tesla Destination,124 E 63rd St,New York,NY,10065,1,Public,Tesla Destination,40.764767,-73.967021,1/10/19,115007,TESLA,public
+ELEC,Rapidpark - Tesla Destination,124 W 20th St,New York,NY,10011,1,Public,Tesla Destination,40.741371,-73.995533,1/10/19,115008,TESLA,public
+ELEC,Quik Park - Tesla Destination,126 W 32nd St,New York,NY,10001,1,Public,Tesla Destination,40.748789,-73.989915,1/10/19,115009,TESLA,public
+ELEC,ABM Parking - 13 East 54th Street - Tesla Destination,13-17 E 54th St,New York,NY,10022,1,Public,Tesla Destination,40.761051,-73.974877,1/10/19,115010,TESLA,public
+ELEC,Hilton - Midtown - Tesla Destination,1335 Avenue of the Americas,New York,NY,10019,1,Public,Tesla Destination,40.762445,-73.97971,1/10/19,115011,TESLA,public
+ELEC,1345 Parking Garage - Tesla Destination,1345 6th Ave,New York,NY,10105,1,Public,Tesla Destination,40.76351,-73.979364,1/10/19,115012,TESLA,public
+ELEC,Icon Parking - Tesla Destination,1350 6th Ave,New York,NY,10019,1,Public,Tesla Destination,40.762653,-73.977846,1/10/19,115013,TESLA,public
+ELEC,Icon Parking - Tesla Destination,14-26 William St,New York,NY,10004,1,Public,Tesla Destination,40.704976,-74.009682,1/10/19,115014,TESLA,public
+ELEC,Icon Parking - Tesla Destination,143-159 W 68th St,New York,NY,10023,1,Public,Tesla Destination,40.775545,-73.9818,1/10/19,115015,TESLA,public
+ELEC,Rapidpark - Tesla Destination,148 E 33rd St,New York,NY,10016,1,Public - Call ahead,Tesla Destination,40.745236,-73.979736,1/10/19,115016,TESLA,public
+ELEC,Rapidpark - Tesla Destination,15 W 72nd St,New York,NY,10023,1,Public,Tesla Destination,40.777008,-73.97689,1/10/19,115017,TESLA,public
+ELEC,Icon Parking - Tesla Destination,150 Charles St,New York,NY,10014,1,Public,Tesla Destination,40.733633,-74.009239,1/10/19,115018,TESLA,public
+ELEC,Icon Parking - Tesla Destination,150 E 58th St,New York,NY,10155,1,Public,Tesla Destination,40.76161,-73.96775,1/10/19,115019,TESLA,public
+ELEC,Rapidpark - Tesla Destination,150 E 77th St,New York,NY,10021,1,Public,Tesla Destination,40.773472,-73.95992,1/10/19,115020,TESLA,public
+ELEC,Standard Parking - Tesla Destination,151 W 17th St,New York,NY,10011,1,Public,Tesla Destination,40.740728,-73.997493,1/10/19,115021,TESLA,public
+ELEC,Icon Parking - Tesla Destination,155 E 29th St,New York,NY,10016,1,Public,Tesla Destination,40.742968,-73.980565,1/10/19,115022,TESLA,public
+ELEC,City Parking - Tesla Destination,155 E 34th St,New York,NY,10016,1,Public,Tesla Destination,40.7462,-73.978528,1/10/19,115023,TESLA,public
+ELEC,Prime Parking Systems - 155 E 68th Street - Tesla Destination,155 E 68th St,New York,NY,10065,1,Public,Tesla Destination,40.768032,-73.963983,1/10/19,115024,TESLA,public
+ELEC,Champion Parking - W 53rd Street - Tesla Destination,159 W 53rd St,New York,NY,10019,1,Public,Tesla Destination,40.763,-73.981278,1/10/19,115025,TESLA,public
+ELEC,Icon Parking - Tesla Destination,16 W 16th St,New York,NY,10011,1,Public,Tesla Destination,40.737595,-73.993837,1/10/19,115026,TESLA,public
+ELEC,GGMC Parking - Tesla Destination,161 W 61st St,New York,NY,10023,1,Public,Tesla Destination,40.771561,-73.985834,1/10/19,115027,TESLA,public
+ELEC,iPark - Tesla Destination,165 E 77th St,New York,NY,10014,1,Public,Tesla Destination,40.77364,-73.959302,1/10/19,115028,TESLA,public
+ELEC,Parkright - Tesla Destination,169 Ludlow St,New York,NY,10012,1,Public,Tesla Destination,40.721724,-73.987776,1/10/19,115029,TESLA,public
+ELEC,Icon Parking - Tesla Destination,169 W 95th St,New York,NY,10025,1,Public,Tesla Destination,40.793528,-73.97024,1/10/19,115030,TESLA,public
+ELEC,Residence Inn - Manhattan - Tesla Destination,1717 Broadway,New York,NY,10019,1,Public,Tesla Destination,40.764369,-73.982707,1/10/19,115031,TESLA,public
+ELEC,Quik Park - Tesla Destination,173 W 12th St,New York,NY,10011,1,Public,Tesla Destination,40.7372,-74.00007,1/10/19,115032,TESLA,public
+ELEC,Quik Park - Tesla Destination,180 Riverside Blvd,New York,NY,10069,1,Public,Tesla Destination,40.778397,-73.987899,1/10/19,115033,TESLA,public
+ELEC,iPark - Tesla Destination,184 E 73rd St,New York,NY,10021,1,Public,Tesla Destination,40.770442,-73.960649,1/10/19,115034,TESLA,public
+ELEC,Icon Parking - Tesla Destination,188 Clinton St,New York,NY,10002,1,Public,Tesla Destination,40.715074,-73.986927,1/10/19,115035,TESLA,public
+ELEC,Glenwood Grand Tier Parking - Tesla Destination,1930 Broadway,New York,NY,10023,1,Public,Tesla Destination,40.772436,-73.981695,1/10/19,115036,TESLA,public
+ELEC,Standard Parking - Tesla Destination,20 W 13th St,New York,NY,10011,1,Public,Tesla Destination,40.735594,-73.995291,1/10/19,115037,TESLA,public
+ELEC,Central Parking - 200 Chambers - Tesla Destination,200 Chambers St,New York,NY,10007,1,Public,Tesla Destination,40.716579,-74.012393,1/10/19,115038,TESLA,public
+ELEC,Icon Parking - Tesla Destination,200 E 32nd St,New York,NY,10016,1,Public,Tesla Destination,40.744029,-73.978952,1/10/19,115039,TESLA,public
+ELEC,Icon Parking - Tesla Destination,200 E 65th St,New York,NY,10021,1,Public,Tesla Destination,40.764777,-73.963555,1/10/19,115040,TESLA,public
+ELEC,Enterprise Parking - 200 E 69th St - Tesla Destination,200 E 69th St,New York,NY,10065,1,Public,Tesla Destination,40.767289,-73.961762,1/10/19,115041,TESLA,public
+ELEC,iPark - Tesla Destination,200 E 70th St,New York,NY,10021,1,Public,Tesla Destination,40.768244,-73.961621,1/10/19,115042,TESLA,public
+ELEC,iPark - Tesla Destination,200 E 94th St,New York,NY,10128,1,Public,Tesla Destination,40.783355,-73.949998,1/10/19,115043,TESLA,public
+ELEC,GMC Parking - Tesla Destination,2000 Broadway,New York,NY,10023,1,Public,Tesla Destination,40.775496,-73.981552,1/10/19,115044,TESLA,public
+ELEC,MPG - 201 E 56th - Tesla Destination,201 E 56th,New York,NY,10022,1,Public,Tesla Destination,40.759764,-73.967956,1/10/19,115045,TESLA,public
+ELEC,Icon Parking - Tesla Destination,203 E 61 St,New York,NY,10021,1,Public,Tesla Destination,40.762948,-73.965513,1/10/19,115046,TESLA,public
+ELEC,Rapidpark - Tesla Destination,204 W 101st St,New York,NY,10025,1,Public,Tesla Destination,40.797283,-73.968766,1/10/19,115047,TESLA,public
+ELEC,Champion Parking - W 76th Street - Tesla Destination,205 W 76th St,New York,NY,10023,1,Public,Tesla Destination,40.78168,-73.97994,1/10/19,115048,TESLA,public
+ELEC,Icon Parking - Tesla Destination,207 W 52nd St,New York,NY,10019,1,Public,Tesla Destination,40.762891,-73.983151,1/10/19,115049,TESLA,public
+ELEC,Standard Parking - Tesla Destination,21 E 15th St,New York,NY,10003,1,Public,Tesla Destination,40.73644,-73.992027,1/10/19,115050,TESLA,public
+ELEC,Rapidpark - Tesla Destination,210 W 102st St,New York,NY,10025,1,Public,Tesla Destination,40.797961,-73.968389,1/10/19,115051,TESLA,public
+ELEC,Champion Parking - 74 - Tesla Destination,2109 Broadway,New York,NY,10023,1,Public,Tesla Destination,40.780143,-73.98221,1/10/19,115052,TESLA,public
+ELEC,GGMC Parking - Tesla Destination,217 E 44th St,New York,NY,10017,1,Public,Tesla Destination,40.752004,-73.972808,1/10/19,115053,TESLA,public
+ELEC,Icon Parking - Tesla Destination,220 Riverside Blvd,New York,NY,10024,1,Public,Tesla Destination,40.77975,-73.987272,1/10/19,115054,TESLA,public
+ELEC,iPark - Tesla Destination,220 W 26th St,New York,NY,10001,1,Public,Tesla Destination,40.746142,-73.995221,1/10/19,115055,TESLA,public
+ELEC,Parkit - 221 Thompson Street - Tesla Destination,221 Thompson St,New York,NY,10012,1,Public,Tesla Destination,40.729372,-73.999217,1/10/19,115056,TESLA,public
+ELEC,Iron State - Tesla Destination,221 W 29th St,New York,NY,10001,1,Public,Tesla Destination,40.748439,-73.993713,1/10/19,115057,TESLA,public
+ELEC,Icon Parking - Tesla Destination,225 W 83rd St,New York,NY,10024,1,Public,Tesla Destination,40.786371,-73.977357,1/10/19,115058,TESLA,public
+ELEC,Quik Park - Tesla Destination,225-251 W 56th St,New York,NY,10019,1,Public,Tesla Destination,40.765735,-73.982101,1/10/19,115059,TESLA,public
+ELEC,GGMC Parking - Tesla Destination,230 E 92nd St,New York,NY,10128,1,Public,Tesla Destination,40.782163,-73.95059,1/10/19,115060,TESLA,public
+ELEC,Champion Parking - 230 W 55th Street - Tesla Destination,230 W 55th St,New York,NY,10019,1,Public,Tesla Destination,40.764693,-73.982708,1/10/19,115061,TESLA,public
+ELEC,Icon Parking - Tesla Destination,237 W Thames,New York,NY,10280,1,Public,Tesla Destination,40.708465,-74.016762,1/10/19,115062,TESLA,public
+ELEC,Icon Parking - 299 Peal Street Seaport Parking - Tesla Destination,238 Pearl St,New York,NY,10069,1,Public,Tesla Destination,40.70736,-74.004989,1/10/19,115063,TESLA,public
+ELEC,Icon Parking - Tesla Destination,245 E 19th St,New York,NY,10010,1,Public,Tesla Destination,40.73591,-73.983331,1/10/19,115064,TESLA,public
+ELEC,iPark - Tesla Destination,245 E 63rd St,New York,NY,10025,1,Public,Tesla Destination,40.763562,-73.963079,1/10/19,115065,TESLA,public
+ELEC,GGMC Parking - Tesla Destination,245 E 90th St,New York,NY,10128,1,Public,Tesla Destination,40.780918,-73.950526,1/10/19,115066,TESLA,public
+ELEC,iPark - Tesla Destination,246 E 45th St,New York,NY,10017,1,Public,Tesla Destination,40.751676,-73.971144,1/10/19,115067,TESLA,public
+ELEC,iPark - Tesla Destination,250 W 19th St,New York,NY,10011,1,Public,Tesla Destination,40.742179,-73.999226,1/10/19,115068,TESLA,public
+ELEC,Quik Park - Tesla Destination,250 W 97th St,New York,NY,10025,1,Public,Tesla Destination,40.795279,-73.971688,1/10/19,115069,TESLA,public
+ELEC,Quik Park - Tesla Destination,251 W 62nd St,New York,NY,10282,1,Public,Tesla Destination,40.773464,-73.989532,1/10/19,115070,TESLA,public
+ELEC,Rapidpark - Tesla Destination,25-27 Beekman St,New York,NY,10038,1,Public,Tesla Destination,40.710628,-74.006186,1/10/19,115071,TESLA,public
+ELEC,Rapidpark - Tesla Destination,254 W 79th St,New York,NY,10024,1,Public,Tesla Destination,40.78386,-73.980521,1/10/19,115072,TESLA,public
+ELEC,MPG - 266 E 97 St - Tesla Destination,266 E 97th St,New York,NY,10021,1,Public,Tesla Destination,40.784771,-73.946728,1/10/19,115073,TESLA,public
+ELEC,Parkit - 27 N Moore Street - Tesla Destination,27 N Moore St,New York,NY,10013,1,Public,Tesla Destination,40.720215,-74.007465,1/10/19,115074,TESLA,public
+ELEC,iPark - Tesla Destination,27 W 105th St,New York,NY,10025,1,Public,Tesla Destination,40.797875,-73.961228,1/10/19,115075,TESLA,public
+ELEC,Standard Parking - Tesla Destination,270 Greenwich St,New York,NY,10007,1,Public,Tesla Destination,40.715543,-74.011435,1/10/19,115076,TESLA,public
+ELEC,Icon Parking - Tesla Destination,279 E 65th St,New York,NY,10065,1,Public,Tesla Destination,40.764758,-73.962042,1/10/19,115077,TESLA,public
+ELEC,ABM Parking - Services 285 W 50th Street - Tesla Destination,285 W 50th St,New York,NY,10019,1,Public,Tesla Destination,40.762337,-73.985727,1/10/19,115078,TESLA,public
+ELEC,Parkright - Tesla Destination,29 E 29th St,New York,NY,10016,1,Public,Tesla Destination,40.744551,-73.984535,1/10/19,115079,TESLA,public
+ELEC,iPark - Tesla Destination,3 E 67th St,New York,NY,10065,1,Public,Tesla Destination,40.769386,-73.969137,1/10/19,115080,TESLA,public
+ELEC,Icon Parking - Tesla Destination,30 W 63rd St,New York,NY,10023,1,Public,Tesla Destination,40.770769,-73.981573,1/10/19,115081,TESLA,public
+ELEC,GGMC Parking - Tesla Destination,300 E 54th St,New York,NY,10022,1,Public,Tesla Destination,40.756956,-73.966399,1/10/19,115082,TESLA,public
+ELEC,Icon Parking - Tesla Destination,300 E 59th St,New York,NY,10022,1,Public,Tesla Destination,40.760421,-73.964418,1/10/19,115083,TESLA,public
+ELEC,GGMC Parking - Tesla Destination,300 E 74th St,New York,NY,10021,1,Public,Tesla Destination,40.769925,-73.957476,1/10/19,115084,TESLA,public
+ELEC,Parkright - Tesla Destination,300 E 77th St,New York,NY,10075,1,Public,Tesla Destination,40.771689,-73.955816,1/10/19,115085,TESLA,public
+ELEC,Icon Parking - Tesla Destination,301 E 57th St,New York,NY,10022,1,Public,Tesla Destination,40.759484,-73.965206,1/10/19,115086,TESLA,public
+ELEC,Parkit - 301 E 64th - Tesla Destination,301 E 64th St,New York,NY,10065,1,Public,Tesla Destination,40.76389,-73.961892,1/10/19,115087,TESLA,public
+ELEC,Icon Parking - Tesla Destination,308 Greenwich St,New York,NY,10013,1,Public,Tesla Destination,40.717568,-74.011042,1/10/19,115088,TESLA,public
+ELEC,Parkit - 310 E 11th Street - Tesla Destination,310 E 11th St,New York,NY,10003,1,Public,Tesla Destination,40.729871,-73.98568,1/10/19,115089,TESLA,public
+ELEC,Waldorf Astoria - New York - Tesla Destination,310 Park Ave,New York,NY,10022,1,Public,Tesla Destination,40.757047,-73.974455,1/10/19,115090,TESLA,public
+ELEC,Quik Park - Tesla Destination,311 W Broadway,New York,NY,10013,1,Public,Tesla Destination,40.721638,-74.003781,1/10/19,115091,TESLA,public
+ELEC,Icon Parking - Tesla Destination,318-322 E 23rd St,New York,NY,10010,1,Public,Tesla Destination,40.737362,-73.980167,1/10/19,115092,TESLA,public
+ELEC,Quik Park - Tesla Destination,32 Debrosses St,New York,NY,10013,1,Public,Tesla Destination,40.723702,-74.010335,1/10/19,115093,TESLA,public
+ELEC,Glenwood Belmont Parking - Tesla Destination,320 E 46th St,New York,NY,10021,1,Public,Tesla Destination,40.751784,-73.969463,1/10/19,115094,TESLA,public
+ELEC,Champion Parking - W 57th Street - Tesla Destination,320 W 57th St,New York,NY,10019,1,Public,Tesla Destination,40.767194,-73.984544,1/10/19,115095,TESLA,public
+ELEC,GGMC Parking - Tesla Destination,325 E 5th Ave,New York,NY,10016,1,Public,Tesla Destination,40.74733,-73.984857,1/10/19,115096,TESLA,public
+ELEC,Icon Parking - Tesla Destination,329 E 48th St,New York,NY,10017,1,Public,Tesla Destination,40.75323,-73.96799,1/10/19,115097,TESLA,public
+ELEC,Icon Parking - Tesla Destination,330 E 39th St,New York,NY,10016,1,Public,Tesla Destination,40.747123,-73.972257,1/10/19,115098,TESLA,public
+ELEC,Icon Parking - Tesla Destination,330 W 58th St,New York,NY,10019,1,Public,Tesla Destination,40.767725,-73.983646,1/10/19,115099,TESLA,public
+ELEC,Apple Parking - 332 W 11th Street - Tesla Destination,332 W 11th St,New York,NY,10014,1,Public - Call ahead,Tesla Destination,40.735404,-74.007717,1/10/19,115100,TESLA,public
+ELEC,iPark - Tesla Destination,333 E 38th St,New York,NY,10016,1,Public,Tesla Destination,40.746891,-73.972547,1/10/19,115101,TESLA,public
+ELEC,Standard Parking - Tesla Destination,339 S End Ave,New York,NY,10280,1,Public,Tesla Destination,40.710652,-74.016396,1/10/19,115102,TESLA,public
+ELEC,MPG - 340 East 93rd - Tesla Destination,340 E 93rd St,New York,NY,10128,1,Public,Tesla Destination,40.781375,-73.946721,1/10/19,115103,TESLA,public
+ELEC,Rapidpark - Tesla Destination,340 E 94th St,New York,NY,10128,1,Public - Call ahead,Tesla Destination,40.781961,-73.946209,1/10/19,115104,TESLA,public
+ELEC,iPark - Tesla Destination,345 E 80th St,New York,NY,10075,1,Public,Tesla Destination,40.773471,-73.952304,1/10/19,115105,TESLA,public
+ELEC,Rapidpark - Tesla Destination,35 E 75th St,New York,NY,10021,1,Public,Tesla Destination,40.773815,-73.963696,1/10/19,115106,TESLA,public
+ELEC,The Carlyle Hotel - Tesla Destination,35 E 76th St,New York,NY,10021,1,Public,Tesla Destination,40.774308,-73.963182,1/10/19,115107,TESLA,public
+ELEC,Quik Park - Tesla Destination,350 E 82nd St,New York,NY,10028,1,Public,Tesla Destination,40.774316,-73.951909,1/10/19,115108,TESLA,public
+ELEC,GGMC Parking - Tesla Destination,350 W 43rd St,New York,NY,10036,1,Public,Tesla Destination,40.758503,-73.991285,1/10/19,115109,TESLA,public
+ELEC,Rapidpark - Tesla Destination,351 E 83rd,New York,NY,10028,1,Public,Tesla Destination,40.775208,-73.950978,1/10/19,115110,TESLA,public
+ELEC,Icon Parking - Tesla Destination,35-39 E 61st St,New York,NY,10021,1,Public,Tesla Destination,40.764876,-73.970102,1/10/19,115111,TESLA,public
+ELEC,Icon Parking - 376 Greenwich Street - Tesla Destination,376 Greenwich St,New York,NY,10013,1,Public,Tesla Destination,40.719814,-74.010394,1/10/19,115112,TESLA,public
+ELEC,iPark - Tesla Destination,377 E 33rd St,New York,NY,10016,1,Public,Tesla Destination,40.743382,-73.974251,1/10/19,115113,TESLA,public
+ELEC,Icon Parking - Tesla Destination,385 W 15th St,New York,NY,10011,1,Public,Tesla Destination,40.741669,-74.004397,1/10/19,115114,TESLA,public
+ELEC,iPark - Tesla Destination,386 E 48th St,New York,NY,11248,1,Public,Tesla Destination,40.751772,-73.964999,1/10/19,115115,TESLA,public
+ELEC,Icon Parking - Tesla Destination,39 Exchange Pl,New York,NY,10005,1,Public,Tesla Destination,40.706109,-74.010148,1/10/19,115116,TESLA,public
+ELEC,GGMC Parking - Tesla Destination,40 E 94th St,New York,NY,10128,1,Public,Tesla Destination,40.785524,-73.95496,1/10/19,115117,TESLA,public
+ELEC,City Parking - Tesla Destination,40 Mercer St,New York,NY,10025,1,Public,Tesla Destination,40.721244,-74.00092,1/10/19,115118,TESLA,public
+ELEC,Icon Parking - Tesla Destination,40 W 26th St,New York,NY,10010,1,Public - Call ahead,Tesla Destination,40.743961,-73.989912,1/10/19,115119,TESLA,public
+ELEC,iPark - Tesla Destination,400 E 35th St,New York,NY,10016,1,Public,Tesla Destination,40.744093,-73.972689,1/10/19,115120,TESLA,public
+ELEC,Icon Parking - Liberty View Parking - Tesla Destination,400 Murray St,New York,NY,10016,1,Public,Tesla Destination,40.716079,-74.015929,1/10/19,115121,TESLA,public
+ELEC,Champion Parking - 113 - Tesla Destination,400 W 113th St,New York,NY,10025,1,Public,Tesla Destination,40.804007,-73.960887,1/10/19,115122,TESLA,public
+ELEC,Propark - 401 W 110th Street - Tesla Destination,401 W 110th St,New York,NY,10025,1,Public,Tesla Destination,40.802368,-73.961689,1/10/19,115123,TESLA,public
+ELEC,Parkit - 403 Lafayette St - Tesla Destination,403 Lafayette St,New York,NY,10003,1,Public,Tesla Destination,40.728137,-73.992393,1/10/19,115124,TESLA,public
+ELEC,iPark - Tesla Destination,41 E 85th St,New York,NY,10028,1,Public,Tesla Destination,40.780305,-73.959091,1/10/19,115125,TESLA,public
+ELEC,Rapidpark - Tesla Destination,411 W 55th St,New York,NY,10019,1,Public,Tesla Destination,40.767111,-73.987232,1/10/19,115126,TESLA,public
+ELEC,GGMC Parking - Tesla Destination,415 E 79th St,New York,NY,10075,1,Public,Tesla Destination,40.772197,-73.95183,1/10/19,115127,TESLA,public
+ELEC,Icon Parking - Tesla Destination,417 E 53rd St,New York,NY,10022,1,Public,Tesla Destination,40.755371,-73.963368,1/10/19,115128,TESLA,public
+ELEC,Icon Parking - Tesla Destination,417 E 71st St,New York,NY,10021,1,Public,Tesla Destination,40.766976,-73.955645,1/10/19,115129,TESLA,public
+ELEC,GMC Parking - 420 E 53rd - Tesla Destination,420 E 53rd St,New York,NY,10022,1,Public,Tesla Destination,40.755013,-73.963549,1/10/19,115130,TESLA,public
+ELEC,Sutton Place North Garage - Tesla Destination,420 E 54th St,New York,NY,10022,1,Public,Tesla Destination,40.755679,-73.963528,1/10/19,115131,TESLA,public
+ELEC,imPark - 422 E 79th Street - Tesla Destination,422 E 79th St,New York,NY,10075,1,Public,Tesla Destination,40.771766,-73.951838,1/10/19,115132,TESLA,public
+ELEC,Quik Park - Tesla Destination,423-431 W 23rd St,New York,NY,10011,1,Public,Tesla Destination,40.746762,-74.001428,1/10/19,115133,TESLA,public
+ELEC,iPark - Tesla Destination,425 E 58th St,New York,NY,10022,1,Public,Tesla Destination,40.758766,-73.961406,1/10/19,115134,TESLA,public
+ELEC,City Parking - Tesla Destination,425 E 61st St,New York,NY,10065,1,Public,Tesla Destination,40.760522,-73.959278,1/10/19,115135,TESLA,public
+ELEC,ABM Parking - 866 UN Plaza - Tesla Destination,430 E 49th St,New York,NY,10017,1,Public,Tesla Destination,40.752516,-73.965347,1/10/19,115136,TESLA,public
+ELEC,Quik Park - Tesla Destination,43-08 Crescent St,New York,NY,11101,1,Public,Tesla Destination,40.748762,-73.942538,1/10/19,115137,TESLA,public
+ELEC,iPark - Tesla Destination,44 Elizabeth St,New York,NY,10013,1,Public,Tesla Destination,40.716947,-73.996472,1/10/19,115138,TESLA,public
+ELEC,Quik Park - Tesla Destination,444 E 86th St,New York,NY,10028,1,Public,Tesla Destination,40.775975,-73.947732,1/10/19,115139,TESLA,public
+ELEC,Rapidpark - Tesla Destination,480 Riverside Dr,New York,NY,10027,1,Public,Tesla Destination,40.811206,-73.963782,1/10/19,115140,TESLA,public
+ELEC,iPark - Tesla Destination,49 W 116th St,New York,NY,10026,1,Public,Tesla Destination,40.801497,-73.94792,1/10/19,115141,TESLA,public
+ELEC,Icon Parking - Tesla Destination,5 E 22nd St,New York,NY,10010,1,Public,Tesla Destination,40.740794,-73.988885,1/10/19,115142,TESLA,public
+ELEC,GGMC Parking - Tesla Destination,50 Battery Pl,New York,NY,10280,1,Public,Tesla Destination,40.706643,-74.018095,1/10/19,115143,TESLA,public
+ELEC,GGMC Parking - Tesla Destination,50 E 79th St,New York,NY,10075,1,Public,Tesla Destination,40.775932,-73.961937,1/10/19,115144,TESLA,public
+ELEC,MPG - 500 West 30th - Tesla Destination,500 W 30th,New York,NY,10001,1,Public,Tesla Destination,40.751987,-74.001701,1/10/19,115145,TESLA,public
+ELEC,Roger Smith Hotel - Tesla Destination,501 Lexington Ave,New York,NY,10017,1,Public,Tesla Destination,40.754735,-73.973361,1/10/19,115146,TESLA,public
+ELEC,Icon Parking - Tesla Destination,51 W 22nd St,New York,NY,10010,1,Public,Tesla Destination,40.742197,-73.992168,1/10/19,115147,TESLA,public
+ELEC,Icon Parking - Tesla Destination,515 E 72nd St,New York,NY,10021,1,Public,Tesla Destination,40.766857,-73.952647,1/10/19,115148,TESLA,public
+ELEC,Icon Parking - Tesla Destination,524 E 73rd St,New York,NY,10021,1,Public,Tesla Destination,40.766741,-73.95193,1/10/19,115149,TESLA,public
+ELEC,GGMC Parking - Tesla Destination,53 E 76th St,New York,NY,10021,1,Public,Tesla Destination,40.774265,-73.96278,1/10/19,115150,TESLA,public
+ELEC,iPark - Tesla Destination,530 E 80th St,New York,NY,10075,1,Public,Tesla Destination,40.771136,-73.948252,1/10/19,115151,TESLA,public
+ELEC,MPG - 530 West 30th - Tesla Destination,530 W 30th,New York,NY,10001,1,Public,Tesla Destination,40.752558,-74.002736,1/10/19,115152,TESLA,public
+ELEC,Icon Parking - Tesla Destination,536 E 88th St,New York,NY,10128,1,Public,Tesla Destination,40.776302,-73.944521,1/10/19,115153,TESLA,public
+ELEC,Icon Parking - Tesla Destination,54 Murray St,New York,NY,10007,1,Public,Tesla Destination,40.714121,-74.009808,1/10/19,115154,TESLA,public
+ELEC,Standard Parking - Tesla Destination,54 W 28th St,New York,NY,10001,1,Public - Call ahead,Tesla Destination,40.745449,-73.989622,1/10/19,115155,TESLA,public
+ELEC,Loews - Regency New York - Tesla Destination,540 Park Ave,New York,NY,10065,1,Public,Tesla Destination,40.764608,-73.969355,1/10/19,115156,TESLA,public
+ELEC,Manhattan Parking 110 - Tesla Destination,543 W 110th St,New York,NY,10025,1,Public,Tesla Destination,40.804167,-73.965894,1/10/19,115157,TESLA,public
+ELEC,iPark - Tesla Destination,549 W 23rd St,New York,NY,10011,1,Public,Tesla Destination,40.748931,-74.006078,1/10/19,115158,TESLA,public
+ELEC,Icon Parking - Tesla Destination,55 W 14th St,New York,NY,10011,1,Public,Tesla Destination,40.737266,-73.99611,1/10/19,115159,TESLA,public
+ELEC,GGMC Parking - Tesla Destination,550 W 25th St,New York,NY,10001,1,Public,Tesla Destination,40.749666,-74.005485,1/10/19,115160,TESLA,public
+ELEC,iPark - Tesla Destination,552 W 30th St,New York,NY,10001,1,Public,Tesla Destination,40.752693,-74.002954,1/10/19,115161,TESLA,public
+ELEC,Icon Parking - Tesla Destination,560 3rd Ave,New York,NY,10016,1,Public,Tesla Destination,40.748094,-73.976864,1/10/19,115162,TESLA,public
+ELEC,Rapidpark - Tesla Destination,575 1st Ave,New York,NY,10016,1,Public,Tesla Destination,40.742761,-73.974554,1/10/19,115163,TESLA,public
+ELEC,Parkit - 575 Washington - Tesla Destination,575 Washington St,New York,NY,10014,1,Public,Tesla Destination,40.729474,-74.008847,1/10/19,115164,TESLA,public
+ELEC,Standard Parking - Tesla Destination,58 W 58th St,New York,NY,10019,1,Public,Tesla Destination,40.764459,-73.976349,1/10/19,115165,TESLA,public
+ELEC,iPark - Tesla Destination,59-63 Allen St,New York,NY,10002,1,Public,Tesla Destination,40.717124,-73.99201,1/10/19,115166,TESLA,public
+ELEC,Champion Parking - 90 - Tesla Destination,60 E 90th St,New York,NY,10028,1,Public,Tesla Destination,40.783085,-73.956304,1/10/19,115167,TESLA,public
+ELEC,Champion Parking - 60 East End Avenue - Tesla Destination,60 E End Ave,New York,NY,10028,1,Public,Tesla Destination,40.772794,-73.946969,1/10/19,115168,TESLA,public
+ELEC,Rapidpark - Tesla Destination,600 Columbus Ave,New York,NY,10128,1,Public,Tesla Destination,40.788716,-73.970934,1/10/19,115169,TESLA,public
+ELEC,Quik Park - Tesla Destination,600 W 42nd St,New York,NY,10036,1,Public,Tesla Destination,40.760809,-73.998773,1/10/19,115170,TESLA,public
+ELEC,MTP Parking - The Helena - Tesla Destination,601 W 57th St,New York,NY,10019,1,Public,Tesla Destination,40.770771,-73.991789,1/10/19,115171,TESLA,public
+ELEC,Champion Parking - 60 E 8th - Tesla Destination,60-68 E 8th St,New York,NY,10003,1,Public,Tesla Destination,40.730501,-73.993075,1/10/19,115172,TESLA,public
+ELEC,iPark - Tesla Destination,61 Jane St,New York,NY,10014,1,Public,Tesla Destination,40.738222,-74.005908,1/10/19,115173,TESLA,public
+ELEC,Parkit - 10 Wooster St - Tesla Destination,6-10 Wooster St,New York,NY,10013,1,Public,Tesla Destination,40.721131,-74.00357,1/10/19,115174,TESLA,public
+ELEC,imPark - 611 E 83rd Street - Tesla Destination,611 E 83rd St,New York,NY,10028,1,Public,Tesla Destination,40.772931,-73.945552,1/10/19,115175,TESLA,public
+ELEC,MTP Parking - 625 W 57th Street - Tesla Destination,625 W 57th St,New York,NY,10019,1,Public,Tesla Destination,40.771431,-73.992964,1/10/19,115176,TESLA,public
+ELEC,Icon Parking - Tesla Destination,63 E 9th St,New York,NY,10003,1,Public - Call ahead,Tesla Destination,40.731544,-73.992045,1/10/19,115177,TESLA,public
+ELEC,Parkright - Tesla Destination,670 W 43rd St,New York,NY,10036,1,Public,Tesla Destination,40.762316,-74.000256,1/10/19,115178,TESLA,public
+ELEC,Quik Park - Tesla Destination,70 Little West St,New York,NY,10280,1,Public,Tesla Destination,40.706976,-74.016962,1/10/19,115179,TESLA,public
+ELEC,Rapidpark - Tesla Destination,70 Riverside Dr,New York,NY,10024,1,Public,Tesla Destination,40.785014,-73.982037,1/10/19,115180,TESLA,public
+ELEC,The Peninsula Hotel New York - Tesla Destination,700 5th Ave,New York,NY,10019,1,Public,Tesla Destination,40.76178,-73.975057,1/10/19,115181,TESLA,public
+ELEC,Parkright - Tesla Destination,738 Greenwich St,New York,NY,10014,1,Public,Tesla Destination,40.735165,-74.007231,1/10/19,115182,TESLA,public
+ELEC,Andaz Wall Street - Tesla Destination,75 Wall St,New York,NY,10005,1,Public,Tesla Destination,40.705042,-74.008118,1/10/19,115183,TESLA,public
+ELEC,iPark - Tesla Destination,75 Wall St,New York,NY,10005,1,Public,Tesla Destination,40.705042,-74.008118,1/10/19,115184,TESLA,public
+ELEC,iPark - Tesla Destination,80 E 67th St,New York,NY,10065,1,Public,Tesla Destination,40.767935,-73.96671,1/10/19,115185,TESLA,public
+ELEC,Icon Parking - Tesla Destination,80 Gold St,New York,NY,10038,1,Public,Tesla Destination,40.709609,-74.004401,1/10/19,115186,TESLA,public
+ELEC,Icon Parking - 80 Riverside Blvd - Tesla Destination,80 Riverside Blvd,New York,NY,10069,1,Public,Tesla Destination,40.775054,-73.989946,1/10/19,115187,TESLA,public
+ELEC,Quik Park - Tesla Destination,808 Columbus Ave,New York,NY,10025,1,Public,Tesla Destination,40.795214,-73.966003,1/10/19,115188,TESLA,public
+ELEC,The Standard - High Line - Tesla Destination,848 Washington St,New York,NY,10014,1,Public,Tesla Destination,40.740828,-74.008074,1/10/19,115189,TESLA,public
+ELEC,Chelnik Parking - 880 5th - Tesla Destination,880 5th Ave,New York,NY,10021,1,Public,Tesla Destination,40.770385,-73.968296,1/10/19,115190,TESLA,public
+ELEC,Icon Parking - 9-11 Park Ave - Tesla Destination,9 - 11 Park Ave,New York,NY,10016,1,Public,Tesla Destination,40.747207,-73.980743,1/10/19,115191,TESLA,public
+ELEC,Rapidpark - Tesla Destination,9 W 100th St,New York,NY,10024,1,Public,Tesla Destination,40.794681,-73.963228,1/10/19,115192,TESLA,public
+ELEC,Quik Park - Tesla Destination,9 W 57th St,New York,NY,10019,1,Public,Tesla Destination,40.763888,-73.97499,1/10/19,115193,TESLA,public
+ELEC,GGMC Parking - Tesla Destination,91 E 9th St,New York,NY,10003,1,Public,Tesla Destination,40.73099,-73.990963,1/10/19,115194,TESLA,public
+ELEC,Rapidpark - Tesla Destination,920 Park Ave,New York,NY,10025,1,Public - Call ahead,Tesla Destination,40.776673,-73.960253,1/10/19,115195,TESLA,public
+ELEC,MPG - 923 5th Ave - Tesla Destination,923 5th Ave,New York,NY,10021,1,Public,Tesla Destination,40.773173,-73.966026,1/10/19,115196,TESLA,public
+ELEC,GGMC Parking - Tesla Destination,99 Battery Pl,New York,NY,10280,1,Public,Tesla Destination,40.707624,-74.016593,1/10/19,115197,TESLA,public
+ELEC,Icon Parking - Tesla Destination,990 Avenue of the Americas,New York,NY,10018,1,Public,Tesla Destination,40.751363,-73.986389,1/10/19,115198,TESLA,public
+ELEC,Red Coach Inn - Tesla Destination,2 Buffalo Ave,Niagara Falls,NY,14303,1,Public,Tesla Destination,43.084562,-79.063781,1/10/19,115199,TESLA,public
+ELEC,The Alpine Lodge - Tesla Destination,264 Main St,North Creek,NY,12853,1,Public,Tesla Destination,43.700216,-73.986141,1/10/19,115200,TESLA,public
+ELEC,Great Pines - Tesla Destination,4920 State Route 28,Old Forge,NY,13420,1,Public - Call ahead,Tesla Destination,43.758812,-74.859153,1/10/19,115201,TESLA,public
+ELEC,Holiday Inn Express - Olean - Tesla Destination,101 Main St,Olean,NY,14760,1,Public - Call ahead,Tesla Destination,42.087509,-78.42909,1/10/19,115202,TESLA,public
+ELEC,Best Western Plus - University Inn - Tesla Destination,3051 W State St,Olean,NY,14760,1,Public,Tesla Destination,42.07645,-78.46697,1/10/19,115203,TESLA,public
+ELEC,Fairfield Inn & Suites - Olean - Tesla Destination,3270 W State St,Olean,NY,14760,1,Public,Tesla Destination,42.080327,-78.47779,1/10/19,115204,TESLA,public
+ELEC,Hampton Inn - Tesla Destination,225 River St,Oneonta,NY,13820,1,Public,Tesla Destination,42.444012,-75.086447,1/10/19,115205,TESLA,public
+ELEC,Home2 Suites - Oswego - Tesla Destination,252 NY-104,Oswego,NY,13126,1,Public,Tesla Destination,43.453661,-76.527521,1/10/19,115206,TESLA,public
+ELEC,Hampton Inn - Tesla Destination,248 Town Center Rd,Painted Post,NY,14870,1,Public,Tesla Destination,42.149988,-77.108033,1/10/19,115207,TESLA,public
+ELEC,Holiday Inn Express - Painted Post - Tesla Destination,9775 Victory Hwy,Painted Post,NY,14870,1,Public,Tesla Destination,42.171472,-77.107184,1/10/19,115208,TESLA,public
+ELEC,Pindar Vineyards - Tesla Destination,37645 NY-25,Peconic,NY,11958,1,Public,Tesla Destination,41.034704,-72.46969,1/10/19,115209,TESLA,public
+ELEC,La Belle Vie Bed & Breakfast - Tesla Destination,208 Main St,Penn Yan,NY,14527,1,Public,Tesla Destination,42.663782,-77.056454,1/10/19,115210,TESLA,public
+ELEC,Best Western Plus - Tesla Destination,446 Route #3,Plattsburgh,NY,12901,1,Public,Tesla Destination,44.69659,-73.49153,1/10/19,115211,TESLA,public
+ELEC,Cedar Lakes Estate - Tesla Destination,1 Team USA Way,Port Jervis,NY,12771,1,Public,Tesla Destination,41.346021,-74.638058,1/10/19,115212,TESLA,public
+ELEC,Hampton Inn - Tesla Destination,169 Market St,Potsdam,NY,13676,1,Public,Tesla Destination,44.682982,-74.987514,1/10/19,115213,TESLA,public
+ELEC,19-80 Steinway - Tesla Destination,1980 Steinway St,Queens,NY,11105,1,Public,Tesla Destination,40.776957,-73.90115,1/10/19,115214,TESLA,public
+ELEC,2702 Queens Plaza South - Tesla Destination,2702 Queens Plaza S,Queens,NY,11101,1,Public,Tesla Destination,40.749893,-73.939758,1/10/19,115215,TESLA,public
+ELEC,Home2 Suites - Queensbury - Tesla Destination,524 Aviation Rd,Queensbury,NY,12804,1,Public,Tesla Destination,43.32838,-73.681677,1/10/19,115216,TESLA,public
+ELEC,Smoky Rock BBQ - Tesla Destination,6367 Mill St,Rhinebeck,NY,12572,1,Public,Tesla Destination,41.925496,-73.913269,1/10/19,115217,TESLA,public
+ELEC,Jedediah Hawkins Inn - Tesla Destination,400 S Jamesport Ave,Riverhead,NY,11901,1,Public,Tesla Destination,40.947089,-72.579622,1/10/19,115218,TESLA,public
+ELEC,Hyatt Place - Long Island - Tesla Destination,451 E Main St,Riverhead,NY,11901,1,Public - Call ahead,Tesla Destination,40.918664,-72.656139,1/10/19,115219,TESLA,public
+ELEC,Fairfield Inn - Rochester Airport - Tesla Destination,1200 Brooks Ave,Rochester,NY,14623,1,Public,Tesla Destination,43.12756,-77.665112,1/10/19,115220,TESLA,public
+ELEC,Country Inn & Suites - Rochester - Tesla Destination,2835 Monroe Ave,Rochester,NY,14618,1,Public,Tesla Destination,43.111488,-77.548676,1/10/19,115221,TESLA,public
+ELEC,Fairfield Inn & Suites - Rochester West - Tesla Destination,400 Paddy Creek Cir,Rochester,NY,14623,1,Public,Tesla Destination,43.204373,-77.673253,1/10/19,115222,TESLA,public
+ELEC,Fairfield Inn - Rochester South - Tesla Destination,4695 W Henrietta Rd,Rochester,NY,14623,1,Public,Tesla Destination,43.059322,-77.651957,1/10/19,115223,TESLA,public
+ELEC,Ellwanger Estate Bed & Breakfast - Tesla Destination,625 Mt Hope Ave,Rochester,NY,14620,1,Public,Tesla Destination,43.13755,-77.615609,1/10/19,115224,TESLA,public
+ELEC,Country Inn & Suites - Rochester Airport - Tesla Destination,797 E Henrietta Rd,Rochester,NY,14623,1,Public,Tesla Destination,43.10442,-77.616685,1/10/19,115225,TESLA,public
+ELEC,Holiday Inn Hotel & Suites - Rochester - Tesla Destination,800 Jefferson Rd,Rochester,NY,14623,1,Public,Tesla Destination,43.087417,-77.616929,1/10/19,115226,TESLA,public
+ELEC,Best Western - Rochester Marketplace Inn - Tesla Destination,940 Jefferson Rd,Rochester,NY,14623,1,Public,Tesla Destination,43.087708,-77.613092,1/10/19,115227,TESLA,public
+ELEC,Home2 Suites - Rochester Henrietta - Tesla Destination,999 Jefferson Rd,Rochester,NY,14623,1,Public,Tesla Destination,43.086754,-77.610599,1/10/19,115228,TESLA,public
+ELEC,Hampton Inn - Tesla Destination,1352 Floyd Ave,Rome,NY,13441,1,Public,Tesla Destination,43.222098,-75.421363,1/10/19,115229,TESLA,public
+ELEC,Wingate by Wyndham - Rome - Tesla Destination,90 Dart Cir,Rome,NY,13441,1,Public,Tesla Destination,43.209127,-75.412926,1/10/19,115230,TESLA,public
+ELEC,Serendipity Labs Inc - Tesla Destination,80 Theodore Fremd Ave,Rye,NY,10580,1,Public - Call ahead,Tesla Destination,40.983031,-73.687987,1/10/19,115231,TESLA,public
+ELEC,Baron's Cove - Tesla Destination,31 W Water St,Sag Harbor,NY,11963,1,Public,Tesla Destination,41.000092,-72.30043,1/10/19,115232,TESLA,public
+ELEC,The Point Resort - Tesla Destination,222 Beaverwood Rd,Saranac Lake,NY,12983,1,Public,Tesla Destination,44.303141,-74.330399,1/10/19,115233,TESLA,public
+ELEC,Saratoga Auto Museum - Tesla Destination,110 Avenue of the Pines,Saratoga Springs,NY,12866,1,Public,Tesla Destination,43.057371,-73.804293,1/10/19,115234,TESLA,public
+ELEC,Gideon Putnam Resort and Spa - Tesla Destination,24 Gideon Putnam Rd,Saratoga Springs,NY,12866,1,Public,Tesla Destination,43.057104,-73.79831,1/10/19,115235,TESLA,public
+ELEC,Embassy Suites - Saratoga Springs - Tesla Destination,86 Congress St,Saratoga Springs,NY,12866,1,Public,Tesla Destination,43.07885,-73.789832,1/10/19,115236,TESLA,public
+ELEC,Sunset Beach Hotel - Tesla Destination,35 Shore Rd,Shelter Island,NY,11964,1,Public,Tesla Destination,41.073469,-72.364514,1/10/19,115237,TESLA,public
+ELEC,Mirbeau Inn & Spa - Skaneateles - Tesla Destination,851 Genesee St Rd,Skaneateles,NY,13152,1,Public,Tesla Destination,42.944626,-76.443793,1/10/19,115238,TESLA,public
+ELEC,Sebonack Golf Club - Tesla Destination,405 Sebonac Rd,Southampton,NY,11968,1,Public,Tesla Destination,40.902715,-72.450378,1/10/19,115239,TESLA,public
+ELEC,Angelina's Ristorante - Tesla Destination,399 Ellis St,Staten Island,NY,10307,1,Public,Tesla Destination,40.51337,-74.25137,1/10/19,115240,TESLA,public
+ELEC,Crowne Plaza - Suffern - Tesla Destination,3 Executive Blvd,Suffern,NY,10901,1,Public,Tesla Destination,41.118791,-74.113794,1/10/19,115241,TESLA,public
+ELEC,Tarrytown House Estate on the Hudson - Tesla Destination,49 E Sunnyside Ln,Tarrytown,NY,10591,1,Public - Call ahead,Tesla Destination,41.048273,-73.85744,1/10/19,115242,TESLA,public
+ELEC,AAA - Troy - Tesla Destination,514 Congress Way,Troy,NY,12180,1,Public,Tesla Destination,42.721994,-73.678944,1/10/19,115243,TESLA,public
+ELEC,Faust Motel - Tesla Destination,151 Main St,Tupper Lake,NY,12986,1,Public,Tesla Destination,44.243737,-74.487414,1/10/19,115244,TESLA,public
+ELEC,White Fences Inn Water Mill - Tesla Destination,371 Montauk Hwy,Water Mill,NY,11976,1,Public,Tesla Destination,40.905728,-72.362692,1/10/19,115245,TESLA,public
+ELEC,Hilton Garden Inn - Watertown - Tesla Destination,1290 Arsenal St,Watertown,NY,13601,1,Public,Tesla Destination,43.976367,-75.946435,1/10/19,115246,TESLA,public
+ELEC,Dune Deck - Tesla Destination,379 Dune Rd,Westhampton Beach,NY,11978,1,Public,Tesla Destination,40.789543,-72.662605,1/10/19,115247,TESLA,public
+ELEC,Continuum - Tesla Destination,55 Bank St,White Plains,NY,10606,1,Public,Tesla Destination,41.029402,-73.774815,1/10/19,115248,TESLA,public
+ELEC,Towne Place New Hartford - Tesla Destination,4760 Middle Settlement Rd,Whitesboro,NY,13492,1,Public,Tesla Destination,43.095308,-75.318661,1/10/19,115249,TESLA,public
+ELEC,Winwood Inn - Windham Mountain Resort - Tesla Destination,5220 State Rte 23,Windham,NY,12496,1,Public - Call ahead,Tesla Destination,42.310435,-74.241272,1/10/19,115250,TESLA,public
+ELEC,PV Parking 40-07 73rd St - Tesla Destination,40-07 73rd St,Woodside,NY,11377,1,Public,Tesla Destination,40.746539,-73.892004,1/10/19,115251,TESLA,public
+ELEC,Hampton Inn - Tesla Destination,555 Tuckahoe Rd,Yonkers,NY,10710,1,Public,Tesla Destination,40.954894,-73.849732,1/10/19,115252,TESLA,public
+ELEC,Village of Webster,28 W Main St,Webster,NY,14580,1,Public,,43.211389,-77.431667,2/6/19,116756,J1772,public
+ELEC,Brooklyn Museum - Tesla Supercharger,857 Washington Ave,Brooklyn,NY,11238,1,Public,Tesla,40.669935,-73.9629,1/10/19,116806,TESLA,public
+ELEC,Islandia - Tesla Supercharger,1750 Veterans Hwy,Islandia,NY,11598,1,Public,Tesla,40.804844,-73.180113,1/10/19,116807,TESLA,public
+ELEC,59 Allen Street - Tesla Supercharger,59 Allen St,New York,NY,10002,1,Public,Tesla,40.717119,-73.99168,1/10/19,116808,TESLA,public
+ELEC,Queens Center - Tesla Supercharger,90-15 Queens Blvd,Queens,NY,11373,1,Public,Tesla,40.735238,-73.870423,1/10/19,116809,TESLA,public
+ELEC,TOWN OF BABYLON,N Jefferson Ave,Lindenhurst,NY,11757,1,Public,ChargePoint Network,40.704729,-73.375555,3/8/19,116855,J1772,public
+ELEC,NYC FLEET,15 MetroTech Center,Brooklyn,NY,11201,1,Public,ChargePoint Network,40.6942623,-73.9844768,3/8/19,116915,J1772,public
+ELEC,Village of Bergen - Municipal Parking,18 Buffalo St,Bergen,NY,14416,1,Public,,43.085146,-77.943562,2/6/19,116923,J1772,public
+ELEC,Hickory Park,51 S Lake Ave,Bergen,NY,14416,1,Public,,43.080755,-77.943372,2/6/19,116924,J1772,public
+ELEC,BEDFORD_EV,307 Bedford Rd,Bedford Hills,NY,10507,1,Public,ChargePoint Network,41.2397246,-73.698992,3/8/19,116979,J1772,public
+ELEC,IBEW139 EDUCATI,415 W 2nd St,Elmira,NY,14901,1,Public,ChargePoint Network,42.0893253,-76.8160733,3/8/19,117027,J1772,public
+ELEC,DORSCHEL VW,3817 W Henrietta Rd,Rochester,NY,14623,1,Public,ChargePoint Network,43.0777176,-77.6441716,3/8/19,117159,J1772,public
+ELEC,Brooklyn Renaissance Plaza - Muss Properties,335 Adams St,Brooklyn,NY,11201,1,Private,,40.693507,-73.988425,3/7/19,117272,J1772,private
+ELEC,National Grid - Melville,25 Hub Dr,Melville,NY,11747,1,Private,,40.75931,-73.435905,3/7/19,117273,J1772,private
+ELEC,National Grid - Hicksville,175 E Old Country Rd,Hicksville,NY,11801,1,Private,,40.766992,-73.509655,,117314,J1772,private
+ELEC,Village of Kinderhook,3 Hudson St,Kinderhook,NY,12106,1,Public,,42.395119,-73.696947,2/6/19,117325,J1772,public
+ELEC,EVCS@MUNI LOT,7 Hudson St,Kinderhook,NY,12106,1,Public,ChargePoint Network,42.3948097,-73.697553,3/8/19,117524,J1772,public
+ELEC,Icon Parking - 111 Eighth Avenue,111 Eighth Avenue,New York,NY,10011,1,Public,Blink Network,40.741421,-74.003186,3/8/19,117534,J1772,public
+ELEC,Finger Lakes Welcome Center,35 Lake Front Dr,Geneva,NY,14456,1,Public,,42.870548,-76.977277,3/7/19,117604,J1772,public
+ELEC,TOK EVSE,3211 Church St,Valatie,NY,12184,1,Public,ChargePoint Network,42.4155313,-73.6768548,3/8/19,117622,J1772,public
+ELEC,ATLANTIC HONDA,1375 Sunrise Hwy,Bay Shore,NY,11706,1,Public,ChargePoint Network,40.7346344,-73.2571828,3/8/19,117685,J1772,public
+ELEC,Seneca Allegany Resort & Casino - Tesla Supercharger,777 Seneca Allegany Blvd,Salamanca,NY,14779,1,Public - Credit card at all times,Tesla,42.153351,-78.747816,3/7/19,117729,TESLA,public
+ELEC,Maguire Chevrolet,35 Cinema Dr,Ithaca,NY,14850,1,Public - Call ahead,,42.480929,-76.477605,3/7/19,117739,J1772,public
+ELEC,Elm Chevrolet,301 E Church St,Elmira,NY,14901,1,Public - Call ahead,,42.091802,-76.804195,3/7/19,117740,J1772COMBO,public
+ELEC,DeNooyer Chevrolet,127 Wolf Rd,Albany,NY,12205,1,Public - Call ahead,,42.717867,-73.806317,3/7/19,117741,J1772COMBO,public
+ELEC,Depaula Chevrolet,785 Central Ave,Albany,NY,12206,1,Public - Call ahead,,42.679143,-73.788476,3/7/19,117742,J1772COMBO,public
+ELEC,Capital Region Welcome Center,I-87 N,Hannacroix,NY,12087,1,Public,,42.428584,-73.802626,3/7/19,117743,CHADEMO,public
+ELEC,DeNooyer Chevrolet,127 Wolf Rd,Albany,NY,12205,1,Private,,42.717867,-73.806317,3/7/19,117744,J1772,private
+ELEC,TIBA,43373/521 Collins Landing Rd,Alexandria Bay,NY,13607,1,Public,ChargePoint Network,44.2948201,-75.9758666,3/8/19,117761,CHADEMO,public
+ELEC,SUNY NEW PALTZ,98 S Manheim Blvd,New Paltz,NY,12561,1,Public,ChargePoint Network,41.7389174,-74.0801228,3/8/19,117762,J1772,public
+ELEC,JLR SOUTHAMPTON,355 NY-27A,Southampton,NY,11968,1,Public,ChargePoint Network,40.8927853,-72.3795625,3/8/19,117781,J1772COMBO,public
+ELEC,MASTERCARD INT,2000 Purchase St,Harrison,NY,10577,1,Public,ChargePoint Network,41.024512,-73.711257,3/8/19,118044,J1772,public
+ELEC,WATERCLUB2582,36 Pine Street,Poughkeepsie,NY,12601,1,Public,ChargePoint Network,41.6988468,-73.9375052,3/8/19,118049,J1772,public
+ELEC,Greenlots - 92229,1001 Post Road,Scarsdale,NY,10583,1,Public,Greenlots,40.98776627,-73.80925751,3/7/19,118058,J1772,public
+ELEC,Greenlots - 92230,14 Freightway,Scarsdale,NY,10583,1,Public,Greenlots,40.98776627,-73.80925751,3/7/19,118059,J1772,public
+ELEC,Greenlots - 52427,55 W 48th St,New York,NY,10036,1,Public,Greenlots,40.759687,-73.983282,3/7/19,118063,J1772,public
+ELEC,CDPHP - Patroon Creek Blvd,500 Patroon Creek Blvd,Albany,NY,12206,1,Public - Card key at all times,SemaCharge Network,42.6848335,-73.8049654,3/8/19,118121,J1772,public
+ELEC,BottleBuys,350 Glen Head Road,Glen Head,NY,11545,1,Public - Card key at all times,SemaCharge Network,40.8375748,-73.6143791,3/8/19,118133,J1772,public
+ELEC,Peninsula New York,700 5th Avenue,New York,NY,10019,1,Public - Card key at all times,SemaCharge Network,40.7616221,-73.9754656,3/8/19,118263,J1772,public
+ELEC,WCS,55 South St,Mount Vernon,NY,10550,1,Public,ChargePoint Network,40.9075399,-73.8490789,3/8/19,118338,J1772,public
+ELEC,JLR ROC SHOP1,700 Panorama Trail S,Rochester,NY,14625,1,Public,ChargePoint Network,43.1293916,-77.494026,3/8/19,118340,J1772COMBO,public
+ELEC,GMC - BEEKMAN 2,420 E 51st St,New York,NY,10022,1,Public,Blink Network,40.754022,-73.965166,3/8/19,118347,J1772,public
+ELEC,GMC - BEEKMAN 1,420 E 51st St,New York,NY,10022,1,Public,Blink Network,40.754022,-73.965166,3/8/19,118348,J1772,public
+ELEC,BURNS MGT,102 Bleeker Rd,Guilderland,NY,12084,1,Public,ChargePoint Network,42.691644,-73.888216,3/8/19,118505,J1772,public
+ELEC,BURNS MGT,6211 Johnston Rd,Albany,NY,12203,1,Public,ChargePoint Network,42.6847599,-73.8682505,3/8/19,118506,J1772,public
+ELEC,BURNS MGT,21 Seward St,Saratoga Springs,NY,12866,1,Public,ChargePoint Network,43.08762,-73.795567,3/8/19,118508,J1772,public
+ELEC,BURNS MGT,19 Seward St,Saratoga Springs,NY,12866,1,Public,ChargePoint Network,43.087178,-73.795553,3/8/19,118509,J1772,public
+ELEC,BURNS MGT,6213 Johnston Rd,Albany,NY,12203,1,Public,ChargePoint Network,42.6847603,-73.868266,3/8/19,118705,J1772,public
+ELEC,BURNS MGT,224 Heritage Rd,Guilderland,NY,12084,1,Public,ChargePoint Network,42.6924764,-73.885472,3/8/19,118706,J1772,public
+ELEC,Roscoe Diner - Tesla Supercharger,1908 Old Route 17,Roscoe,NY,12776,1,Public,Tesla,41.930952,-74.909374,3/7/19,118946,TESLA,public
+ELEC,Walmart Supercenter,2500 Walden Ave,Cheektowaga,NY,14225,1,Public - Credit card at all times,Electrify America,42.910451,-78.74354,3/7/19,118961,CHADEMO,public
+ELEC,ROSENBLUM300,300 Great Oaks Blvd,Albany,NY,12203,1,Public,ChargePoint Network,42.6809837,-73.8467593,3/8/19,118995,J1772,public
+ELEC,BREWSTER HONDA,2 Allview Ave,Brewster,NY,10509,1,Public,ChargePoint Network,41.396351,-73.603687,3/8/19,118998,J1772,public
+ELEC,PANYNJ,Unnamed Road,East Elmhurst,NY,11371,1,Public,ChargePoint Network,40.7761103,-73.8842222,3/8/19,119000,CHADEMO,public
+ELEC,BURNS MGT,6203 Johnston Rd,Albany,NY,12203,1,Public,ChargePoint Network,42.685351,-73.869725,3/8/19,119018,J1772,public
+ELEC,NEW,1055 E Jericho Turnpike,Huntington,NY,11743,1,Public,ChargePoint Network,40.8355373,-73.3698028,3/8/19,119040,J1772,public
